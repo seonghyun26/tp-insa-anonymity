@@ -15,7 +15,7 @@ setup(
     long_description_content_type='text/markdown',
     author='abetraou',
     packages=['python_db_lecture'],
-    install_requires=['numpy==1.20.2', 'pandas==1.2.4'],
+    install_requires=['numpy==1.20.2', 'pandas==1.2.4', 'requests', 'openpyxl'],
     extras_require={
         "notebook": ['jupyter', 'matplotlib', 'seaborn']
     }

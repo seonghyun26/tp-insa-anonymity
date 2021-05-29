@@ -42,7 +42,7 @@ class MondrianAnonymizer:
         spans = {}
         for col in features:
             if col in categorical:
-                span = len(df[col][partition].unique())
+                span = df[col][partition].nunique()
             else:
                 span = df[col][partition].max() - df[col][partition].min()
             spans[col] = span
@@ -73,7 +73,7 @@ class MondrianAnonymizer:
         while partitions:
             partition = partitions.pop(0)
             spans = self._get_spans(df, features, categorical, partition)
-            for col, span in sorted(spans.items(), key=lambda x:-x[1]):
+            for col, span in sorted(spans.items(), reverse=True):
                 lp, rp = self._split(df, categorical, col, partition)
                 if not is_valid_func(lp) or not is_valid_func(rp):
                     continue
@@ -85,7 +85,7 @@ class MondrianAnonymizer:
 
 
 
-    def anonymize(self, df, features, categorical, sensitive):
+    def anonymize(self, df, features, categorical, additional_columns):
         '''
         '''
         finished_partitions = self._partition_dataset(df, features, categorical, self.is_valid_func)
@@ -98,4 +98,4 @@ class MondrianAnonymizer:
                 dfx[col] = aggfunc(dfx[col])
             res.append(dfx)
 
-        return pd.concat([pd.concat(res).sort_index(), df[sensitive]], axis=1)
+        return pd.concat([pd.concat(res).sort_index(), df[additional_columns]], axis=1)

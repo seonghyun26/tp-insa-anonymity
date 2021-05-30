@@ -85,7 +85,7 @@ class MondrianAnonymizer:
 
 
 
-    def anonymize(self, df, features, categorical, additional_columns):
+    def _anonymize(self, df, features, categorical, sensitive_columns):
         '''
         '''
         finished_partitions = self._partition_dataset(df, features, categorical, self.is_valid_func)
@@ -98,4 +98,15 @@ class MondrianAnonymizer:
                 dfx[col] = aggfunc(dfx[col])
             res.append(dfx)
 
-        return pd.concat([pd.concat(res).sort_index(), df[additional_columns]], axis=1)
+        return pd.concat([pd.concat(res).sort_index(), df[sensitive_columns]], axis=1)
+
+    def anonymize(self, df, features, categorical, sensitive_columns, no_agg_features=None):
+        '''
+        '''
+        no_agg_features = list if no_agg_features is None else no_agg_features
+        res = []
+        for _, dfx in df.groupby(no_agg_features):
+            dfy = self._anonymize(dfx, features, categorical, sensitive_columns)
+            dfy[no_agg_features] = dfx[no_agg_features]
+            res.append(dfy)
+        return pd.concat(res).loc[df.index]

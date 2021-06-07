@@ -18,5 +18,6 @@ setup(
     install_requires=['numpy==1.20.2', 'pandas==1.2.4', 'requests', 'openpyxl'],
     extras_require={
         "notebook": ['jupyter', 'matplotlib', 'seaborn']
+        "docs": ['sphinx', 'sphinx-rtd-theme', 'numpydoc']
     }
 )

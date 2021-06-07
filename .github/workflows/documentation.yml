@@ -21,8 +21,7 @@ jobs:
 
       - name: "Install Python dependencies"
         run: |
-          pip3 install setuptools sphinx sphinx-rtd-theme
-          pip3 install .
+          pip3 install .[docs]
 
       - name: "Build Sphinx Doc"
         run: |

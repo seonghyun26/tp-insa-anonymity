@@ -176,8 +176,23 @@
 <p>Anonymizer class based on the Mondrian top down algorithm.
 Supports K-anonymisation and L-diversity. The l parameter provided will behave so that all sensitive variables have
 at least l distinct values for each group.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><dl class="simple">
+<dt><strong>k: int</strong></dt><dd></dd>
+<dt><strong>Minimal partition size</strong></dt><dd></dd>
+<dt><strong>l: int</strong></dt><dd></dd>
+<dt><strong>Minimal number of distinct sensitive values for each partition. The expected behavior is that ALL sensitive variables have</strong></dt><dd></dd>
+<dt><strong>at least l distinct values for each group.</strong></dt><dd></dd>
+</dl>
+</dd>
+</dl>
 <p class="rubric">References</p>
 <p>..[1] K. LeFevre, D. J. DeWitt and R. Ramakrishnan, « Mondrian Multidimensional K-Anonymity, » 22nd International Conference on Data Engineering (ICDE’06), 2006, pp. 25-25, doi: 10.1109/ICDE.2006.101.</p>
+<p class="rubric">Examples</p>
+<div class="doctest highlight-default notranslate"><div class="highlight"><pre><span></span><span class="gp">&gt;&gt;&gt; </span><span class="n">anonymizer</span> <span class="o">=</span> <span class="n">MondrianAnonymizer</span><span class="p">()</span>
+</pre></div>
+</div>
 <dl class="field-list simple">
 <dt class="field-odd">Attributes</dt>
 <dd class="field-odd"><dl class="simple">

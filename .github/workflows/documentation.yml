@@ -1,0 +1,38 @@
+name: "Documentation"
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Checkout"
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      - name: "Set up Python"
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.8
+
+      - name: "Install Python dependencies"
+        run: |
+          pip3 install setuptools sphinx sphinx-rtd-theme
+          pip3 install .
+
+      - name: "Build Sphinx Doc"
+        run: |
+          make html
+
+      # 3. Déploiement sur les Github Pages
+
+      - name: "Deploy Github Pages"
+        uses: JamesIves/github-pages-deploy-action@3.7.1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages     # <- Branche sur laquelle seront commités les fichiers
+          FOLDER: build/html/  # <- Dossier contenant notre documentation générée

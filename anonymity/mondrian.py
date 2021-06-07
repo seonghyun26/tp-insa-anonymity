@@ -110,6 +110,8 @@ class MondrianAnonymizer:
     '''
     def __init__(self, k=4, l=None):
         '''
+        Init MondrianAnonymizer
+
         Parameters
         ----------
         k: int
@@ -229,7 +231,7 @@ class MondrianAnonymizer:
 
         This means:
 
-        {key: {'is_sensitive':, 'is_categorical':, 'prevent_generalization':}}
+        {<key>: {'is_sensitive': <bool>, 'is_categorical': <bool>, 'prevent_generalization': <bool>}}
 
         There are a few rules:
         * If a key is missing, it defaults to False.

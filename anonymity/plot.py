@@ -8,6 +8,7 @@ def plot_mondrian(df, df_k_anonym):
 
     This is SPECIFIC to the TP.
     It will display the age as x-axis and the postcode as y-axis.
+    
     Parameters
     ----------
     df: pd.DataFrame

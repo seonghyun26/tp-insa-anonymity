@@ -3,21 +3,29 @@
 
 import pandas as pd
 
-
 def is_k_anonymous(partition, k=4):
     '''
     '''
-    if len(partition) < k:
-        return False
-    return True
+    return len(partition) >= k
 
 
 class MondrianAnonymizer:
-    def __init__(self, is_valid_func, **kwargs):
+    def __init__(self, k=4, l=None):
         '''
         '''
-        self.is_valid_func = lambda x: is_valid_func(x, **kwargs)
+        self.k = k
+        self.l = l
 
+    @staticmethod
+    def is_valid(partition, df_sensitive, k, l):
+        '''
+        '''
+        if (df_sensitive is None) or l is None:
+            flag = True
+        else:
+            flag = (df_sensitive.loc[partition].apply(lambda x: x.nunique()) >= l).all()
+            
+        return is_k_anonymous(partition, k) and flag 
 
     @staticmethod
     def _agg_categorical_column(s):
@@ -65,7 +73,7 @@ class MondrianAnonymizer:
             return (dfl, dfr)
 
 
-    def _partition_dataset(self, df, features, categorical, is_valid_func):
+    def _partition_dataset(self, df, features, categorical, sensitive_columns):
         '''
         '''
         finished_partitions = []
@@ -75,7 +83,9 @@ class MondrianAnonymizer:
             spans = self._get_spans(df, features, categorical, partition)
             for col, span in sorted(spans.items(), reverse=True):
                 lp, rp = self._split(df, categorical, col, partition)
-                if not is_valid_func(lp) or not is_valid_func(rp):
+
+                if not self.is_valid(lp, df.loc[lp, sensitive_columns], self.k, self.l) or \
+                    not self.is_valid(rp, df.loc[rp, sensitive_columns], self.k, self.l):
                     continue
                 partitions.extend((lp, rp))
                 break
@@ -88,7 +98,7 @@ class MondrianAnonymizer:
     def _anonymize(self, df, features, categorical, sensitive_columns):
         '''
         '''
-        finished_partitions = self._partition_dataset(df, features, categorical, self.is_valid_func)
+        finished_partitions = self._partition_dataset(df, features, categorical, sensitive_columns)
 
         res = []
         for partition in finished_partitions:
@@ -109,4 +119,4 @@ class MondrianAnonymizer:
             dfy = self._anonymize(dfx, features, categorical, sensitive_columns)
             dfy[no_agg_features] = dfx[no_agg_features]
             res.append(dfy)
-        return pd.concat(res).loc[df.index]
+        return pd.concat(res).loc[df.index, features + no_agg_features + sensitive_columns]

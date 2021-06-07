@@ -26,7 +26,7 @@ jobs:
 
       - name: "Build Sphinx Doc"
         run: |
-	        cd docs && sphinx-apidoc -o source/ ../anonymity/ -f -d 10 && make html
+	  cd docs && sphinx-apidoc -o source/ ../anonymity/ -f -d 10 && make html
 
       # 3. Déploiement sur les Github Pages
 

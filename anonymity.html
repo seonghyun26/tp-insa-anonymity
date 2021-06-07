@@ -1,0 +1,341 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="fr" >
+<head>
+  <meta charset="utf-8" />
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  <title>anonymity package &mdash; Documentation anonymity 0.1</title>
+  
+
+  
+  <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+  <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+  <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+
+  
+  
+
+  
+  
+
+  
+
+  
+  <!--[if lt IE 9]>
+    <script src="_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+        <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script src="_static/translations.js"></script>
+    
+    <script type="text/javascript" src="_static/js/theme.js"></script>
+
+    
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Recherche" href="search.html" /> 
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+          
+
+          
+            <a href="index.html" class="icon icon-home"> anonymity
+          
+
+          
+          </a>
+
+          
+            
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Rechercher docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <!-- Local TOC -->
+              <div class="local-toc"><ul>
+<li><a class="reference internal" href="#">anonymity package</a><ul>
+<li><a class="reference internal" href="#submodules">Submodules</a></li>
+<li><a class="reference internal" href="#module-anonymity.mondrian">anonymity.mondrian module</a></li>
+<li><a class="reference internal" href="#anonymity-plot-module">anonymity.plot module</a></li>
+<li><a class="reference internal" href="#module-anonymity">Module contents</a></li>
+</ul>
+</li>
+</ul>
+</div>
+            
+          
+        </div>
+        
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">anonymity</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="index.html" class="icon icon-home"></a> &raquo;</li>
+        
+      <li>anonymity package</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+          
+            <a href="_sources/anonymity.rst.txt" rel="nofollow"> Afficher la source de la page</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="anonymity-package">
+<h1>anonymity package<a class="headerlink" href="#anonymity-package" title="Lien permanent vers ce titre">¶</a></h1>
+<div class="section" id="submodules">
+<h2>Submodules<a class="headerlink" href="#submodules" title="Lien permanent vers ce titre">¶</a></h2>
+</div>
+<div class="section" id="module-anonymity.mondrian">
+<span id="anonymity-mondrian-module"></span><h2>anonymity.mondrian module<a class="headerlink" href="#module-anonymity.mondrian" title="Lien permanent vers ce titre">¶</a></h2>
+<dl class="py class">
+<dt class="sig sig-object py" id="anonymity.mondrian.MondrianAnonymizer">
+<em class="property"><span class="pre">class</span> </em><span class="sig-prename descclassname"><span class="pre">anonymity.mondrian.</span></span><span class="sig-name descname"><span class="pre">MondrianAnonymizer</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">k</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">4</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">l</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">None</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#anonymity.mondrian.MondrianAnonymizer" title="Lien permanent vers cette définition">¶</a></dt>
+<dd><p>Bases : <code class="xref py py-class docutils literal notranslate"><span class="pre">object</span></code></p>
+<p>Anonymizer class based on the Mondrian top down algorithm.
+Supports K-anonymisation and L-diversity. The l parameter provided will behave so that all sensitive variables have
+at least l distinct values for each group.</p>
+<p class="rubric">References</p>
+<p>..[1] K. LeFevre, D. J. DeWitt and R. Ramakrishnan, « Mondrian Multidimensional K-Anonymity, » 22nd International Conference on Data Engineering (ICDE’06), 2006, pp. 25-25, doi: 10.1109/ICDE.2006.101.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Attributes</dt>
+<dd class="field-odd"><dl class="simple">
+<dt><strong>k: int</strong></dt><dd><p>Minimal partition size</p>
+</dd>
+<dt><strong>l: int</strong></dt><dd><p>Minimal number of distinct sensitive values for each partition. The expected behavior is that ALL sensitive variables have
+at least l distinct values for each group.</p>
+</dd>
+<dt><strong>df: pd.DataFrame</strong></dt><dd><p>The dataframe provided to the anonymize function. Before call this function, defaults to None</p>
+</dd>
+<dt><strong>features: list(str)</strong></dt><dd><p>list of all features subject to generalization</p>
+</dd>
+<dt><strong>no_agg_features: list</strong></dt><dd><p>list of all features which are not subject to generalization</p>
+</dd>
+<dt><strong>categorical: list</strong></dt><dd><p>subset of features which are categorical variables, this means the others will be considered as continuous (no ordinal and what not)</p>
+</dd>
+<dt><strong>sensitive: list</strong></dt><dd><p>list of all sensitive features (distinct from features and no_agg_features)</p>
+</dd>
+</dl>
+</dd>
+</dl>
+<p class="rubric">Methods</p>
+<table class="docutils align-default">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 75%" />
+</colgroup>
+<tbody>
+<tr class="row-odd"><td><p><strong>anonymize(df, d_metadata)</strong></p></td>
+<td><p>Anonymizes the provided dataframe according to the k and l parameters provided to the anonymizer.</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>get_individual(df_anonymized, s_individual)</strong></p></td>
+<td><p>Finds all the records in df_anonymized which corresponds to the provided individual (using only features and prevent_generalization features)</p></td>
+</tr>
+</tbody>
+</table>
+<dl class="py method">
+<dt class="sig sig-object py" id="anonymity.mondrian.MondrianAnonymizer.anonymize">
+<span class="sig-name descname"><span class="pre">anonymize</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">df</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">d_metadata</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#anonymity.mondrian.MondrianAnonymizer.anonymize" title="Lien permanent vers cette définition">¶</a></dt>
+<dd><p>Anonymizes the provided dataframe according to the k and l parameters provided to the anonymizer.
+The metadata dictionary is built so that for each variable there is a dictionary of binary descriptor.</p>
+<p>This means:</p>
+<p>{key: {“is_sensitive”:, “is_categorical”:, “prevent_generalization”:}}</p>
+<p>There are a few rules:
+* If a key is missing, it defaults to False.
+* A variable is either sensitive, prevented from generalizing or a feature.
+* If neither is_sensitive or prevent_generalization are True, it means the variable is a feature.
+* Only features may be categorical.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><dl class="simple">
+<dt><strong>df: pd.DataFrame</strong></dt><dd><p>input DataFrame</p>
+</dd>
+<dt><strong>d_metadata: dict</strong></dt><dd><p>describes the variables</p>
+</dd>
+</dl>
+</dd>
+<dt class="field-even">Returns</dt>
+<dd class="field-even"><dl class="simple">
+<dt>df_anonymize: pd.DataFrame</dt><dd><p>anonymized DataFrame</p>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="anonymity.mondrian.MondrianAnonymizer.get_individual">
+<span class="sig-name descname"><span class="pre">get_individual</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">df_anonymized</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">s_individual</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#anonymity.mondrian.MondrianAnonymizer.get_individual" title="Lien permanent vers cette définition">¶</a></dt>
+<dd><p>Finds all the records in df_anonymized which corresponds to the provided
+individual (using only features and prevent_generalization features).</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><dl class="simple">
+<dt><strong>df_anonymized: pd.DataFrame</strong></dt><dd><p>Anonymized DataFrame containing the searched individual and others</p>
+</dd>
+<dt><strong>s_individual: pd.Series</strong></dt><dd><p>Series describing the searched individual. It must contain at least the features and 
+prevent_generalization features used for the anonymization</p>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py method">
+<dt class="sig sig-object py" id="anonymity.mondrian.MondrianAnonymizer.is_valid">
+<em class="property"><span class="pre">static</span> </em><span class="sig-name descname"><span class="pre">is_valid</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">partition</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">df_sensitive</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">k</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">l</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#anonymity.mondrian.MondrianAnonymizer.is_valid" title="Lien permanent vers cette définition">¶</a></dt>
+<dd></dd></dl>
+
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="anonymity.mondrian.is_k_anonymous">
+<span class="sig-prename descclassname"><span class="pre">anonymity.mondrian.</span></span><span class="sig-name descname"><span class="pre">is_k_anonymous</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">partition</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">k</span></span><span class="o"><span class="pre">=</span></span><span class="default_value"><span class="pre">4</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#anonymity.mondrian.is_k_anonymous" title="Lien permanent vers cette définition">¶</a></dt>
+<dd><p>Returns True if the provided partition has a size greater or equal than k</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><dl class="simple">
+<dt><strong>partition: list (or Index)</strong></dt><dd><p>indexes of the dataframe which describe the current partition (anonymization process)</p>
+</dd>
+<dt><strong>k: int</strong></dt><dd><p>minimal size of the partition</p>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd></dl>
+
+</div>
+<div class="section" id="anonymity-plot-module">
+<h2>anonymity.plot module<a class="headerlink" href="#anonymity-plot-module" title="Lien permanent vers ce titre">¶</a></h2>
+</div>
+<div class="section" id="module-anonymity">
+<span id="module-contents"></span><h2>Module contents<a class="headerlink" href="#module-anonymity" title="Lien permanent vers ce titre">¶</a></h2>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &#169; Copyright 2021, abel-betraoui.
+
+    </p>
+  </div>
+    
+    
+    
+    Compilé avec <a href="https://www.sphinx-doc.org/">Sphinx</a> en utilisant un
+    
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">thème</a>
+    
+    fourni par <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+
+  
+  
+    
+   
+
+</body>
+</html>

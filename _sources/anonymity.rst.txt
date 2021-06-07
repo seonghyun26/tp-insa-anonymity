@@ -1,0 +1,29 @@
+anonymity package
+=================
+
+Submodules
+----------
+
+anonymity.mondrian module
+-------------------------
+
+.. automodule:: anonymity.mondrian
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+anonymity.plot module
+---------------------
+
+.. automodule:: anonymity.plot
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: anonymity
+   :members:
+   :undoc-members:
+   :show-inheritance:

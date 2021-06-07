@@ -220,7 +220,7 @@ at least l distinct values for each group.</p>
 <dd><p>Anonymizes the provided dataframe according to the k and l parameters provided to the anonymizer.
 The metadata dictionary is built so that for each variable there is a dictionary of binary descriptor.</p>
 <p>This means:</p>
-<p>{key: {“is_sensitive”:, “is_categorical”:, “prevent_generalization”:}}</p>
+<p>{&lt;key&gt;: {“is_sensitive”: &lt;bool&gt;, “is_categorical”: &lt;bool&gt;, “prevent_generalization”: &lt;bool&gt;}}</p>
 <p>There are a few rules:
 * If a key is missing, it defaults to False.
 * A variable is either sensitive, prevented from generalizing or a feature.
@@ -294,15 +294,15 @@ prevent_generalization features used for the anonymization</p>
 <dd><p>Plots the « mondrian » graph displaying for each individual
 its associated partition.</p>
 <p>This is SPECIFIC to the TP.
-It will display the age as x-axis and the postcode as y-axis.
-Parameters
-———-
-df: pd.DataFrame</p>
-<blockquote>
-<div><p>original DataFrame</p>
-</div></blockquote>
-<dl class="simple">
-<dt>df_anonym: pd.DataFrame</dt><dd><p>anonymized DataFrame</p>
+It will display the age as x-axis and the postcode as y-axis.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><dl class="simple">
+<dt><strong>df: pd.DataFrame</strong></dt><dd><p>original DataFrame</p>
+</dd>
+<dt><strong>df_anonym: pd.DataFrame</strong></dt><dd><p>anonymized DataFrame</p>
+</dd>
+</dl>
 </dd>
 </dl>
 </dd></dl>

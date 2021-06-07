@@ -75,11 +75,11 @@ class MondrianAnonymizer:
     Parameters
     ----------
     k: int
-    Minimal partition size
+        Minimal partition size
 
     l: int
-    Minimal number of distinct sensitive values for each partition. The expected behavior is that ALL sensitive variables have
-    at least l distinct values for each group.
+        Minimal number of distinct sensitive values for each partition. The expected behavior is that ALL sensitive variables have
+        at least l distinct values for each group.
 
     Examples
     --------

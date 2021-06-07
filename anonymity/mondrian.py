@@ -71,6 +71,21 @@ class MondrianAnonymizer:
     Supports K-anonymisation and L-diversity. The l parameter provided will behave so that all sensitive variables have
     at least l distinct values for each group.
 
+
+    Parameters
+    ----------
+    k: int
+    Minimal partition size
+
+    l: int
+    Minimal number of distinct sensitive values for each partition. The expected behavior is that ALL sensitive variables have
+    at least l distinct values for each group.
+
+    Examples
+    --------
+    >>> anonymizer = MondrianAnonymizer()
+
+
     Attributes
     ----------
     k: int
@@ -110,20 +125,7 @@ class MondrianAnonymizer:
     '''
     def __init__(self, k=4, l=None):
         '''
-        Init MondrianAnonymizer
 
-        Parameters
-        ----------
-        k: int
-        Minimal partition size
-
-        l: int
-        Minimal number of distinct sensitive values for each partition. The expected behavior is that ALL sensitive variables have
-        at least l distinct values for each group.
-
-        Examples
-        --------
-        >>> anonymizer = MondrianAnonymizer()
         '''
         self.k = k
         self.l = l

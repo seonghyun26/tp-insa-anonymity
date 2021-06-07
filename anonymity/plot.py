@@ -2,15 +2,30 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as patches
 
 def plot_mondrian(df, df_k_anonym):
+    '''
+    Plots the "mondrian" graph displaying for each individual
+    its associated partition.
+
+    This is SPECIFIC to the TP.
+    It will display the age as x-axis and the postcode as y-axis.
+    Parameters
+    ----------
+    df: pd.DataFrame
+        original DataFrame
+
+    df_anonym: pd.DataFrame
+        anonymized DataFrame
+    '''
+
     fig, ax = plt.subplots(figsize=(20, 10))
     df_plot = df\
                 .groupby(['age', 'code_postal'])\
                 .size()\
                 .to_frame()\
                 .reset_index()\
-                .rename(columns={0: 'n_patients'})
+                .rename(columns={0: 'n_individuals'})
 
-    sc = ax.scatter(x=df_plot.age, y=df_plot.code_postal, s=15, c=df_plot.n_patients, cmap='hot')
+    sc = ax.scatter(x=df_plot.age, y=df_plot.code_postal, s=15, c=df_plot.n_individuals, cmap='hot')
 
     for (age, code_postal), dfx in df_k_anonym.groupby(['age', 'code_postal']):
         if '-' in str(age):

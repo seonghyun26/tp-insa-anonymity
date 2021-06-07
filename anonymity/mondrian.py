@@ -109,6 +109,20 @@ class MondrianAnonymizer:
     ..[1] K. LeFevre, D. J. DeWitt and R. Ramakrishnan, "Mondrian Multidimensional K-Anonymity," 22nd International Conference on Data Engineering (ICDE'06), 2006, pp. 25-25, doi: 10.1109/ICDE.2006.101.
     '''
     def __init__(self, k=4, l=None):
+        '''
+        Parameters
+        ----------
+        k: int
+        Minimal partition size
+
+        l: int
+        Minimal number of distinct sensitive values for each partition. The expected behavior is that ALL sensitive variables have
+        at least l distinct values for each group.
+
+        Examples
+        --------
+        >>> anonymizer = MondrianAnonymizer()
+        '''
         self.k = k
         self.l = l
         self.df = None

@@ -267,10 +267,10 @@ individual (using only features and prevent_generalization features).</p>
 <dl class="field-list simple">
 <dt class="field-odd">Parameters</dt>
 <dd class="field-odd"><dl class="simple">
-<dt><strong>df_anonymized: pd.DataFrame</strong></dt><dd><p>Anonymized DataFrame containing the searched individual and others</p>
+<dt><strong>df_anonymized: pd.DataFrame</strong></dt><dd><p>Anonymized DataFrame (containing the searched individual and eventually others)</p>
 </dd>
-<dt><strong>s_individual: pd.Series</strong></dt><dd><p>Series describing the searched individual. It must contain at least the features and 
-prevent_generalization features used for the anonymization</p>
+<dt><strong>s_individual: pd.Series</strong></dt><dd><p>Series describing the searched individual. Search parameters which will be considered
+are the anonymisation features or the no_agg_features, others will be ignored.</p>
 </dd>
 </dl>
 </dd>
@@ -309,7 +309,8 @@ prevent_generalization features used for the anonymization</p>
 <dd><p>Plots the « mondrian » graph displaying for each individual
 its associated partition.</p>
 <p>This is SPECIFIC to the TP.
-It will display the age as x-axis and the postcode as y-axis.</p>
+It will display the age as x-axis and the postcode as y-axis.
+It REQUIRES that both age and code_postal are <strong>NON CATEGORICAL</strong>.</p>
 <dl class="field-list simple">
 <dt class="field-odd">Parameters</dt>
 <dd class="field-odd"><dl class="simple">

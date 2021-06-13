@@ -51,8 +51,7 @@ def _handle_metadata(d_metadata):
 
     for feature, d in d_metadata.items():
         d = defaultdict(bool, d)
-        assert d['is_sensitive'] + d['is_feature'] + d['prevent_generalization'] <= 1
-        assert d['is_categorical'] == d['is_feature']
+        assert d['is_sensitive'] + d['prevent_generalization'] <= 1
 
         if d['is_sensitive']:
             sensitive.append(feature)
@@ -275,23 +274,37 @@ class MondrianAnonymizer:
         Parameters
         ----------
         df_anonymized: pd.DataFrame
-            Anonymized DataFrame containing the searched individual and others
+            Anonymized DataFrame (containing the searched individual and eventually others)
 
         s_individual: pd.Series
-            Series describing the searched individual. It must contain at least the features and 
-            prevent_generalization features used for the anonymization
+            Series describing the searched individual. Search parameters which will be considered
+            are the anonymisation features or the no_agg_features, others will be ignored.
         '''
-        q = ' and '.join([f'{col} == {s_individual[col]}' for col in self.no_agg_features])
-        dfx = df_anonymized.query(q)
+        set_s_individual = set(s_individual.keys()) 
+        set_no_agg = set(self.no_agg_features)
+        set_features = set(self.features)
+
+        #TODO: replace with proper logs
+        set_unused = set_s_individual - set_no_agg - set_features 
+        if set_unused:
+            print(f'These features were not used to fetch the individual: {set_unused}')
+
+        if set_no_agg & set_s_individual:
+            q = ' and '.join([f'{col} == {s_individual[col]}' for col in self.no_agg_features])
+            dfx = df_anonymized.query(q)
+        else:
+            dfx = df_anonymized
+
+        set_used = set_s_individual - set_unused
         res_idxes = set()
-        for col in self.features:
+        for col in set_used:
             idxes = []
             for i, val in enumerate(dfx[col].values):
                 x = s_individual[col]
                 val = str(val)
                 if '-' in val:
                     m, M = map(int, val.split('-'))
-                    if (m <= x) and (x < M):
+                    if (m <= x) and (x <= M):
                         idxes.append(i)
                 elif ',' in val:
                     if x in map(int, val.split(',')):

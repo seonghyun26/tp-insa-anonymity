@@ -1,0 +1,1303 @@
+nom;prenom;sexe;age;adresse;code_postal;date_naissance;consommation_alcool;activite_physique;tension_arterielle
+ABADIE;LIONEL;1;57;45 Avenue Edouard Herriot 69150 Décines-Charpieu;69150;1963-12-09;élevée;False;élevée
+ABALO;MORGANE;2;57;6 Allee des Narcisses 69380 Dommartin;69380;1964-02-07;modérée;True;normale
+ABDEL GADIR;ANNA;2;63;605 Le Bourg 69430 Vernay;69430;1958-04-16;modérée;True;normale
+ABDESSALEM;IBRAHIM;1;33;1450 Route du Pont Dorieux 69210 Fleurieux-sur-l'Arbresle;69210;1988-01-03;modérée;True;normale
+ABRANTES DUARTE;MAXIME;1;66;25 Rue de Montribloud 69009 Lyon 9e Arrondissement;69009;1955-05-31;élevée;False;élevée
+ACCARIE;THIERRY;1;38;107 Avenue de Lanessan 69410 Champagne-au-Mont-d'Or;69410;1983-03-31;faible;True;normale
+ADELE;PATRICIA;2;59;170 Le Chatel 69440 Riverie;69440;1962-07-29;faible;True;normale
+ADIGERY;FRANCK;1;53;37 Cours Franklin Roosevelt 69006 Lyon 6e Arrondissement;69006;1968-02-18;modérée;False;très élevée
+AESCHLIMANN;VINCENT;1;51;8 Impasse des Mûres 69210 L'Arbresle;69210;1970-04-21;modérée;False;normale
+AFARYAN;PATRICIA;2;57;16 Rue de la Moselle 69008 Lyon 8e Arrondissement;69008;1964-05-02;modérée;True;très élevée
+AHAMADA;MARYLINE;2;35;5 Rue Waldeck Rousseau 69006 Lyon 6e Arrondissement;69006;1985-10-26;modérée;False;normale
+AHMED;ROMAN;1;83;148 Avenue 25ème Régiment des Tirailleurs Sénégalais 69009 Lyon 9e Arrondissement;69009;1938-01-14;modérée;True;très élevée
+ALAZET;FRÉDÉRIQUE;2;53;13 Rue Jean Moulin 69490 Vindry-sur-Turdine;69490;1967-09-18;modérée;False;normale
+ALBAIN;JOHAN;1;64;345 Rue du Prieuré 69440 Taluyers;69440;1956-09-28;élevée;True;normale
+ALEXIU;CLARA;2;54;64 Quai Joseph Gillet 69004 Lyon 4e Arrondissement;69004;1966-12-08;modérée;False;normale
+ALLAIN;NANCY;2;61;23 Chemin de Moly 69230 Saint-Genis-Laval;69230;1960-06-27;modérée;False;élevée
+ALLARD;FANNY;2;61;680 Grange Moret 69430 Vernay;69430;1959-09-01;modérée;True;normale
+ALLEGROS;JEAN-MAX;1;56;72 Route des Vadoux 69220 Belleville-en-Beaujolais;69220;1965-01-20;faible;True;élevée
+ALLETRU;BARBARA;2;57;69 Impasse du Dénis 69790 Propières;69790;1964-04-20;modérée;True;normale
+ALNOT;LISA;2;72;49 Avenue Berthelot 69007 Lyon 7e Arrondissement;69007;1948-10-22;modérée;True;élevée
+ALVES FERREIRA;ESTELLE;2;64;120 Impasse des Tours 69820 Vauxrenard;69820;1957-05-23;modérée;True;très élevée
+AMADOU SANDA;FABRICE;1;34;13 Lotissement la Sapiniere 69210 Lentilly;69210;1986-11-13;modérée;True;normale
+AMAR;BENJAMIN;1;47;620 Route Départementale 51 69650 Quincieux;69650;1973-12-04;modérée;True;normale
+AMAR;MAEL;1;30;34 Voie Romaine 69290 Craponne;69290;1990-12-01;modérée;True;normale
+AMOURETTE;NADIA;2;69;43 Route des Gonnachons 69790 Saint-Clément-de-Vers;69790;1952-02-20;modérée;True;élevée
+ANDAMAYE;JULIETTE;2;58;3 Chemin de la Traverse 69290 Pollionnay;69290;1963-05-18;modérée;False;élevée
+ANDRE;PHILIPPE;1;63;1 Allée de la Combe 69380 Lissieu;69380;1958-01-10;modérée;True;très élevée
+ANDRIEUX;ALYCIA;2;49;373 Rue de Fonzelle 69870 Saint-Cyr-le-Chatoux;69870;1972-06-08;faible;False;normale
+ANGELOV;MARIE;2;28;37 Rue Francisco Ferrer 69200 Vénissieux;69200;1992-08-05;modérée;True;normale
+ANGLADA;INÈS;2;74;5 Montée de l’Observance 69009 Lyon 9e Arrondissement;69009;1947-07-05;modérée;False;très élevée
+AOUMEUR;SOPHIE;2;42;317 Chemin de Fonderay 69870 Saint-Bonnet-le-Troncy;69870;1978-12-10;modérée;False;normale
+ARAGON ESTEVEZ;CHRISTOPHE;1;43;564 Chemin de Combe-Martin 69300 Caluire-et-Cuire;69300;1978-02-21;modérée;True;normale
+ARDU;JEAN-PAUL;1;62;2 Route Neuve 69270 Saint-Romain-au-Mont-d'Or;69270;1959-07-11;modérée;True;normale
+ARLEN;BENJAMIN;1;21;131 Rue des Haies 69840 Cenves;69840;1999-11-24;élevée;True;normale
+ARMAND;NATHALIE;2;52;216 Rue des Martyrs de la Libération 69310 Pierre-Bénite;69310;1969-03-31;modérée;True;élevée
+ARNAUD;BASTIEN;1;70;170 Rue du Lavoir 69790 Propières;69790;1950-11-14;élevée;True;élevée
+ARNAUD;FRÉDÉRIC;1;43;193 Chemin des Morguères 69620 Val d'Oingt;69620;1977-12-16;modérée;False;normale
+ARTHAUD;GAELLE;2;18;320 Le Crepit 69170 Affoux;69170;2002-07-12;faible;True;normale
+ASSIE;MÉLISSA;2;19;7 Rue Pasteur 69190 Saint-Fons;69190;2002-01-16;faible;True;normale
+ASSOULY;ETHAN;1;43;21 Rue Viala 69003 Lyon 3e Arrondissement;69003;1977-08-06;modérée;True;élevée
+ASTITOU;JUSTINE;2;39;102 Cours Emile Zola 69100 Villeurbanne;69100;1981-10-14;modérée;True;normale
+ATAMIAN;SÉBASTIEN;1;33;76 Impasse du Moulin 69480 Anse;69480;1987-11-11;modérée;False;normale
+ATTIA;MARIE-PIERRE;2;55;22 Rue de Narvik 69008 Lyon 8e Arrondissement;69008;1966-07-13;modérée;True;normale
+AUBERT;HANNA;2;30;4 Les Terres 69470 Ranchal;69470;1991-07-12;modérée;True;normale
+AUBRY;MADJID;1;49;8 Quai de Bondy 69005 Lyon 5e Arrondissement;69005;1972-07-30;modérée;True;normale
+AUFRANC;MÉLANIE;2;57;37 Rue Fabre d’Eglantine 69800 Saint-Priest;69800;1963-12-15;modérée;True;élevée
+AUGERE;EDEN;2;56;217 Sentier des Roches Plates 69610 Montromant;69610;1965-08-14;modérée;False;élevée
+AUGUSTINI;CHRISTOPHE;1;55;1 Rue des Entrepôts 69290 Grézieu-la-Varenne;69290;1966-04-11;élevée;True;très élevée
+AUPEE;EMELYNE;2;27;6 Rue Paul-Michel Perret 69006 Lyon 6e Arrondissement;69006;1993-10-09;modérée;True;normale
+AUSSET;PIERRE;1;38;1175 Route de Chal 69170 Dième;69170;1982-09-10;modérée;True;très élevée
+AYOUN;ILHAN;1;52;13 Rue Jean Chevailler 69008 Lyon 8e Arrondissement;69008;1968-11-25;modérée;True;très élevée
+BABIN;ALAN;1;56;396 Route de Saint Romain 69450 Saint-Cyr-au-Mont-d'Or;69450;1965-05-13;élevée;True;normale
+BABOT;GÉRARD;1;66;25 Rue Varichon 69008 Lyon 8e Arrondissement;69008;1954-12-09;modérée;True;très élevée
+BACCOURI;VALÉRIE;2;30;6 Rue Camille Saint Saens 69380 Chazay-d'Azergues;69380;1990-12-17;modérée;True;normale
+BADEROT;SANDRA;2;35;36 Rue des Genêts 69110 Sainte-Foy-lès-Lyon;69110;1986-03-12;modérée;True;élevée
+BAGGIONI;EVANE;1;35;658 Chemin de Germanie 69530 Orliénas;69530;1986-03-27;modérée;True;normale
+BAILLEUL;WYATT;1;72;34 Rue des Noyers 69005 Lyon 5e Arrondissement;69005;1949-05-17;élevée;True;très élevée
+BALL;CHLOE;2;40;20 Chemin des Cretes 69780 Saint-Pierre-de-Chandieu;69780;1980-10-21;modérée;True;normale
+BALLUET;NOLAN;1;47;5 Rue Président Edouard Herriot 69001 Lyon 1er Arrondissement;69001;1973-11-06;modérée;True;normale
+BARBIER;LYAM;1;24;123 Montée des Grandes Vignes 69380 Marcilly-d'Azergues;69380;1996-08-17;faible;True;normale
+BARBIER;SEVERINE;2;32;29 Rue Jean Henri Dunant 69720 Saint-Bonnet-de-Mure;69720;1988-12-23;faible;False;normale
+BARBOSA;ANTHONY;1;52;25 Rue Henri Lebrun 69330 Meyzieu;69330;1968-11-09;modérée;True;normale
+BARDE;GABIN;1;42;234 Impasse du Petit Bois 69420 Les Haies;69420;1979-05-13;modérée;False;normale
+BARON;HAMZA;1;31;32 Boulevard de Narcel 69110 Sainte-Foy-lès-Lyon;69110;1990-03-30;modérée;False;normale
+BARREDO;NESRINE;2;33;20 Route de la Croix d’Ajoux 69430 Chénelette;69430;1988-02-11;modérée;False;normale
+BARRERE;LYDIE;2;31;74 Rue du Repos 69007 Lyon 7e Arrondissement;69007;1990-06-01;faible;False;normale
+BARRISS;VANESSA;2;57;7 Route du Bourg 69820 Vauxrenard;69820;1964-01-30;modérée;True;normale
+BARROSO;KILLIAN;1;25;2 Rue du Grésigny 69210 Saint-Pierre-la-Palud;69210;1996-04-05;modérée;False;normale
+BARTHELEMY;ENZO;1;65;50 Chemin de la Plaine d’Elite 69530 Brignais;69530;1955-10-27;élevée;True;élevée
+BARTHELEMY;ROMAIN;1;65;31 Rue Colin 69100 Villeurbanne;69100;1955-12-10;modérée;True;élevée
+BARTHELS;HÉLÈNE;2;46;10 Chemin du Pont des Biches 69250 Neuville-sur-Saône;69250;1974-12-30;faible;True;normale
+BASILE;CORALIE;2;26;16 Rue Jules Massenet 69400 Villefranche-sur-Saône;69400;1995-02-09;modérée;False;normale
+BAUDET;LOÏS;1;66;2 Lotissement les Chênes 69210 Lentilly;69210;1954-09-27;élevée;True;très élevée
+BAYONNE;NATHALIE;2;44;9 Rue Voltaire 69200 Vénissieux;69200;1977-06-08;modérée;True;élevée
+BAYRAK;ROSHAN;1;39;2 Rue Pierre Corneille 69006 Lyon 6e Arrondissement;69006;1982-06-08;élevée;True;normale
+BEAUGEOIS;CARINE;2;61;275 Rue de la Quarantaine 69400 Villefranche-sur-Saône;69400;1959-12-17;modérée;True;élevée
+BECK;EMMA;2;71;69 Rue Molière 69003 Lyon 3e Arrondissement;69003;1950-03-02;modérée;True;normale
+BECKMANN;JESSY;1;27;19 Rue Claude Veyron 69007 Lyon 7e Arrondissement;69007;1994-02-04;modérée;True;normale
+BEDDOU;LORIC;1;33;25 Rue Paul Gojon 69100 Villeurbanne;69100;1988-02-14;modérée;True;normale
+BEDU;CÉLINE;2;61;63 Route de Genève 69140 Rillieux-la-Pape;69140;1960-07-16;modérée;False;normale
+BEGOU;GAËLLE;2;48;8 Rue Eugène Peloux 69200 Vénissieux;69200;1972-12-11;modérée;True;normale
+BEGUE;LORENZO;1;37;1 Le Bourg 69170 Dième;69170;1983-08-22;modérée;True;normale
+BEGUIER;JOSÉ;1;54;26 Rue des Liserons 69320 Feyzin;69320;1966-08-20;modérée;False;très élevée
+BEJOT;ROMAIN;1;47;544 Rue Grange Blazet 69400 Villefranche-sur-Saône;69400;1974-05-07;modérée;True;normale
+BELAID;CAMILLE;2;20;12 Cours Eugénie 69003 Lyon 3e Arrondissement;69003;2000-09-06;faible;False;normale
+BELOT;LINDA;2;60;123 Chemin du Gabugy 69120 Vaulx-en-Velin;69120;1961-03-23;modérée;False;très élevée
+BELTRAMO;VICTOR;1;76;25 Rue Félix Brun 69007 Lyon 7e Arrondissement;69007;1945-08-13;élevée;True;élevée
+BELZENNE;JOHANN;1;66;4 Les Terres 69470 Ranchal;69470;1955-06-14;élevée;False;normale
+BEN HAMED;DELPHINE;2;46;245 Avenue du Plateau 69009 Lyon 9e Arrondissement;69009;1974-08-18;modérée;False;normale
+BEN REDJEB;YVAN;1;69;290 Chemin de Lapalu 69430 Marchampt;69430;1952-03-18;élevée;True;très élevée
+BENALI;RADIA;2;54;210 Rue de la Bezace 69440 Taluyers;69440;1967-03-13;élevée;False;normale
+BENOIST;MICHAEL;1;33;12 Rue Louis Braille 69100 Villeurbanne;69100;1988-05-05;modérée;True;normale
+BENOIT;ANNE;2;71;2287 Route de Faverges 69610 Montromant;69610;1950-03-14;modérée;True;normale
+BENOIT;CAMAL;1;56;22 Rue Antoine de Saint-Exupéry 69960 Corbas;69960;1964-12-06;modérée;True;normale
+BENTEO;MARIE;2;64;57 Chemin de la Villonniere 69440 Chabanière;69440;1957-04-12;modérée;False;élevée
+BENTLEY;FRANCK;1;63;57 Lieu Dit Villard 69790 Saint-Bonnet-des-Bruyères;69790;1958-07-30;modérée;True;élevée
+BERARD;CHRISTIAN;1;70;36 Rue des Géraniums 69320 Feyzin;69320;1951-07-11;élevée;False;très élevée
+BERCIER;MARTIN;1;56;2330 Route de la Garenne 69790 Saint-Bonnet-des-Bruyères;69790;1965-02-04;modérée;True;très élevée
+BERMOND;ETHAN;1;68;15 Rue du Puits 69840 Cenves;69840;1953-03-19;élevée;True;normale
+BERNARD;ERIC;1;55;7 Chemin de la Barrière 69620 Sainte-Paule;69620;1965-12-02;élevée;False;normale
+BERNARD;GUILLAUME;1;57;18 Rue Paul Vaillant Couturier 69190 Saint-Fons;69190;1963-10-11;modérée;True;normale
+BERNARD;RAFAEL;1;31;185 Route des Coatières 69380 Charnay;69380;1989-11-13;faible;True;normale
+BERQUEZ;DAVID;1;59;52 Rue de l’Egalite 69700 Givors;69700;1962-06-15;modérée;True;normale
+BERTHELOT;AURÉLIE;2;39;45 Impasse Cavalière 69430 Marchampt;69430;1981-09-12;modérée;False;très élevée
+BERTHELOT;FRÉDÉRIC;1;35;8 Passage des Alouettes 69008 Lyon 8e Arrondissement;69008;1986-05-31;modérée;True;normale
+BERTHET;SIRYNE;2;58;93 Chemin du Bas des Fayards 69790 Saint-Clément-de-Vers;69790;1963-04-22;modérée;True;normale
+BERTHON;FLORENCE;2;54;5 Rue de la Mairie St Germain 69210 Saint-Germain-Nuelles;69210;1966-10-16;faible;False;élevée
+BERTIN;CHRISTOPHE;1;50;91 Boulevard Ambroise Paré 69008 Lyon 8e Arrondissement;69008;1970-12-17;élevée;False;normale
+BERTIN;VINCENT;1;57;2595 Chemin de Missy 69970 Chaponnay;69970;1964-04-18;modérée;True;élevée
+BERTRANDE;DAVID;1;61;29 Avenue Berthelot 69007 Lyon 7e Arrondissement;69007;1960-05-15;modérée;True;élevée
+BESSAC;MOHAMED;1;64;27 Rue du Docteur Guffon 69170 Tarare;69170;1957-06-12;élevée;True;très élevée
+BESSEAU;LOAN;1;39;1 Impasse Georges Brassens 69120 Vaulx-en-Velin;69120;1982-01-24;modérée;True;normale
+BETILLON;ANTHONY;1;82;8 Rue Raspail 69190 Saint-Fons;69190;1938-10-03;élevée;True;très élevée
+BEURIOT;KYLIAN;1;43;41 Boulevard des Belges 69006 Lyon 6e Arrondissement;69006;1978-01-05;modérée;False;normale
+BIANCARDI;MEDHI;1;56;7 Quai Maréchal Joffre 69002 Lyon 2e Arrondissement;69002;1965-07-10;modérée;False;élevée
+BIENVENU;ZÉLIE;2;34;9 Passage Lamure 69004 Lyon 4e Arrondissement;69004;1987-01-19;faible;False;normale
+BIGOT;JOHAN;1;53;65 Ancienne Grande Rue 69480 Lucenay;69480;1967-09-13;modérée;True;normale
+BIRBA;BRENDON;1;37;4 Les Terres 69470 Ranchal;69470;1983-09-21;modérée;True;normale
+BISIMWA KALALA;MATTHIEU;1;65;19 Route de Verchère 69115 Chiroubles;69115;1955-10-23;modérée;True;très élevée
+BLANC;MAYEUL;1;19;3 Route d’Emeringes 69840 Jullié;69840;2002-04-10;modérée;True;normale
+BLANCARD;OLIVIER;1;65;74 Chemin du Clos 69140 Rillieux-la-Pape;69140;1956-07-15;faible;True;très élevée
+BLANCHANT;EMMA;2;47;725 Chemin des Sebrins 69790 Saint-Clément-de-Vers;69790;1973-12-08;modérée;True;normale
+BLANCHARD;HAIFA;2;23;182 Montée des Rougelons 69840 Émeringes;69840;1998-01-23;modérée;False;normale
+BLEHIN;NOLWEN;2;26;34 Rue de l’Université 69007 Lyon 7e Arrondissement;69007;1994-09-06;modérée;True;normale
+BLOT;CAMILLE;2;34;15 Rue Gutenberg 69150 Décines-Charpieu;69150;1986-07-24;modérée;True;normale
+BODERLIQUE;SARAH;2;51;27 Chemin de la Mère Boîtier 69840 Cenves;69840;1970-05-09;élevée;True;normale
+BOFFY;LOLA;2;28;62 Rue Tête d’Or 69006 Lyon 6e Arrondissement;69006;1993-02-07;modérée;False;normale
+BOHNENBERGER;SAMUEL;1;36;10 Route de Lamure 69430 Chénelette;69430;1985-07-15;modérée;False;normale
+BOIN;PIERRE-EMMANUEL;1;46;85 Rue Sainte-Agathe 69440 Taluyers;69440;1975-05-30;modérée;False;normale
+BOISMENU;JEAN-MICHEL;1;66;29 Rue de l’Espérance 69120 Vaulx-en-Velin;69120;1955-06-30;modérée;True;normale
+BOISSEAU;KARIM;1;36;35 Rue de la Mairie 69620 Moiré;69620;1984-09-20;modérée;True;normale
+BONGIRWAR;NATACHA;2;61;17 Rue Général de Miribel 69007 Lyon 7e Arrondissement;69007;1959-09-17;modérée;False;élevée
+BONHEUR;STÉPHANIE;2;44;12 Rue Albert Romain 69140 Rillieux-la-Pape;69140;1977-01-04;modérée;True;élevée
+BONHOMME;BAPTISTE;1;54;400 Route du Bourg de Sagnie 69430 Marchampt;69430;1966-11-22;modérée;True;normale
+BONNABEL;RUBEN;1;37;22 Rue Faillebin 69100 Villeurbanne;69100;1983-10-26;modérée;True;normale
+BONNETON;MARIE;2;71;6 Place de la Baleine 69005 Lyon 5e Arrondissement;69005;1950-05-18;modérée;True;élevée
+BORDG;SALOMÉ;2;48;4 Chemin des Hautes Bruyères 69130 Écully;69130;1973-06-05;modérée;True;normale
+BORGES;HUGO;1;46;20 Chemin du Randin 69130 Écully;69130;1975-01-28;modérée;False;normale
+BORNET;CHIARA;2;70;78 Rue d’Alsace 69100 Villeurbanne;69100;1950-11-07;modérée;True;élevée
+BORT;DOUNIA;2;19;28 Avenue du 11 Novembre 1918 69160 Tassin-la-Demi-Lune;69160;2002-03-02;modérée;False;normale
+BOSCO;LEVANA;2;63;1 Rue des Primeurs 69220 Belleville-en-Beaujolais;69220;1957-12-03;faible;False;normale
+BOSCO;LOUISE;2;69;31 Rue Clémenceau 69800 Saint-Priest;69800;1952-04-27;modérée;False;élevée
+BOTTIN;FRÉDÉRIQUE;2;54;693 Chemin des Lévrières 69480 Anse;69480;1967-04-13;modérée;False;normale
+BOTTINO;SYLVAIN;1;45;1930 Route du Guillin 69170 Affoux;69170;1975-11-29;élevée;True;élevée
+BOUBEKER;LYLIA;2;71;8 Rue Marcel Proust 69800 Saint-Priest;69800;1949-12-24;modérée;False;élevée
+BOUCHER;JULIEN;1;49;38 Rue Anatole France 69800 Saint-Priest;69800;1971-09-02;modérée;True;normale
+BOUCHNED;JESSICA;2;21;7 Rue Juiverie 69005 Lyon 5e Arrondissement;69005;1999-08-28;modérée;True;normale
+BOUDDAVONG;JEROME;1;61;5 Les Merisiers 69430 Chénelette;69430;1959-10-03;modérée;False;normale
+BOUFFAY;CAROLE;2;43;5000 Rue de la Barre 69440 Riverie;69440;1977-09-16;modérée;False;normale
+BOULAN;FABIEN;1;41;10 Rue Bellecordière 69002 Lyon 2e Arrondissement;69002;1979-09-19;faible;False;normale
+BOURGEAT LAMI;MATHIEU;1;34;10 Rue Alexandre Dumas 69100 Villeurbanne;69100;1987-01-25;élevée;False;normale
+BOURGEOIS ROMAIN;PATRICK;1;67;7 Rue de Lattre de Tassigny 69350 La Mulatière;69350;1953-09-29;modérée;True;élevée
+BOURGIN;MARIO;1;64;2 Rue Francis de Pressensé 69100 Villeurbanne;69100;1956-11-07;modérée;True;normale
+BOURQUIN;SANDY;2;22;16 Chemin de Plain Vallon 69300 Caluire-et-Cuire;69300;1998-07-09;modérée;False;normale
+BOUTIS;ETHAN;1;65;218 Route de Beauvernay 69840 Jullié;69840;1955-11-02;faible;True;élevée
+BOUTOUSKY;JULIE;2;90;19 Chemin de Roty 69380 Lissieu;69380;1931-04-12;modérée;True;normale
+BOUTRIN VENITE;OCÉANE;2;31;30 Rue Victor et Roger Thomas 69008 Lyon 8e Arrondissement;69008;1990-05-23;modérée;False;normale
+BOUZAGLOU;FRÉDÉRIC;1;72;10 Rue de Taillepied 69540 Irigny;69540;1949-09-03;modérée;True;très élevée
+BOYER;FLAVIEN;1;52;52 Rue Odette Joyeux 69800 Saint-Priest;69800;1968-12-02;modérée;True;normale
+BRANCHEREAU;LOAN;1;62;14 Rue de Vellerey 69330 Pusignan;69330;1958-10-10;modérée;True;normale
+BRAUD;BÉRÉNICE;2;25;76 Boulevard Niels Bohr 69100 Villeurbanne;69100;1995-08-22;faible;False;normale
+BREUILLE;CLÉMENCE;2;52;87 Rue Boileau 69330 Meyzieu;69330;1968-12-14;modérée;False;normale
+BRIAND;MOURAD;1;28;23 Rue Louis Jasseron 69003 Lyon 3e Arrondissement;69003;1992-08-19;élevée;False;normale
+BRIARD;MATTHIEU;1;33;30 Allée des Saules 69260 Charbonnières-les-Bains;69260;1987-10-21;modérée;True;normale
+BRIES;JORIS;1;56;9 Rue Louis Ducroize 69100 Villeurbanne;69100;1964-09-20;modérée;True;très élevée
+BRIZARD;CLAUDIA;2;30;1359 Chemin de Brulevent 69610 Haute-Rivoire;69610;1990-11-03;modérée;True;normale
+BROCAS;DAMIEN;1;59;7 Rue du Trièves 69420 Ampuis;69420;1962-07-13;modérée;True;normale
+BROTO;PAULINE;2;73;110 Chemin du Creux 69490 Vindry-sur-Turdine;69490;1948-04-24;modérée;False;élevée
+BRUCOLIERI;FRANCK;1;31;39 Montée du Chemin Neuf 69005 Lyon 5e Arrondissement;69005;1989-09-14;modérée;True;normale
+BRUHE;PASCALE;2;61;44 Rue Ravat 69002 Lyon 2e Arrondissement;69002;1960-07-31;modérée;True;normale
+BRUN;AURÉLIEN;1;47;995 Route de la Croix Marchampt 69430 Marchampt;69430;1974-03-09;modérée;True;élevée
+BRUNEL;JADE;2;61;91 Avenue Marcel Mérieux 69290 Grézieu-la-Varenne;69290;1959-11-21;modérée;True;élevée
+BRUNO;OLIVIA;2;61;58 Cours Vitton 69006 Lyon 6e Arrondissement;69006;1959-11-07;modérée;False;élevée
+BUCHER;MATHIEU;1;61;33 Place Jules Grandclément 69100 Villeurbanne;69100;1960-03-06;modérée;True;très élevée
+BUCHET;YANN;1;25;51 Rue Professeur Paul Sisley 69003 Lyon 3e Arrondissement;69003;1995-11-11;modérée;False;normale
+BUCHMULLER;EMILIE;2;48;27 Rue du Port du Temple 69002 Lyon 2e Arrondissement;69002;1973-04-19;modérée;False;normale
+BUISSON;AYMERIC;1;35;2374 Route d’Yzeron 69610 Montromant;69610;1986-06-18;modérée;True;normale
+BUSSIERE;BAPTISTE;1;21;14 Rue Philippe de Vogue 69190 Saint-Fons;69190;1999-08-02;modérée;False;normale
+BUTTAFOGHI;ACHILLE;1;65;66 Boulevard Jean XXIII 69008 Lyon 8e Arrondissement;69008;1955-12-05;modérée;False;élevée
+CABARET;PIERRICK;1;43;558 Cheminement des Ocques Rouges 69380 Saint-Jean-des-Vignes;69380;1978-06-13;modérée;True;normale
+CABRAL;ILKNUR;2;55;12 Rue du Moulin 69220 Belleville-en-Beaujolais;69220;1965-12-22;modérée;False;normale
+CAEL;SOLINE;2;57;48 Rue du Bricollet 69210 Lentilly;69210;1964-07-14;modérée;True;élevée
+CAILLAUD;NOEMIE;2;55;129 Cheminement des Ocques Rouges 69380 Saint-Jean-des-Vignes;69380;1966-06-19;modérée;True;normale
+CALVAO;VIRGINIE;2;60;60 Rue Roger Salengro 69700 Givors;69700;1960-10-07;modérée;False;normale
+CANDRIAN;RODRIGUE;1;71;7 Rue du Chêne 69500 Bron;69500;1949-10-16;élevée;True;élevée
+CANIVET;FRÉDÉRIC;1;72;697 Avenue Charlie Chaplin 69800 Saint-Priest;69800;1949-02-15;élevée;True;élevée
+CARCELES;HORACE;1;63;2287 Route de Faverges 69610 Montromant;69610;1958-03-04;modérée;False;élevée
+CARDILES;ADAM;1;62;6 Route de Montbrison 69610 Souzy;69610;1959-04-23;élevée;True;élevée
+CARLIER;AGNÈS;2;54;12 Rue Benoit Bornicat 69740 Genas;69740;1966-10-16;modérée;False;normale
+CARLIER;SYLVAIN;1;61;210 Rue des Blanchardes 69440 Taluyers;69440;1959-11-14;modérée;True;très élevée
+CARMAGNAT;NATHALIE;2;28;22 Rue Fernand Forest 69200 Vénissieux;69200;1992-10-15;faible;False;normale
+CARNUS;LÉONIE;2;28;4 Rue de la Paix 69210 Savigny;69210;1992-12-18;modérée;False;normale
+CARON;FLORIAN;1;53;4 Les Terres 69470 Ranchal;69470;1967-10-29;modérée;False;normale
+CARRIE;MATTHIEU;1;55;109 Cours Docteur Long 69003 Lyon 3e Arrondissement;69003;1965-09-23;modérée;True;normale
+CARTOUX;TIMEO;1;54;14 Rue Jean-Louis Maubant 69100 Villeurbanne;69100;1966-12-04;modérée;True;normale
+CASSAN;KAREN;2;49;8 Rue du Béarn 69330 Meyzieu;69330;1971-12-11;faible;False;normale
+CASTAGNE;ROMAIN;1;22;24 Rue Fleury Neuvesel 69700 Givors;69700;1998-08-29;faible;True;normale
+CATALDO;ANNICK;2;22;4 Allée du Petit Merlus 69600 Oullins;69600;1998-07-16;modérée;False;normale
+CATEL;ANTOINE;1;59;24 Rue de la Thibaudière 69007 Lyon 7e Arrondissement;69007;1962-01-31;élevée;False;normale
+CAUDRELIER;PARIS;2;74;14 Rue Wilson 69740 Genas;69740;1947-05-30;faible;True;très élevée
+CAUGANT;BENOÎT;1;24;475 Route des Palais 69430 Marchampt;69430;1996-09-02;modérée;True;normale
+CAULIER;CORINNE;2;19;3 Allée Barthelemy Thimonnier 69970 Chaponnay;69970;2001-10-02;faible;True;normale
+CAUMETTE;LEILA;2;74;10 Place de l’Octroi 69870 Saint-Cyr-le-Chatoux;69870;1947-03-17;modérée;True;élevée
+CAURIER;CHRISTOPHE;1;66;6 Rue Molière 69200 Vénissieux;69200;1955-05-28;modérée;False;très élevée
+CAVALLARO;MARION;2;30;8 Rue Henri Barbusse 69008 Lyon 8e Arrondissement;69008;1991-02-01;modérée;True;normale
+CECCHELLERO;HUGUES;1;31;13 Quai Pierre Scize 69009 Lyon 9e Arrondissement;69009;1990-06-17;modérée;True;normale
+CELERIEN;JOY;2;65;27 Rue Léon Piat 69100 Villeurbanne;69100;1955-12-29;modérée;False;normale
+CERTAIN;AXEL;1;71;93 Rue de la République 69120 Vaulx-en-Velin;69120;1950-05-16;élevée;True;très élevée
+CERTAT;PASCAL;1;72;2 Rue du Nord 69100 Villeurbanne;69100;1949-06-29;élevée;True;normale
+CHABAS;MARIE;2;29;89 Route de Chervolin 69610 Montromant;69610;1992-07-10;faible;False;normale
+CHABAUD;ISABELLE;2;61;1677 Route du Col des Brosses 69610 Montromant;69610;1960-01-18;modérée;True;normale
+CHAFFRAIX;VÉRONIQUE;2;63;928 Route du Carcan 69840 Cenves;69840;1958-05-11;modérée;True;normale
+CHAIGNE;LUCAS;1;24;59 Rue de Créqui 69006 Lyon 6e Arrondissement;69006;1997-05-16;modérée;False;normale
+CHAILLOL;CATHERINE;2;50;4 Rue Ampère 69150 Décines-Charpieu;69150;1970-09-08;modérée;True;normale
+CHAKKAKI;MAEVA;2;46;262 Rue de l’Eglise 69840 Jullié;69840;1974-08-16;modérée;False;normale
+CHALBI;HAKIM;1;45;603 Chemin des Cachottes 69620 Moiré;69620;1976-05-04;modérée;False;élevée
+CHALI;YASMINE;2;46;8 Route de Riverie 69440 Saint-André-la-Côte;69440;1975-03-20;modérée;False;normale
+CHALUMEAU;CLÉMENT;1;38;28 Rue Docteur Rebatel 69003 Lyon 3e Arrondissement;69003;1983-06-23;modérée;True;normale
+CHAMBON;MYRIAM;2;46;45 Chemin de Vassieux 69300 Caluire-et-Cuire;69300;1974-12-28;modérée;False;normale
+CHAMPION;RAYAN;1;54;62 Rue Mathieu Dussurgey 69190 Saint-Fons;69190;1966-09-25;faible;True;normale
+CHAN TSIN;DANIA;2;39;93 Route du Rousset 69840 Cenves;69840;1981-12-30;modérée;False;normale
+CHANSON;ELISE;2;36;11 Rue des Peupliers 69003 Lyon 3e Arrondissement;69003;1985-05-21;modérée;True;élevée
+CHAPET;HIPPOLYTE;1;62;423 Allee des Pierres Folles 69280 Sainte-Consorce;69280;1959-02-06;modérée;True;élevée
+CHARMETTE;BERENGERE;2;60;2327 Route du Recru 69420 Ampuis;69420;1961-06-23;modérée;True;très élevée
+CHASSAGNE;MICHEL;1;44;7 Impasse du Pavé 69780 Mions;69780;1976-12-31;modérée;True;normale
+CHASSERIAU;NOËLLE;2;68;12 Rue Louis Dansard 69007 Lyon 7e Arrondissement;69007;1953-08-09;modérée;False;très élevée
+CHATON;PATRICIA;2;71;66 Cour Pinay 69590 Saint-Symphorien-sur-Coise;69590;1950-02-03;modérée;True;élevée
+CHAUDRON;NELSON;1;48;78 Rue Montgolfier 69006 Lyon 6e Arrondissement;69006;1973-03-23;modérée;True;normale
+CHAUVINEAU;LUC;1;22;19 Rue Château Gaillard 69100 Villeurbanne;69100;1999-05-01;modérée;True;normale
+CHEDRU;JOËL;1;46;56 Avenue Jean Mermoz 69008 Lyon 8e Arrondissement;69008;1974-10-04;modérée;False;normale
+CHEHERE;NATHAN;1;62;18 Rue Jules Valensaut 69008 Lyon 8e Arrondissement;69008;1959-05-03;modérée;True;normale
+CHERCHI;SUZY;2;57;57 Lieu Dit Villard 69790 Saint-Bonnet-des-Bruyères;69790;1964-07-24;modérée;True;normale
+CHEVALET;DAVY;1;70;14 Impasse des Acacias 69720 Saint-Laurent-de-Mure;69720;1951-05-23;élevée;False;élevée
+CHEVIN;LILA;2;72;3 Place de la Gare 69270 Fontaines-sur-Saône;69270;1949-02-08;modérée;True;élevée
+CHEVROT;VINCENZO;1;45;35 Place de la Mairie 69430 Marchampt;69430;1976-02-04;modérée;False;normale
+CHONE;UMUT;1;34;290 Impasse de la Maison Joubert 69430 Chénelette;69430;1987-03-01;modérée;True;normale
+CHOPINET;RÉMY;1;51;213 Chemin des Serres Vertes 69420 Ampuis;69420;1970-04-24;modérée;True;normale
+CHORIER;VIVIANE;2;47;31 Place du Suel 69700 Beauvallon;69700;1974-01-28;modérée;True;normale
+CHOVET;LUCA;1;27;42 Route de Saint Julien 69690 Bibost;69690;1994-03-31;modérée;True;normale
+CHRIST;FLAVIO;1;40;797 Route de Chiroubles 69115 Chiroubles;69115;1981-01-22;modérée;True;élevée
+CILLART;ELISE;2;84;12 Chemin de Chantemerle 69140 Rillieux-la-Pape;69140;1937-05-21;modérée;False;normale
+CIMBALURIA;MATHILDE;2;62;32 Rue de Crimée 69001 Lyon 1er Arrondissement;69001;1958-12-19;modérée;True;normale
+CIPRIANI;BADICE;1;70;2 Rue Laurent Carle 69008 Lyon 8e Arrondissement;69008;1950-09-26;élevée;True;élevée
+CIRON;EMIE;2;44;40 Boulevard des Belges 69006 Lyon 6e Arrondissement;69006;1976-08-08;modérée;False;normale
+CLARKE;ADELINE;2;33;1190 Route de la Grand Combe 69430 Marchampt;69430;1988-02-16;modérée;True;normale
+CLEMENCEAU;EMELYNE;2;41;1 Impasse des Pierres 69820 Vauxrenard;69820;1980-04-27;faible;True;normale
+CLERFAYT;AURÉLIE;2;70;406 Rue Jean-Michel Savigny 69400 Villefranche-sur-Saône;69400;1951-03-11;modérée;True;normale
+COADIC;LUCIAN;1;19;5 Place Pierre Delaye 69430 Marchampt;69430;2002-06-26;modérée;True;normale
+COGNASSE;LÉO;1;53;134 Grande Rue 69440 Saint-Laurent-d'Agny;69440;1968-03-04;modérée;False;normale
+COLCY;SEVERINE;2;55;30 Boulevard Pinel 69003 Lyon 3e Arrondissement;69003;1966-07-20;élevée;False;normale
+COLIN;MARIE;2;51;585 Route de Tous Vents 69400 Porte des Pierres Dorées;69400;1969-11-17;faible;True;normale
+COLLIER;FAROUK;1;38;4 Rue de l’Annonciade 69001 Lyon 1er Arrondissement;69001;1983-01-10;modérée;True;élevée
+COLOMBEL;FABRICE;1;55;257 Avenue Berthelot 69008 Lyon 8e Arrondissement;69008;1965-09-30;faible;True;normale
+COLOVOS;MIREILLE;2;32;120 Rue Antoine Charial 69003 Lyon 3e Arrondissement;69003;1989-04-05;élevée;True;très élevée
+COMTE;MALIKA;2;29;24 Rue Gabriel Sarrazin 69008 Lyon 8e Arrondissement;69008;1992-03-09;élevée;False;normale
+COMTET;SOPHIE;2;67;41 Route de Vienne 69320 Feyzin;69320;1954-05-29;modérée;True;élevée
+COPIN;SÉBASTIEN;1;88;20 Rue des Jardins 69210 Lentilly;69210;1932-11-12;modérée;True;élevée
+COPPI;SEVERINE;2;72;85 Montée de l’Observance 69009 Lyon 9e Arrondissement;69009;1948-12-03;modérée;False;très élevée
+COQUAND CASTAING;SYLVIE;2;21;108 Route du Savin 69170 Saint-Appolinaire;69170;2000-06-21;modérée;False;normale
+COQUARD;FABIENNE;2;24;4 Rue de la Serve de Vignes 69220 Belleville-en-Beaujolais;69220;1996-08-26;modérée;False;normale
+CORAND;MAXENCE;1;36;16 Rue de Bellevue 69190 Saint-Fons;69190;1985-03-20;modérée;True;normale
+CORNEC;EMMA;2;71;449 Route de Roche Bas 69550 Meaux-la-Montagne;69550;1949-10-24;modérée;False;normale
+CORREZE;ALICIA;2;43;10 Impasse Combe Fleurette 69430 Marchampt;69430;1978-07-31;modérée;True;normale
+CORSI;PHILIPPE;1;34;1 Rue Nicolas Garnier 69100 Villeurbanne;69100;1986-10-10;modérée;False;normale
+CORVO;DOMINIQUE;1;67;4 Rue Rabelais 69150 Décines-Charpieu;69150;1954-04-09;modérée;False;élevée
+COSSERON;VALÉRIE;2;25;827 Route du Vieux Bourg 69790 Saint-Clément-de-Vers;69790;1995-09-08;faible;True;normale
+COSTA MARTINS NEIVA;SALOMÉ;2;52;22 Impasse de l’Eglise 69115 Chiroubles;69115;1968-09-21;modérée;True;normale
+COTTO;LAURENT;1;55;123 Boulevard des Etats-Unis 69008 Lyon 8e Arrondissement;69008;1965-09-24;modérée;False;normale
+COUILLEROT;JEAN;1;28;1380 Route de Cenves 69840 Cenves;69840;1992-11-17;modérée;True;normale
+COUR;NATHALIE;2;73;188 Route de Genas 69003 Lyon 3e Arrondissement;69003;1947-10-17;modérée;False;normale
+COURBON;DOUNYA;2;53;27 Allée de Val Fontaine 69290 Saint-Genis-les-Ollières;69290;1968-02-03;modérée;False;normale
+COURTOIS;HUGO;1;50;67 Rue Georges Clémenceau 69110 Sainte-Foy-lès-Lyon;69110;1970-10-26;modérée;False;très élevée
+COUSSY;DIDIER;1;23;99 Rue des Blouzes 69840 Émeringes;69840;1997-10-01;modérée;True;normale
+COUTEAU;CAMILLE;2;67;31 Boulevard Yves Farge 69007 Lyon 7e Arrondissement;69007;1954-03-31;modérée;False;très élevée
+COUTENS;ERIC;1;59;22 Route de Vienne 69320 Feyzin;69320;1962-05-13;modérée;True;très élevée
+COUTENS;MARIE;2;70;34 Cours de la Liberté 69003 Lyon 3e Arrondissement;69003;1951-01-07;modérée;True;très élevée
+COVACI;ANAÏS;2;41;18 Rue du Clair 69440 Saint-Laurent-d'Agny;69440;1979-09-10;modérée;True;normale
+COXAM;LAURENCE;2;67;1310 Route du Morgon 69640 Lacenas;69640;1954-06-10;élevée;False;très élevée
+COZ;LAETITIA;2;60;16 Rue de la Clautre 69800 Saint-Priest;69800;1961-06-27;modérée;False;normale
+CRAPIZ;MAGALI;2;42;34 Rue Masséna 69006 Lyon 6e Arrondissement;69006;1979-02-19;modérée;False;normale
+CREON;FRANCK;1;24;17 Avenue Jules Mas 69500 Bron;69500;1996-12-03;modérée;True;normale
+CRESPIN;SANDRA;2;52;12 Route de Moire 69620 Moiré;69620;1968-09-02;faible;False;normale
+CRESSIN;NICOLAS;1;68;196 Route de Vienne 69008 Lyon 8e Arrondissement;69008;1953-08-22;modérée;True;très élevée
+CREUSEVAU;JEANNE;2;49;792 Route de Port-Rivière 69830 Saint-Georges-de-Reneins;69830;1971-11-16;élevée;False;normale
+CROCE;JEAN-MICHEL;1;25;9 Rue Georges Bizet 69200 Vénissieux;69200;1996-01-05;faible;False;normale
+CROCHET;MATHILDE;2;25;20 Impasse Jean Longefay 69430 Marchampt;69430;1996-07-07;faible;True;normale
+CROCHOT;MANON;2;68;15 Rue Joannès Vallet 69200 Vénissieux;69200;1953-04-14;modérée;True;très élevée
+CRUEL;FABIENNE;2;46;724 Route du Morgon 69400 Gleizé;69400;1975-01-07;modérée;False;normale
+CSAJAGI;GUENAELLE;2;57;4969 Route de Premecin 69840 Cenves;69840;1964-04-09;modérée;False;normale
+CULOMA;ZAKARIA;1;34;55 Rue d’Aubigny 69003 Lyon 3e Arrondissement;69003;1987-01-25;modérée;True;normale
+CURNELLE;SHAINA;2;55;87 Impasse de Poullet 69115 Chiroubles;69115;1966-07-04;modérée;True;très élevée
+DAGNEAUX;FRANCK;1;46;64 Avenue de Lanessan 69410 Champagne-au-Mont-d'Or;69410;1975-01-22;élevée;False;très élevée
+DALIGAUX;JEAN-MARIE;1;66;45 Chemin de Feyzin 69200 Vénissieux;69200;1954-12-12;élevée;False;élevée
+DANG;DOMINIQUE;2;56;169 Cours Lafayette 69006 Lyon 6e Arrondissement;69006;1965-06-11;modérée;True;élevée
+DANIEL;PAUL;1;67;58 Rue Lavoisier 69120 Vaulx-en-Velin;69120;1954-05-22;élevée;True;élevée
+DARDINIER;GUILLAUME;1;39;290 Chemin du Vernay 69790 Saint-Bonnet-des-Bruyères;69790;1982-01-21;modérée;True;élevée
+DASSE;FLORIAN;1;25;37 Rue Paul Lafargue 69100 Villeurbanne;69100;1995-12-15;modérée;True;normale
+DAUBEACH;GIOVANNI;1;33;8 Chemin des Coquilles 69340 Francheville;69340;1988-05-23;modérée;False;normale
+DAULIER;MATHILDE;2;32;21 Chemin du Bruchet 69210 Lentilly;69210;1989-04-11;modérée;True;normale
+DAUPHIN;CRISTEL;2;19;18 Rue du Puisard 69008 Lyon 8e Arrondissement;69008;2001-07-17;faible;True;normale
+DAUROT;DELPHINE;2;42;86 Chemin des Larges 69820 Vauxrenard;69820;1979-06-02;modérée;True;normale
+DAUVERGNE;ANAÏS;2;36;13 Chemin de la Ferme 69210 Lentilly;69210;1985-02-28;faible;False;normale
+DAVAL;PHILIPPE;1;26;13 Chemin de Montlouis 69130 Écully;69130;1995-06-20;modérée;True;normale
+DAVASSE;JUSTIN;1;25;73 Impasse du Noyer 69840 Cenves;69840;1996-04-20;modérée;True;normale
+DAVID;MARGAUX;2;24;1 Rue Marcel Doret 69100 Villeurbanne;69100;1996-11-23;modérée;False;normale
+DAVID;STÉPHANIE;2;60;8 Rue Marat 69150 Décines-Charpieu;69150;1961-07-07;modérée;False;élevée
+DAVIOT;THEODORE;1;38;7 Route de Genève 69140 Rillieux-la-Pape;69140;1983-01-15;modérée;False;normale
+DAYNAC;HÉLÈNE;2;35;20 Rue Neuve 69970 Marennes;69970;1986-07-12;élevée;False;normale
+DAZEREIX;BENJAMIN;1;37;22 Rue Sainte Marie 69003 Lyon 3e Arrondissement;69003;1984-07-03;modérée;True;normale
+DE AZEVEDO;CHRISTA;2;36;520 Rue du Stade 69620 Val d'Oingt;69620;1985-03-20;modérée;False;normale
+DE BUDT;STÉPHANIE;2;61;177 Rue du Pré des Bois 69840 Jullié;69840;1960-05-23;modérée;True;normale
+DE LA SEIGLIERE;MARIE-CÉLINE;2;60;52 Montée Carbon 69270 Cailloux-sur-Fontaines;69270;1961-05-21;modérée;False;normale
+DE MULLOT DE VILLENAUT;GABRIELLE;2;59;8 Rue d’Aiguerande 69220 Belleville-en-Beaujolais;69220;1962-04-03;modérée;False;normale
+DE OLIVEIRA ANTONIO;ALAIN;1;25;70 Le Tracot 69430 Lantignié;69430;1996-06-16;modérée;True;normale
+DE PREZZO;CHRISTOPHE;1;68;165 Route de Vourles 69230 Saint-Genis-Laval;69230;1953-08-11;élevée;True;très élevée
+DE SA;HERVÉ;1;68;269 Chemin des Roches 69610 Montromant;69610;1953-08-01;élevée;False;élevée
+DE VOGUE;CHLOÉ;2;56;8 Rue du 30 Août 1944 69280 Sainte-Consorce;69280;1965-01-15;modérée;False;très élevée
+DE WULF;SABRINA;2;65;112 Chemin de Ponce 69290 Pollionnay;69290;1956-08-29;modérée;True;très élevée
+DEFRUIT;MAGALI;2;25;20 Rue Paul Valéry 69780 Mions;69780;1995-09-03;modérée;False;normale
+DEGEILH;KHADIDJA;2;56;11 Chemin de Bagatelle 69550 Amplepuis;69550;1965-07-19;modérée;True;normale
+DEGELIKE;LAETITIA;2;47;53 Route de Lyon 69320 Feyzin;69320;1973-10-16;modérée;False;normale
+DEGUEN;MELIO;1;51;16 Rue du 35ème Régiment d’Aviation 69500 Bron;69500;1970-03-23;modérée;True;normale
+DEHONDT;SÉBASTIEN;1;57;2 Avenue Douaumont 69009 Lyon 9e Arrondissement;69009;1963-09-10;faible;True;très élevée
+DEL COCO;VALENTIN;1;64;113 Rue Léon Blum 69100 Villeurbanne;69100;1957-06-01;élevée;False;élevée
+DELACENSERIE;DENIZ;1;46;19 Rue Georges Clémenceau 69200 Vénissieux;69200;1974-08-30;faible;True;normale
+DELAFOSSE;JASMINE;2;69;8 Rue Hector Berlioz 69400 Limas;69400;1951-10-15;modérée;False;élevée
+DELAIVE;MOUSSA;1;74;39 Rue Edouard Aynard 69100 Villeurbanne;69100;1947-08-27;modérée;True;normale
+DELAMARE;MADDY;2;27;67 Rue Jean Foucaud 69120 Vaulx-en-Velin;69120;1993-08-21;modérée;False;normale
+DELANDRE;KEVIN;1;40;34 Rue des Moissons 69190 Saint-Fons;69190;1980-08-14;modérée;True;normale
+DELAPORTE;GUILLAUME;1;33;4 Rue Professeur Calmette 69008 Lyon 8e Arrondissement;69008;1987-11-01;modérée;False;normale
+DELAROQUE;LURDES;2;27;43 Route de la Croix d’Ajoux 69790 Propières;69790;1994-03-13;faible;True;normale
+DELASALLE;YANA;2;22;403 Route du Four à Pain 69840 Émeringes;69840;1999-04-09;modérée;True;normale
+DELATTRE;JEAN-PIERRE;1;50;105 Route du Bois des Tetes 69870 Saint-Bonnet-le-Troncy;69870;1970-09-09;faible;False;normale
+DELENEUVILLE;MICHEL;1;34;304 Route de Bagny 69620 Létra;69620;1987-02-23;modérée;True;normale
+DELFOSSE;ELISE;2;51;5 Rue Chazière 69004 Lyon 4e Arrondissement;69004;1970-06-07;modérée;False;normale
+DELFOSSE;NICOLAS;1;65;5 Rue des Sciences 69100 Villeurbanne;69100;1956-07-29;modérée;True;très élevée
+DELMAS;SÉVERINE;2;42;40 Rue Dunoir 69003 Lyon 3e Arrondissement;69003;1978-12-25;modérée;True;très élevée
+DELMOTE;ANAYS;2;63;105 Rue de la Roche 69840 Cenves;69840;1958-07-21;modérée;True;normale
+DELOUCHE;PHILIPPE;1;47;42 Rue Seignemartin 69008 Lyon 8e Arrondissement;69008;1974-05-08;faible;True;normale
+DELRUE;JEAN;1;29;51 Chemin des Hermières 69340 Francheville;69340;1991-09-08;modérée;True;normale
+DELVILLE;NEFISSA;2;62;14 Chemin de Bellevue 69340 Francheville;69340;1958-10-10;modérée;False;élevée
+DEMAY;KIMBERLEY;2;55;5 Quai Berlioz 69360 Saint-Symphorien-d'Ozon;69360;1966-05-02;modérée;True;normale
+DEMIOT;ERWAN;1;39;31 Avenue Jules Mas 69500 Bron;69500;1982-03-05;élevée;True;normale
+DEMIRAL;STÉPHANE;1;47;616 Chemin des Raffins 69840 Jullié;69840;1974-04-29;modérée;True;normale
+DEMOULIN;JULIEN;1;57;125 Route du Col du Truges 69115 Chiroubles;69115;1964-03-31;faible;True;normale
+DEMOULIN;LILOU;2;74;580 Route de la Gravelle 69115 Chiroubles;69115;1946-12-17;modérée;True;très élevée
+DENIS;NICOLAS;1;61;217 Rue Lieutenant Général Chabert 69400 Villefranche-sur-Saône;69400;1960-08-05;élevée;False;normale
+DENISSE;JOEY;1;65;12 Rue Pierre Stoppa 69200 Vénissieux;69200;1955-11-28;modérée;True;très élevée
+DEPALUS;ANNA;2;41;4 Impasse des Pierres 69820 Vauxrenard;69820;1979-12-06;modérée;True;normale
+DEROUET;AUDREY;2;72;95 Rue de Gerland 69007 Lyon 7e Arrondissement;69007;1949-02-05;modérée;False;normale
+DERRIEN;BENEDICTE;2;36;58 Rue Centrale 69970 Marennes;69970;1984-11-24;faible;False;normale
+DESBOIS;CHRISTOPHE;1;53;30 Impasse des Mesanges 69610 Montromant;69610;1968-01-04;modérée;True;normale
+DESCELIERS;BRIAN;1;43;313 Rue des Ecoles 69840 Jullié;69840;1977-10-12;modérée;True;normale
+DESCLOS;SALOMÉ;2;67;29 Rue Mathieu Dussurgey 69190 Saint-Fons;69190;1954-03-26;modérée;True;élevée
+DESPLANCHES;JEAN-CLAUDE;1;47;8 Rue Henri Barbusse 69310 Pierre-Bénite;69310;1974-07-21;modérée;True;normale
+DESTEPHANIS;TIPHANIE;2;43;20 Route Napoléon 69430 Chénelette;69430;1978-07-14;faible;False;normale
+DESTRO;NOAH;1;72;11 Passage des Alouettes 69008 Lyon 8e Arrondissement;69008;1949-02-03;modérée;False;normale
+DEVIN;CATHERINE;2;50;61 Allée de la Clairière 69520 Grigny;69520;1971-03-05;faible;False;normale
+DEWILDE;GUILLAUME;1;46;44 Chemin Rural de Bois Rizon 69610 Montromant;69610;1975-04-09;modérée;True;normale
+DHALLEINE;MANUEL;1;73;27 Quai Tilsitt 69002 Lyon 2e Arrondissement;69002;1948-08-19;modérée;True;élevée
+DI TRAPANI;ALAIN;1;78;2 Rue du 19 Mars 1962 69120 Vaulx-en-Velin;69120;1943-05-19;modérée;False;élevée
+DIAS GONCLAVES;ESTEBAN;1;60;250 Route de la Tourbière 69430 Chénelette;69430;1961-07-13;modérée;False;élevée
+DIDERON;NADIA;2;56;65 Chemin de la Fontaine 69170 Dième;69170;1965-07-05;faible;True;très élevée
+DIONISI;EZIO;1;37;104 Cote d’Angy 69620 Moiré;69620;1983-11-27;modérée;True;normale
+DIOP;DOMINIQUE;1;26;7 Avenue Raymond de Veyssière 69130 Écully;69130;1994-07-15;modérée;True;normale
+DIXIMUS;AZILIS;2;31;40 Lotissement Bellevue 69610 Montromant;69610;1989-08-16;faible;True;normale
+DJAFER;JULIE;2;71;26 Rue Henri Gorjus 69004 Lyon 4e Arrondissement;69004;1949-12-21;modérée;True;très élevée
+DJERDJAR;PASCAL;1;72;98 Rue Bel Air 69270 Rochetaillée-sur-Saône;69270;1949-07-31;modérée;True;élevée
+DODIN;MARINE;2;42;5 Avenue de Birmingham 69004 Lyon 4e Arrondissement;69004;1979-04-03;faible;False;très élevée
+DOMINGUES;BRUNE;2;33;200 Route des Bonnes 69115 Chiroubles;69115;1987-11-21;modérée;False;normale
+DONARD;SANDRINE;2;25;80 Rue du Lavoir 69790 Propières;69790;1996-01-03;faible;True;normale
+DONCQUE;FRÉDÉRIC;1;54;58 Rue Jean-Claude Vivant 69100 Villeurbanne;69100;1967-05-14;modérée;True;très élevée
+DORGEOT;CAROLINE;2;43;18 Rue du Clos Perret 69780 Saint-Pierre-de-Chandieu;69780;1977-11-06;faible;False;normale
+DORIOL;MARC;1;43;12 Avenue Paul Santy 69008 Lyon 8e Arrondissement;69008;1978-02-09;élevée;False;normale
+DORKEL;ERIC;1;24;110 Route de Saint-Jacques 69840 Cenves;69840;1996-09-20;modérée;False;normale
+DORNIER;CÉCILE;2;63;20 Impasse Jacques Prévert 69780 Mions;69780;1957-10-06;modérée;True;normale
+DOS SANTOS;MICHAEL;1;68;2 Rue des Maraîchers 69120 Vaulx-en-Velin;69120;1952-11-20;élevée;True;normale
+DOS SANTOS GOMES;GAUTHIER;1;65;2097 Le Cret de Rochefort 69170 Affoux;69170;1956-04-26;modérée;True;élevée
+DOUDET;JORAN;1;60;14 Rue Maurice Bouchor 69007 Lyon 7e Arrondissement;69007;1960-11-03;élevée;True;normale
+DOUKOURE;NICOLAS;1;83;93 Chemin des Mouilles 69130 Écully;69130;1937-12-12;modérée;True;normale
+DOUSSELIN;LOUISE;2;73;807 Chemin de la Nuiziére 69550 Meaux-la-Montagne;69550;1947-11-25;faible;True;très élevée
+DRIBAULT;IMENE;2;72;18 Chemin du Danguin 69170 Tarare;69170;1948-11-18;modérée;True;très élevée
+DRIDI;AXEL;1;69;31 Chemin du Bois Joli 69160 Tassin-la-Demi-Lune;69160;1952-01-18;élevée;True;élevée
+DROUIN;CLARA;2;45;7 Rue Jules Guesde 69190 Saint-Fons;69190;1976-07-25;modérée;True;normale
+DRUGEON;PIERRE;1;69;83 Chemin de Revaison 69800 Saint-Priest;69800;1952-08-29;modérée;False;normale
+DU MERLE;SARAH;2;25;30 Rue Charles Richard 69003 Lyon 3e Arrondissement;69003;1995-08-07;modérée;False;normale
+DUBESSET;BRUNO;1;65;10 Allée de la Clé des Champs 69580 Sathonay-Village;69580;1956-08-04;modérée;True;élevée
+DUBOIS;ALEXANDRE;1;23;63 Impasse de Souzon 69115 Chiroubles;69115;1997-08-28;modérée;True;normale
+DUBOIS;ANNE-SOPHIE;2;25;31 Chemin du Bois Joli 69160 Tassin-la-Demi-Lune;69160;1995-12-27;modérée;False;normale
+DUBOS;ORNELLA;2;61;190 Chemin du Bois Dieu 69380 Dommartin;69380;1960-08-23;modérée;True;élevée
+DUBOULOZ;ZACHARIE;1;72;13 Rue du Professeur Roux 69200 Vénissieux;69200;1948-12-21;élevée;True;élevée
+DUBRANA;ADRIEN;1;74;2455 Rue de Montmeterme 69170 Affoux;69170;1946-12-06;modérée;True;très élevée
+DUBREUILH;CHRISTELLE;2;33;12 Rue Jean Macé 69600 Oullins;69600;1988-03-26;modérée;False;normale
+DUCHIER;MICHEL;1;72;455 Route du Sordet 69790 Aigueperse;69790;1949-05-21;modérée;False;normale
+DUCLOS;JOHANNE;2;71;12 Route de Pusignan 69330 Jons;69330;1950-08-28;modérée;True;élevée
+DUCORNEZ;LOUNA;2;52;122 Chemin de la Rivoire 69210 Lentilly;69210;1969-07-19;faible;False;très élevée
+DUFFAU;EDITH;2;33;34 Rue du Vallon Torey 69160 Tassin-la-Demi-Lune;69160;1987-09-28;modérée;True;normale
+DUFOURCQ;DAVID;1;69;17 Montée Georges Kubler 69004 Lyon 4e Arrondissement;69004;1952-04-07;élevée;True;élevée
+DUHEM;DELPHINE;2;20;10 Avenue Barthélémy Thimonnier 69300 Caluire-et-Cuire;69300;2000-10-26;modérée;False;normale
+DUMONT;NELLY;2;69;31 Rue Xavier Privas 69008 Lyon 8e Arrondissement;69008;1952-06-02;modérée;False;normale
+DUMOUSSAUD;RAPHAËL;1;41;2 Boulevard des Tchécoslovaques 69007 Lyon 7e Arrondissement;69007;1979-10-13;modérée;True;élevée
+DUNAND;CLAIRE;2;32;159 Avenue Roger Salengro 69120 Vaulx-en-Velin;69120;1989-07-15;faible;False;normale
+DUNOYER DE SEGONZAC;ANASS;1;46;39 Route de Vienne 69007 Lyon 7e Arrondissement;69007;1975-05-28;modérée;True;normale
+DUPEY;WYATT;1;70;59 Route du Sadot 69170 Saint-Appolinaire;69170;1951-05-20;modérée;True;très élevée
+DUPONT;PASCALE;2;70;200 Route des Bonnes 69115 Chiroubles;69115;1950-12-16;modérée;True;très élevée
+DUPONT;RYAN;1;24;57 Lieu Dit Villard 69790 Saint-Bonnet-des-Bruyères;69790;1996-08-02;modérée;True;normale
+DUPRAT;NATHALIE;2;63;463 Rue de la République 69430 Beaujeu;69430;1958-03-04;modérée;False;élevée
+DUPRE;ABEL;1;36;18 Route du Lacat 69420 Ampuis;69420;1985-02-27;modérée;True;normale
+DURAZ;LÉA;2;56;61 Avenue Roger Salengro 69100 Villeurbanne;69100;1965-02-06;élevée;True;très élevée
+DUTRUGE;SALMA;2;42;44 Cours Eugénie 69003 Lyon 3e Arrondissement;69003;1978-12-07;faible;False;normale
+DUVERGER;KELIANA;2;52;190 Route du Pont Chabrol 69126 Brindas;69126;1969-02-24;modérée;True;normale
+ECARLAT;ANTHONY;1;19;2 Rue Rey Loras 69250 Neuville-sur-Saône;69250;2002-04-25;modérée;True;normale
+EISELE;GABRIEL;1;26;11 Rue Jules Massenet 69150 Décines-Charpieu;69150;1995-05-16;modérée;False;normale
+EL AMCHAOUI;EVELYNE;2;68;103 Rue Vauban 69006 Lyon 6e Arrondissement;69006;1952-10-16;modérée;False;élevée
+EL AZHARI;DAMIEN;1;20;3 Route de Matour 69790 Aigueperse;69790;2001-06-06;modérée;True;normale
+EL AZRI;MARIE;2;43;81 Rue Duguesclin 69006 Lyon 6e Arrondissement;69006;1978-02-18;modérée;True;normale
+EL FADL;FRANÇOIS;1;29;1001 Chemin des Roches Balerces 69550 Meaux-la-Montagne;69550;1992-04-20;modérée;False;normale
+EL GRYS;MELODY;2;51;13 Rue Louis Adam 69100 Villeurbanne;69100;1969-11-20;modérée;False;normale
+EL KAHAN;MANUELLA;2;60;1847 Route de la Croix de l’Orme 69170 Saint-Appolinaire;69170;1961-04-09;modérée;True;élevée
+EL KASSOUF;ESTELLE;2;22;3 Route du Dôme 69630 Chaponost;69630;1998-10-04;modérée;True;normale
+ELISSALDE;MONIA;2;71;154 Montée du Mira 69170 Saint-Appolinaire;69170;1950-02-05;modérée;False;très élevée
+ELOY;LAURENT;1;25;20 Rue Montgolfier 69100 Villeurbanne;69100;1996-02-27;modérée;True;normale
+ELSNER;GILBERT;1;49;39 Allee des Colverts 69380 Chasselay;69380;1971-10-27;modérée;True;élevée
+ELZEIN;STÉPHANIE;2;58;776 Chemin du Grosbost 69380 Saint-Jean-des-Vignes;69380;1962-12-14;modérée;True;normale
+EMIREN;AMÉLIA;2;52;154 Chemin de Tredo 69380 Saint-Jean-des-Vignes;69380;1968-10-03;modérée;True;normale
+ESPOSITO;IVANNA;2;39;4 Rue Fournet 69006 Lyon 6e Arrondissement;69006;1981-10-21;modérée;True;normale
+ETCHELECOU;BRICE;1;51;3 Rue des Bleuets 69740 Genas;69740;1970-02-25;modérée;False;normale
+ETCHEVERRY;LOUBNA;2;34;110 Rue Sully 69150 Décines-Charpieu;69150;1987-04-02;modérée;True;normale
+EVRARD;EMMA;2;46;6 Avenue Rockefeller 69008 Lyon 8e Arrondissement;69008;1974-08-24;modérée;False;normale
+FABRE;CATHERINE;2;69;1 Rue Boileau 69330 Meyzieu;69330;1951-12-02;modérée;True;très élevée
+FABRE;VIVIANE;2;44;18 Chemin de la Puisatière 69370 Saint-Didier-au-Mont-d'Or;69370;1977-01-17;modérée;True;normale
+FAGET;CATHERINE;2;35;18 Rue Rey Loras 69250 Neuville-sur-Saône;69250;1985-11-30;modérée;False;normale
+FAIEFF;MILOUD;1;26;12 Allée du Bois des Côtes 69300 Caluire-et-Cuire;69300;1995-03-05;modérée;False;normale
+FAIVRE;CYPRIEN;1;70;28 Rue de Malval 69670 Vaugneray;69670;1951-02-04;élevée;True;normale
+FAMILIARI;JESSIE;2;53;78 Chemin des Gîtes 69840 Cenves;69840;1968-04-11;modérée;False;normale
+FARRUGIA;LÉNA;2;64;14 Rue de la Mairie 69440 Saint-André-la-Côte;69440;1957-05-07;élevée;True;très élevée
+FAUQUET;FABIENNE;2;53;10 Chemin des Cachottes 69620 Moiré;69620;1968-06-27;modérée;False;normale
+FAURE;CALYPSO;2;53;21 Chemin de Pomponey 69220 Belleville-en-Beaujolais;69220;1968-04-30;modérée;False;normale
+FAURE;ELEA;2;38;2 Impasse du Vallon 69320 Feyzin;69320;1982-08-24;modérée;False;normale
+FAURE;ELSA;2;46;53 Avenue du Chater 69340 Francheville;69340;1975-03-15;faible;True;élevée
+FAUTHOUX;LUCIEN;1;31;1821 Route des Brigands 69820 Vauxrenard;69820;1990-05-28;modérée;True;normale
+FAVORY;LAURA;2;49;14 Chemin Verzieux Ducarré 69110 Sainte-Foy-lès-Lyon;69110;1971-12-08;modérée;False;normale
+FAVRE;FRÉDÉRIC;1;28;397 Route des Chavannes 69840 Émeringes;69840;1992-12-17;modérée;True;normale
+FAYARD;SÉBASTIEN;1;31;3 Rue Laennec 69800 Saint-Priest;69800;1990-05-19;modérée;True;normale
+FAYER;JONATHAN;1;23;50 Impasse Cavalière 69430 Marchampt;69430;1998-04-11;faible;True;normale
+FEMELAND;JADE;2;67;23 Rue du 8 Mai 1945 69320 Feyzin;69320;1954-05-01;faible;True;normale
+FERNANDEZ;DIMITRI;1;67;204 Route du Morillon 69210 Éveux;69210;1954-08-29;modérée;True;élevée
+FERRAGU;THIERRY;1;52;16 Rue du Coquetier 69610 Montromant;69610;1968-10-12;modérée;True;normale
+FERRARI;GÉRALD;1;62;19 Rue Clos Savaron 69004 Lyon 4e Arrondissement;69004;1959-06-17;modérée;True;normale
+FERRARINI;ERIC;1;60;25 Impasse de Rochefort 69170 Affoux;69170;1960-10-02;modérée;True;normale
+FILHOL;HAMIDA;1;40;18 Rue Nungesser et Coli 69008 Lyon 8e Arrondissement;69008;1980-09-15;faible;True;normale
+FINELLE;FRANÇOISE;2;64;126 Rue Professeur Beauvisage 69008 Lyon 8e Arrondissement;69008;1957-05-18;modérée;False;très élevée
+FISCHER;DAVID;1;68;70 Rue de Vers l’Haye 69430 Marchampt;69430;1953-01-05;modérée;True;très élevée
+FLAGA;PIERRE;1;55;7 Chemin des Rames 69120 Vaulx-en-Velin;69120;1966-04-06;élevée;True;normale
+FLAJOLET;CHARLIE;2;48;60 Boulevard des Tchécoslovaques 69007 Lyon 7e Arrondissement;69007;1973-04-23;élevée;False;normale
+FLEURET;LAURENT;1;26;962 Route des Pierres Dorées 69380 Saint-Jean-des-Vignes;69380;1995-01-04;modérée;True;normale
+FLORENSA;SALIMA;2;49;1040 Route de Valsonne 69170 Dième;69170;1972-05-10;modérée;False;normale
+FLORES;STÉPHANIE;2;41;575 Route de Chal 69170 Dième;69170;1980-03-02;modérée;True;très élevée
+FLORET;EMMA;2;67;26 Rue Constant 69003 Lyon 3e Arrondissement;69003;1954-02-22;modérée;True;très élevée
+FLORIOT;SACHA;1;20;26 Chemin des Vignes 69780 Saint-Pierre-de-Chandieu;69780;2000-10-28;faible;True;normale
+FOLLIARD;MARGOT;2;34;181 Le Chatel 69440 Riverie;69440;1986-09-08;modérée;False;normale
+FONTAINE;AYIANA;2;32;70 Chemin des Crozes 69440 Saint-Laurent-d'Agny;69440;1988-09-06;modérée;True;normale
+FONTAINE;JULIEN;1;39;3 Montée du Vernay 69300 Caluire-et-Cuire;69300;1982-03-26;modérée;False;normale
+FONTAINE;MARIE;2;77;19 Rue Thimonnier 69550 Amplepuis;69550;1944-04-11;modérée;True;très élevée
+FONTAINE;THIAGO;1;62;96 Ruette Bazan 69390 Vernaison;69390;1958-11-03;modérée;True;très élevée
+FONTANEL;PHILIPPE;1;28;36 Impasse Plein Sud 69700 Beauvallon;69700;1993-03-23;modérée;True;normale
+FOSSAT;ANGELLA;2;62;831 Route du Bois du Chene 69640 Cogny;69640;1959-05-12;modérée;True;très élevée
+FOUILLEN;NATHALIE;2;53;306 Route de Chal 69170 Dième;69170;1968-05-17;modérée;False;normale
+FOUQUET;JULIE;2;37;2 Chemin du Findez 69340 Francheville;69340;1984-02-01;faible;False;normale
+FOURGEAU;LAURYNE;2;68;24 Rue Vaubecour 69002 Lyon 2e Arrondissement;69002;1952-09-24;modérée;False;très élevée
+FOURNET;AMAURY;1;62;51 Route de Saint Vincent 69240 Thizy-les-Bourgs;69240;1959-05-02;élevée;False;élevée
+FRAGONAS;FABRICE;1;70;175 Rue François Mauriac 69400 Villefranche-sur-Saône;69400;1951-07-13;modérée;True;très élevée
+FRANC;ENOLA;2;22;71 Rue de l’Eglise 69840 Jullié;69840;1998-08-21;faible;False;normale
+FRANCES;CATHERINE;2;59;21 Rue Louis Philippe 69550 Meaux-la-Montagne;69550;1962-02-22;modérée;True;très élevée
+FRANCES;STÉPHANE;1;71;58 Grande Rue 69840 Jullié;69840;1950-05-05;élevée;True;normale
+FRANCOIS;THIERRY;1;28;9 Chemin des Gorges 69130 Écully;69130;1992-10-04;modérée;False;normale
+FREDIERE;BRIGITTE;2;65;8 Rue des Muguets 69780 Toussieu;69780;1956-02-26;modérée;True;normale
+FREMAUX;FRANCK;1;52;25 Rue de l’Ardèche 69330 Meyzieu;69330;1969-06-13;modérée;True;normale
+FRERE;STÉPHANE;1;66;73 Cours Docteur Long 69003 Lyon 3e Arrondissement;69003;1954-10-07;modérée;True;normale
+FRIZZO;LÉO;1;65;12 Rue de Créqui 69006 Lyon 6e Arrondissement;69006;1956-04-11;modérée;True;élevée
+FROMENT;FABRICE;1;70;5746 Boulevard Laurent Bonnevay Intérieur 69100 Villeurbanne;69100;1951-07-07;modérée;True;très élevée
+FROTTE;JULIEN;1;40;523 Chemin du Botton 69790 Propières;69790;1980-11-24;élevée;True;normale
+FU;CLAIRE;2;85;128 Chemin de Clavigny 69670 Vaugneray;69670;1936-09-23;modérée;False;élevée
+FULCONIS;BRUNO;1;74;290 Chemin du Vernay 69790 Saint-Bonnet-des-Bruyères;69790;1947-06-08;élevée;True;très élevée
+FURCY;MADJID;1;62;145 Rue Francis de Pressensé 69100 Villeurbanne;69100;1959-07-24;modérée;True;très élevée
+FYAD;MARIE;2;22;493 Chemin de la Charmatiere 69610 Haute-Rivoire;69610;1999-01-06;modérée;False;normale
+GAAZI;CAPUCINE;2;63;72 Rue Boileau 69006 Lyon 6e Arrondissement;69006;1958-08-08;modérée;True;normale
+GABIER;EMILIE;2;24;174 Avenue Roger Salengro 69120 Vaulx-en-Velin;69120;1997-06-15;modérée;True;normale
+GABILLOUX;MAILYS;2;23;13 Impasse de Bussy 69620 Theizé;69620;1997-09-07;modérée;True;élevée
+GABIROT;PAULINE;2;65;54 Chemin de la Haute Freydière 69700 Givors;69700;1956-06-30;modérée;False;normale
+GACHET;LÉANE;2;48;1 Route du Breuil 69840 Cenves;69840;1973-02-12;modérée;False;normale
+GACOIN;FARAH;2;42;141 Chemin du Charbonnier 69800 Saint-Priest;69800;1978-12-27;modérée;True;élevée
+GADEYNE;MARIA;2;74;6 Rue des Eglantines 69210 Saint-Pierre-la-Palud;69210;1947-01-29;modérée;True;très élevée
+GAILLERES;BÉATRICE;2;74;6 Chemin de l’Ecully 69660 Collonges-au-Mont-d'Or;69660;1946-09-22;modérée;True;normale
+GALLI;ROMAIN;1;34;154 Montée du Mira 69170 Saint-Appolinaire;69170;1986-09-03;modérée;False;normale
+GALLY;VALÉRIE;2;19;11 Rue du Vinatier 69500 Bron;69500;2002-06-14;modérée;True;normale
+GALVIN;ROSELYNE;2;60;35 Rue Molière 69330 Meyzieu;69330;1961-08-16;modérée;False;normale
+GAMET;JEROME;1;74;5 Rue des Cèdres 69340 Francheville;69340;1947-02-26;élevée;True;normale
+GAMET;MAELYS;2;55;1 Chemin du Mont Saint Jean 69380 Saint-Jean-des-Vignes;69380;1966-06-21;modérée;True;normale
+GANDON;CLARYS;2;19;147 Rue Bataille 69008 Lyon 8e Arrondissement;69008;2001-10-08;modérée;True;normale
+GARAYT;CLÉMENT;1;69;36 Rue Pierre Brunier 69300 Caluire-et-Cuire;69300;1952-03-09;faible;False;très élevée
+GARBE;STEVEN;1;41;30 Chemin de Genas 69800 Saint-Priest;69800;1980-01-20;faible;True;normale
+GARCIA;FLORIAN;1;69;8 Rue Saint Exupéry 69200 Vénissieux;69200;1951-10-27;élevée;True;élevée
+GARDET;SYLVAIN;1;45;333 Rue des Blouzes 69840 Émeringes;69840;1975-08-28;modérée;True;élevée
+GARRIGUES;VALÉRIE;2;59;12 Chemin du Gravier Blanc 69330 Meyzieu;69330;1962-06-05;modérée;False;élevée
+GASNIER;JULIE;2;71;29 Rue des Freres Lumiere 69740 Genas;69740;1949-11-12;faible;True;élevée
+GASNIER;KENDRA;2;41;440 Route de Parange 69430 Marchampt;69430;1980-03-12;modérée;False;normale
+GASNIER;MARIE;2;73;100 Route du Favret 69270 Cailloux-sur-Fontaines;69270;1947-12-23;élevée;True;élevée
+GASSIOT;THOMAS;1;44;2 Chemin de Chantevent 69530 Brignais;69530;1977-02-01;modérée;True;normale
+GATEAU;ISABELLE;2;70;18 Rue Pierre Termier 69009 Lyon 9e Arrondissement;69009;1951-07-20;modérée;False;normale
+GAUCHET;KATHLEEN;2;40;48 Chemin des Terres 69210 Lentilly;69210;1980-12-24;modérée;False;normale
+GAUD;SANDRINE;2;62;40 Avenue Lacassagne 69003 Lyon 3e Arrondissement;69003;1958-12-05;faible;True;normale
+GAUDEUL;ELODIE;2;41;74 Rue Antoine Charial 69003 Lyon 3e Arrondissement;69003;1980-05-16;modérée;False;normale
+GAUT;ANNA;2;59;16 Rue de la Corsière 69200 Vénissieux;69200;1962-05-24;modérée;True;normale
+GAUTHIER;LUIS;1;39;20 Rue de Bonneton 69530 Brignais;69530;1982-06-24;faible;True;très élevée
+GAUTSCH;AYOUB;1;41;78 Rue Alexandre Boutin 69100 Villeurbanne;69100;1979-10-31;modérée;True;normale
+GAY;FLORENCE;2;29;23 Avenue de Verdun 69540 Irigny;69540;1991-12-17;modérée;True;normale
+GAY;MARIE-FRANÇOISE;2;60;11 Rue Albert Camus 69170 Tarare;69170;1960-12-16;modérée;False;très élevée
+GAY;NASSIM;1;66;21 Rue de la Grande Charrière 69380 Les Chères;69380;1955-03-10;modérée;True;très élevée
+GAZANIOL;JULIA;2;20;303 Route des Jolivets 69790 Propières;69790;2001-06-11;modérée;True;normale
+GAZONNAUD;SAIM;1;68;125 Chemin de Voluet 69820 Vauxrenard;69820;1953-06-28;élevée;True;élevée
+GELETA;ANTOINE;1;65;63 Route du Bruissin 69340 Francheville;69340;1956-05-02;modérée;True;élevée
+GENEREAU;CÉLINE;2;56;303 Petit Chemin de Bordelan 69400 Villefranche-sur-Saône;69400;1965-03-26;modérée;True;très élevée
+GEORGES;JORDAN;1;23;9 Montee de la Traboule 69610 Montromant;69610;1998-02-08;modérée;True;élevée
+GERARD;NOËL;1;48;21 Rue des Fayettes 69400 Villefranche-sur-Saône;69400;1972-11-10;faible;True;normale
+GERAT;CLÉMENCE;2;59;1 Impasse de la Basse Combe 69540 Irigny;69540;1962-04-04;modérée;True;très élevée
+GERIN;MARIE;2;54;1138 Route de la Pyramide 69870 Saint-Cyr-le-Chatoux;69870;1966-08-24;modérée;True;normale
+GERMAIN;AURÉLIE;2;63;24 Rue des Droits de l’Homme 69120 Vaulx-en-Velin;69120;1958-05-30;modérée;False;élevée
+GERMAN;CLAIRE;2;70;558 Route de Bagny 69620 Létra;69620;1951-06-12;modérée;True;élevée
+GHMARA;FRÉDÉRIC;1;19;186 Avenue Berthelot 69007 Lyon 7e Arrondissement;69007;2002-02-13;modérée;True;normale
+GIAIME;RÉMI;1;63;2 Allée Beauvallon 69230 Saint-Genis-Laval;69230;1958-07-11;modérée;True;normale
+GIARMANA;MARTIN;1;50;179 Montée des Rougelons 69840 Émeringes;69840;1971-01-10;faible;True;normale
+GILBERT;ALICIA;2;31;11 Allée de l’Aqueduc 69570 Dardilly;69570;1990-05-27;faible;True;normale
+GILBERT;JANINE;2;66;330 Grande Rue 69620 Sainte-Paule;69620;1955-01-20;modérée;False;normale
+GILCHRIST;TASNIME;2;34;2865 Rue de Montmeterme 69170 Affoux;69170;1987-04-16;modérée;False;normale
+GILLERON;MOHAMED;1;52;2995 Rue de Montmeterme 69170 Affoux;69170;1968-09-01;faible;True;normale
+GIQUEL;CINDY;2;58;5 Avenue Paul Marcelin 69120 Vaulx-en-Velin;69120;1963-05-05;faible;False;normale
+GIRALDI;YANIS;1;21;1930 Le Guillin 69170 Affoux;69170;1999-11-28;modérée;True;normale
+GIRARD;FUAT;1;58;12 Rue Père Chevrier 69007 Lyon 7e Arrondissement;69007;1963-02-24;faible;False;élevée
+GIRARD;PIERRE;1;32;4 Lotissement de la Croix Sainte-Agathe 69440 Saint-André-la-Côte;69440;1988-12-13;modérée;True;normale
+GIRAUDEAU;BÉATRICE;2;91;19 Rue Bourgelat 69002 Lyon 2e Arrondissement;69002;1930-07-02;modérée;False;très élevée
+GIROUD;CATHERINE;2;30;166 Chemin du Massacrier 69620 Sainte-Paule;69620;1990-10-19;modérée;False;normale
+GLOTIN;SIMON;1;72;94 Avenue Francis de Pressensé 69200 Vénissieux;69200;1949-06-28;modérée;True;normale
+GODQUIN;JOËL;1;71;48 Rue Commandant Charcot 69005 Lyon 5e Arrondissement;69005;1950-01-27;élevée;True;élevée
+GONCALVES;CORINNE;2;30;14 Rue Omer Louis 69003 Lyon 3e Arrondissement;69003;1991-03-19;modérée;False;très élevée
+GORVAN;KARINE;2;87;28 Route de Chazay 69380 Civrieux-d'Azergues;69380;1934-07-06;modérée;True;très élevée
+GOSLAN;ELANA;2;85;181 Rue de la Barmondiere 69480 Ambérieux;69480;1936-08-18;modérée;True;élevée
+GOUIN;RENÉ;1;70;60 Rue de la Grange Thival 69930 Saint-Laurent-de-Chamousset;69930;1951-07-20;élevée;True;très élevée
+GOUSSARD;MATTÉO;1;67;119 Chemin des Bottières 69530 Orliénas;69530;1954-02-06;modérée;True;très élevée
+GOUZON;CAMILLE;2;43;6 Route de Mornant 69440 Saint-André-la-Côte;69440;1978-04-18;modérée;True;normale
+GRADECKI;PHILIPPE;1;64;280 Rue des Bruyeres Vaines 69480 Morancé;69480;1957-03-02;modérée;True;élevée
+GRANGER;ROMAIN;1;73;158 Impasse du Repos 69390 Charly;69390;1948-08-31;modérée;False;élevée
+GRANIER;PASCAL;1;55;12 Rue des Roses 69100 Villeurbanne;69100;1966-04-15;modérée;True;normale
+GRAVENOR;STELLA;2;70;14 Rue Jacques-Louis Hénon 69004 Lyon 4e Arrondissement;69004;1951-07-04;modérée;True;très élevée
+GREGORY MACLEAN;SALOMÉ;2;49;8 Rue Joseph Comeau 69510 Soucieu-en-Jarrest;69510;1971-08-24;modérée;False;normale
+GRELLIER;ROMAIN;1;48;20 Rue du Fer à Cheval 69840 Cenves;69840;1972-09-10;modérée;False;normale
+GRENET;VALÉRIE;2;64;109 Avenue Jules Guesde 69200 Vénissieux;69200;1957-02-09;modérée;False;normale
+GRIGNON;ELOI;1;19;34 Allée Jean Paul II 69110 Sainte-Foy-lès-Lyon;69110;2001-10-23;modérée;False;normale
+GRILLON;MAXIME;1;63;21 Route Departementale 386 69560 Sainte-Colombe;69560;1958-07-24;modérée;False;normale
+GROS;JÉRÔME;1;64;5 Rue de Brest 69330 Meyzieu;69330;1956-10-17;modérée;True;élevée
+GROS DESIRS;MELODIE;2;66;2 Rue Louis Vitet 69001 Lyon 1er Arrondissement;69001;1955-08-23;modérée;True;très élevée
+GROUSSEAUD;EMRE;1;57;36 Place de l’Eglise 69870 Saint-Bonnet-le-Troncy;69870;1963-10-22;modérée;True;très élevée
+GUARESI;SAIDA;2;63;8 Rue Honoré de Balzac 69330 Meyzieu;69330;1958-01-24;modérée;True;élevée
+GUEDE;MOHAMED;1;23;100 Route du Bois Neuf 69115 Chiroubles;69115;1998-03-08;modérée;False;normale
+GUEFFIER;MICHEL;1;64;846 Route de la Cime 69840 Émeringes;69840;1957-06-22;modérée;True;élevée
+GUERRAND;SOPHIE;2;45;154 Route des Gonnachons 69790 Saint-Clément-de-Vers;69790;1976-04-27;modérée;True;normale
+GUETTE;ANNE-SOPHIE;2;25;14 Avenue de la République 69200 Vénissieux;69200;1995-09-28;faible;False;normale
+GUEUDIN;CHARLY;1;73;65 Chemin de la Begonnière 69230 Saint-Genis-Laval;69230;1948-07-16;élevée;True;normale
+GUIBERT;JORDAN;1;39;44 Route de Ternay 69360 Communay;69360;1982-03-02;modérée;True;normale
+GUIDEZ;NINON;2;66;14 Rue du Vallon d’Or 69370 Saint-Didier-au-Mont-d'Or;69370;1954-12-01;modérée;True;très élevée
+GUILBAUD;NICOLAS;1;47;196 Chemin du Berthelier 69790 Propières;69790;1974-06-27;modérée;True;normale
+GUILLAUME;CHANTAL;2;68;110 Rue Ferdinand Buisson 69003 Lyon 3e Arrondissement;69003;1953-02-23;faible;True;très élevée
+GUILLAUME;LAURA;2;20;21 Chemin de la Fontaine 69330 Jons;69330;2001-05-13;faible;False;normale
+GUILLERM;NADIA;2;42;126 Rue de la Roche 69840 Cenves;69840;1978-10-24;modérée;True;normale
+GUILLERMIN;ANAÏS;2;60;42 Rue Lucette et René Desgrand 69100 Villeurbanne;69100;1961-06-15;modérée;True;très élevée
+GUILLET;FLORIAN;1;55;195 Rue du 19 Mars 1962 69390 Millery;69390;1966-03-03;modérée;True;très élevée
+GUILLET;LAURENT;1;39;1 Rue du Puits Perron 69380 Les Chères;69380;1982-03-02;modérée;True;normale
+GUILLOT;AXELLE;2;74;4 Rue Pierre Audry 69009 Lyon 9e Arrondissement;69009;1947-01-31;modérée;False;très élevée
+GUILLOT;CAPUCINE;2;26;3 Rue Enrico Fermi 69100 Villeurbanne;69100;1995-03-04;modérée;True;normale
+GUILLOTON;VALÉRIE;2;47;3 Rue Chardonnet 69120 Vaulx-en-Velin;69120;1973-08-16;modérée;False;normale
+GUILLOUF;LOUISE;2;68;233 Rue du Petit Guillermet 69270 Cailloux-sur-Fontaines;69270;1952-10-08;modérée;False;élevée
+GUIRAUD;ARMELLE;2;84;10 Avenue Marius Guerpillon 69290 Pollionnay;69290;1937-02-21;élevée;True;très élevée
+HABASQUE;ANTOINE;1;45;19 Rue Georges Lyvet 69200 Vénissieux;69200;1976-04-01;modérée;True;normale
+HALBACH;MORGAN;1;57;6 Rue Nouvelle 69680 Chassieu;69680;1964-08-19;modérée;True;normale
+HALLEZ;LOU;2;60;302 Cours Emile Zola 69100 Villeurbanne;69100;1961-02-26;modérée;True;normale
+HAMDAOUI;ELYAS;1;61;26 Rue Louise Michel 69800 Saint-Priest;69800;1960-07-30;modérée;True;normale
+HAMMOND CHAMBERS BORGNIS;ANNE;2;35;60 Chemin du Moulin 69790 Aigueperse;69790;1985-08-08;modérée;False;normale
+HAMOUR;LÉNA;2;30;266 Route de la Chirette 69790 Propières;69790;1991-04-28;modérée;False;normale
+HANNI;CYRIL;1;64;1503 Route des Grosliers 69840 Cenves;69840;1956-09-10;faible;False;normale
+HANNIER;LUCIE;2;32;284 Chemin des Ecureuils 69170 Valsonne;69170;1989-01-19;modérée;True;normale
+HARDY;NATHALIE;2;61;23 Avenue Jules Guesde 69200 Vénissieux;69200;1960-03-16;faible;True;normale
+HASCOET;MARION;2;57;365 Impasse les Bressans 69840 Cenves;69840;1964-08-10;modérée;True;très élevée
+HAUTEMAYOU;CEDRIC;1;33;333 Le Chateau 69440 Riverie;69440;1987-09-20;modérée;False;normale
+HAVART;MARCO;1;27;4 Les Terres 69470 Ranchal;69470;1993-11-03;modérée;True;normale
+HAY;SAKINA;2;50;163 Chemin du Peloux 69620 Sainte-Paule;69620;1970-08-23;modérée;False;normale
+HEAD;CHRISTELLE;2;52;1110 Route des Aiguays 69870 Saint-Cyr-le-Chatoux;69870;1968-11-18;faible;False;normale
+HEBERT;THÉO;1;66;8 Rue d’Anjou 69330 Meyzieu;69330;1955-06-23;élevée;True;élevée
+HEBRARD;UMAR;1;23;12 Lotissement les Genets 69630 Chaponost;69630;1997-11-30;modérée;True;normale
+HEIRIES;CHLOÉ;2;23;174 Impasse des Jonnets 69840 Cenves;69840;1997-08-23;faible;True;normale
+HEITZ;LOTFI;1;79;123 Chemin du Crêt de Montcher 69210 Lentilly;69210;1942-05-21;élevée;True;très élevée
+HENOCQUE;NOËLLE;2;27;312 Route de Chervolin 69610 Montromant;69610;1993-08-08;faible;True;normale
+HERNANDEZ;SÉBASTIEN;1;34;179 Cours Lafayette 69006 Lyon 6e Arrondissement;69006;1986-11-22;modérée;False;normale
+HERVELIN;JEAN-LOU;1;42;335 Impasse de la Rama 69700 Givors;69700;1978-09-01;modérée;False;très élevée
+HERVOIR;LOUIS;1;69;42 Impasse Rebotton 69400 Villefranche-sur-Saône;69400;1952-04-11;modérée;True;très élevée
+HEUDE;ELISABETH;2;87;15 Rue Louis Aulagne 69200 Vénissieux;69200;1934-01-29;modérée;True;très élevée
+HEUDELEINE;LÉO;1;41;16 Rue Château Gaillard 69100 Villeurbanne;69100;1980-07-25;élevée;True;normale
+HIDRI;AURORE;2;53;40 Rue Marietton 69009 Lyon 9e Arrondissement;69009;1968-06-11;élevée;False;normale
+HINDERCHIED;CHRISTELLE;2;72;1 Rue des Peupliers 69100 Villeurbanne;69100;1949-02-10;modérée;False;élevée
+HIRSCH;AURÉLIE;2;71;83 Rue Moncey 69003 Lyon 3e Arrondissement;69003;1950-02-07;modérée;False;très élevée
+HLYN;MARIUS;1;48;221 Rue Jean Voillot 69100 Villeurbanne;69100;1972-10-11;modérée;True;élevée
+HOAREAU;XAVIER;1;31;6 Rue de la Patelière 69290 Craponne;69290;1989-12-11;faible;True;normale
+HODARA;ISABELLE;2;72;218 Rue des Fanges 69590 Saint-Symphorien-sur-Coise;69590;1948-10-16;élevée;False;très élevée
+HOGARD;JOSEPH;1;35;4 Rue François Guillard 69120 Vaulx-en-Velin;69120;1986-02-13;faible;True;élevée
+HOINVILLE;SIMON;1;37;42 Cours Gambetta 69007 Lyon 7e Arrondissement;69007;1983-08-02;modérée;True;très élevée
+HOMBERT;NOAH;1;66;25 Rue Boris Vian 69400 Arnas;69400;1954-12-19;élevée;True;très élevée
+HOUSSIN;FLORENT;1;75;50 Rue Roger Radisson 69005 Lyon 5e Arrondissement;69005;1946-06-13;faible;True;normale
+HOUVENAEGHEL;FLORIAN;1;74;2 La Montagne 69240 Thizy-les-Bourgs;69240;1947-09-06;élevée;True;très élevée
+HOWARD;QUENTIN;1;65;4 Rue Toulouse Lautrec 69680 Chassieu;69680;1956-03-06;élevée;True;élevée
+HUARD;MANELE;2;72;70 Rue Gabriel Gauthier 69430 Marchampt;69430;1948-11-06;modérée;False;très élevée
+HUET;TOM;1;60;10 Avenue Auguste Wissel 69250 Neuville-sur-Saône;69250;1961-07-26;élevée;True;normale
+HUMEZ;HADEL;1;37;1198 Route du Saint-Rigaud 69790 Propières;69790;1984-07-16;modérée;True;normale
+IBARBOURE;DAVID;1;61;15 Chemin des Petites Brosses 69300 Caluire-et-Cuire;69300;1959-11-27;modérée;True;normale
+INGINA;DAMIEN;1;56;367 Route de Sain-Bel 69210 Lentilly;69210;1964-10-13;faible;True;normale
+INQUIETE;ARTHUR;1;28;57 Lieu Dit Villard 69790 Saint-Bonnet-des-Bruyères;69790;1992-08-09;modérée;False;normale
+IRANINASAB;FLORIAN;1;61;22 Chemin de la Courtille 69110 Sainte-Foy-lès-Lyon;69110;1960-06-09;modérée;True;élevée
+ISRAEL;CÉLINE;2;43;8 Rue Jean-Baptiste Durand 69100 Villeurbanne;69100;1977-08-13;faible;True;normale
+ISRAEL;ELISE;2;31;455 Route du Sordet 69790 Aigueperse;69790;1989-12-03;modérée;False;normale
+ITURCAETA;DOMINIQUE;1;56;11 Rue Louis Tixier 69008 Lyon 8e Arrondissement;69008;1965-02-16;élevée;True;normale
+IZM;JUSTINE;2;56;13 Rue du Coquetier 69610 Montromant;69610;1965-06-23;modérée;True;élevée
+JACATON;ANNIE;2;47;14 Rue Vauban 69006 Lyon 6e Arrondissement;69006;1974-06-23;modérée;False;normale
+JACOB;ELIANE;2;61;44 Ancienne Route d’Irigny 69530 Brignais;69530;1960-02-03;modérée;True;normale
+JACOB;THÉO;1;67;69 Route de Genas 69120 Vaulx-en-Velin;69120;1954-02-05;modérée;True;élevée
+JAFFREDO;PATRICIA;2;65;64 Chemin du Lavoir 69380 Saint-Jean-des-Vignes;69380;1956-07-20;modérée;True;très élevée
+JAGOURY;MAXIME;1;70;198 Route des Aiguays 69870 Saint-Cyr-le-Chatoux;69870;1951-08-13;modérée;False;très élevée
+JAISSON;MARIELLE;2;25;1 Place Louis Grenier 69320 Feyzin;69320;1996-01-25;modérée;False;normale
+JARLAN;MARJOLAINE;2;39;59 Chemin de Chantegrillet 69110 Sainte-Foy-lès-Lyon;69110;1981-08-10;modérée;False;normale
+JAUFFRED;KEVIN;1;59;76 Rue Henri Maréchal 69800 Saint-Priest;69800;1962-01-05;modérée;True;élevée
+JAVERLHIAC;EMELYNE;2;38;37 Avenue de Pressensé 69008 Lyon 8e Arrondissement;69008;1982-07-30;modérée;True;normale
+JAVOIS;LUCAS;1;69;2 Rue Pierre Timbaud 69200 Vénissieux;69200;1951-11-15;modérée;True;normale
+JEAN;SEVERINE;2;63;75 Route de Roche Bas 69550 Meaux-la-Montagne;69550;1958-05-22;modérée;False;normale
+JEAN BAPTISTE;NICOLAS;1;52;30 Rue Jean Broquin 69006 Lyon 6e Arrondissement;69006;1968-10-11;faible;True;normale
+JEAN CHARLES;PETER;1;72;849 Route de la Corniche 69210 Fleurieux-sur-l'Arbresle;69210;1948-12-20;modérée;True;très élevée
+JEAN CLAUDE;MICHAEL;1;21;46 Allée des Lauriers 69250 Montanay;69250;2000-03-18;modérée;True;normale
+JEANNIER;YOUSSEF;1;66;252 Rue Paul Bert 69400 Villefranche-sur-Saône;69400;1954-11-05;modérée;True;très élevée
+JEANROT;LOUISA;2;74;9 Avenue Rosa Parks 69009 Lyon 9e Arrondissement;69009;1946-11-23;modérée;True;élevée
+JEGOUREL;CLÉMENT;1;20;12 Rue du Champ des Pierres 69380 Saint-Jean-des-Vignes;69380;2001-03-05;modérée;True;normale
+JEON;JESSICA;2;38;28 Rue du Vallon Torey 69160 Tassin-la-Demi-Lune;69160;1982-11-07;modérée;True;normale
+JEUNET;ALICE;2;21;10 Avenue Pierre Sémard 69200 Vénissieux;69200;2000-06-23;faible;True;normale
+JIDKOFF;CÉDRIC;1;72;5 Rue Claude Boyer 69007 Lyon 7e Arrondissement;69007;1949-03-18;modérée;True;élevée
+JODTS;ROMANE;2;23;1448 Route de la Cime 69840 Émeringes;69840;1998-01-29;modérée;True;normale
+JOFFRIN;CORINE;2;85;94 Rue du Dauphiné 69003 Lyon 3e Arrondissement;69003;1936-02-20;modérée;False;normale
+JOLICOEUR;PIERRE;1;70;397 Rue de Thizy 69400 Villefranche-sur-Saône;69400;1951-02-27;modérée;True;élevée
+JOLY;AYMERIC;1;33;158 Rue de l’Eglise 69840 Jullié;69840;1988-07-04;modérée;True;normale
+JOOS;ETIENNE;1;70;12 Rue Mathieu Dussurgey 69190 Saint-Fons;69190;1951-03-22;élevée;True;élevée
+JOUAN DE KERVENOAEL;TUANA;2;19;7 Chemin des Dalhias 69790 Aigueperse;69790;2001-10-27;modérée;False;normale
+JOULIA;STÉPHANE;1;58;12 Rue de la Marne 69100 Villeurbanne;69100;1963-03-08;modérée;True;très élevée
+JOUNEAU;SOPHIE;2;49;32 Rue Valentin Couturier 69004 Lyon 4e Arrondissement;69004;1972-04-03;modérée;True;normale
+JOUNIAU;JOSEPHINE;2;30;136 Ruelle de Glaizé 69620 Sainte-Paule;69620;1990-11-28;modérée;True;normale
+JOURDAN;CHRISTELLE;2;67;1159 Route de Cenves 69840 Cenves;69840;1953-12-27;modérée;False;élevée
+JOZWICKI;RAPHAËL;1;36;19 Rue Saint Mathieu 69008 Lyon 8e Arrondissement;69008;1985-06-30;faible;True;élevée
+JULLIAN;DAVID;1;58;17 Impasse du Beaujolais 69330 Meyzieu;69330;1963-07-06;modérée;True;très élevée
+KABOL;LÉO;1;56;64 Route des Ocques Rouges 69380 Saint-Jean-des-Vignes;69380;1965-03-24;modérée;True;normale
+KACHMONE;STÉPHANE;1;35;151 Rue du Général de Gaulle 69530 Brignais;69530;1985-12-07;modérée;True;normale
+KACI CHAOUCHE;CORINNE;2;55;2 Place de la Poste 69115 Chiroubles;69115;1965-09-20;modérée;True;élevée
+KAMAL;VANESSA;2;49;6 Place de la Fontaine 69840 Jullié;69840;1972-08-04;modérée;False;normale
+KANIA;JEREMY;1;44;59 Rue Joannès Vallet 69200 Vénissieux;69200;1977-04-26;modérée;True;élevée
+KAO;SLIMANE;1;63;420 Rue des Blouzes 69840 Émeringes;69840;1958-07-21;modérée;True;normale
+KARAM;TOUFIK;1;34;3 Impasse Louis Chirpaz 69130 Écully;69130;1987-03-17;modérée;True;normale
+KARASU;MAXIME;1;26;20 Rue des Mésanges 69390 Vernaison;69390;1994-12-13;modérée;True;normale
+KARDELLAS;PELAGIE;2;59;34 Rue Clément Michut 69100 Villeurbanne;69100;1962-07-02;modérée;False;normale
+KARTHEUSER;ERIC;1;65;35 Rue André Bollier 69007 Lyon 7e Arrondissement;69007;1956-05-25;modérée;False;très élevée
+KATTYGNARATH;SOULEYMANE;1;57;8 Rue Nansen 69150 Décines-Charpieu;69150;1963-12-13;modérée;True;normale
+KEHYRIAN;ELODIE;2;20;231 Cours Emile Zola 69100 Villeurbanne;69100;2001-06-30;faible;False;normale
+KERAVEC;PAUL;1;60;9 Rue Bissardon 69300 Caluire-et-Cuire;69300;1960-12-02;modérée;True;très élevée
+KERDRANVAT;TOM;1;63;13 Rue Pierre Sémard 69600 Oullins;69600;1957-11-27;modérée;True;élevée
+KERGOSIEN;WASSIM;1;51;38 Rue Gambetta 69330 Meyzieu;69330;1969-08-23;modérée;True;normale
+KERMARREC;FABIAN;1;23;4 Rue Jules Ferry 69190 Saint-Fons;69190;1997-10-03;faible;True;normale
+KEROGUES;KYLIAN;1;46;2 Ruelle du Vieux Moulin 69160 Tassin-la-Demi-Lune;69160;1974-09-07;faible;True;normale
+KHAN;ALAIN;1;65;85 Impasse des Villiers 69430 Marchampt;69430;1955-12-06;faible;False;normale
+KLEIN;CHRISTOPHER;1;48;693 Route du Clos 69700 Montagny;69700;1973-07-20;modérée;True;normale
+KLUCZNY;LOAN;1;21;20 Route de Lamure 69430 Chénelette;69430;2000-04-29;faible;True;normale
+KOSCIELNY;KARINE;2;70;46 Rue Montgolfier 69006 Lyon 6e Arrondissement;69006;1950-12-09;modérée;True;normale
+KOSNAR;AGNÈS;2;23;4 Montee du Chatel 69440 Saint-André-la-Côte;69440;1997-08-06;modérée;False;normale
+KOTHAY;SÉBASTIEN;1;67;13 Impasse de la Vigne 69840 Cenves;69840;1954-02-06;élevée;True;normale
+KOUYATE;ETHAN;1;70;118 Rue du Bourbonnais 69009 Lyon 9e Arrondissement;69009;1951-06-14;faible;True;élevée
+KOVACHEVA;CAMILLE;2;56;11 Impasse de la Croix Rouge 69170 Saint-Appolinaire;69170;1964-08-28;modérée;False;normale
+KOYOUMIAN;ALICE;2;73;300 Rue Paul Bert 69003 Lyon 3e Arrondissement;69003;1947-10-31;modérée;False;normale
+KRELLE;ALEXANDRE;1;70;5 Chemin de l’Epi 69120 Vaulx-en-Velin;69120;1951-08-27;faible;True;normale
+KUENTZ;SULLIVAN;1;59;36 Rue Victor Hugo 69780 Mions;69780;1962-01-03;élevée;True;normale
+KUKOLECA;MARIANNE;2;29;32 Allée des Grandes Trêves 69290 Saint-Genis-les-Ollières;69290;1992-03-15;modérée;True;normale
+KUPER;JULIE;2;27;3305 Route de Gibles 69790 Aigueperse;69790;1993-10-26;faible;False;normale
+KUPPERT;CHLOE;2;60;162 Rue Professeur Beauvisage 69008 Lyon 8e Arrondissement;69008;1960-11-05;modérée;True;élevée
+LABE;YOANN;1;28;29 Impasse de Glaizé 69620 Sainte-Paule;69620;1993-05-29;faible;True;normale
+LABOPIN;ISABELLE;2;60;256 Rue des Cartalisses 69124 Colombier-Saugnieu;69124;1960-11-03;faible;False;normale
+LACHI;JENNIFER;2;31;243 Route de Roche Bas 69550 Meaux-la-Montagne;69550;1990-07-07;modérée;True;normale
+LACLAU;JULIAN;1;22;1 Route du Torrenchin 69170 Affoux;69170;1999-05-20;modérée;True;normale
+LACROIX;MARGAUX;2;21;125 Chemin de Voluet 69820 Vauxrenard;69820;1999-10-07;modérée;True;élevée
+LAFFITTE;GUILHEM;1;36;136 Impasse de Montgelin 69620 Val d'Oingt;69620;1984-09-06;modérée;True;normale
+LAFLEUR;LOLA;2;69;370 Rue des Veloutiers 69530 Orliénas;69530;1952-02-25;modérée;False;très élevée
+LAFONTAINE;SOPHIA;2;45;765 Chemin du Souffle 69870 Saint-Bonnet-le-Troncy;69870;1975-08-16;modérée;True;normale
+LAGUENY;LAURENCE;2;48;57 Lieu Dit Villard 69790 Saint-Bonnet-des-Bruyères;69790;1973-02-08;modérée;False;normale
+LAHER;FIONA;2;26;6 Rue Victor Hugo 69270 Fontaines-sur-Saône;69270;1994-12-10;modérée;False;normale
+LALLEMAND;ADELINE;2;45;42 Rue de Narvik 69008 Lyon 8e Arrondissement;69008;1976-07-28;modérée;False;normale
+LALOT;PASCAL;1;64;311 Route de Changy 69820 Vauxrenard;69820;1956-11-17;modérée;False;normale
+LAMANDE;QUENTIN;1;20;124 Rue de la Bascule 69115 Chiroubles;69115;2001-06-19;élevée;True;normale
+LAMARQUE;FRÉDÉRIC;1;48;1130 Route de Valsonne 69170 Dième;69170;1972-11-03;modérée;False;normale
+LAMBE;EUGÉNIE;2;64;9 Place Antoine Saunier 69120 Vaulx-en-Velin;69120;1957-08-05;élevée;True;normale
+LANG;INES;2;66;56 Route de Varissan 69700 Givors;69700;1955-05-09;modérée;True;très élevée
+LANGLOIS;MAXENCE;1;36;79 Route de la Pyramide 69870 Saint-Cyr-le-Chatoux;69870;1985-06-28;faible;True;normale
+LAPEYRE;NATALI;2;63;96 Rue de Bonnefond 69440 Saint-André-la-Côte;69440;1958-06-02;modérée;False;normale
+LARGER;HUGO;1;70;6 Rue Marcel Doret 69100 Villeurbanne;69100;1951-04-23;modérée;False;élevée
+LARGETEAU;MELINDA;2;61;12 Rue Louis Philippe 69550 Meaux-la-Montagne;69550;1960-05-22;faible;True;normale
+LAROUSSI;ROMUALD;1;19;56 Allée des Colombières 69790 Propières;69790;2001-08-30;modérée;True;normale
+LARQUIE;SAMUEL;1;35;26 Rue Sergent Michel Berthet 69009 Lyon 9e Arrondissement;69009;1986-03-14;modérée;True;normale
+LASSALLE;ERIC;1;30;560 Rue des Montgerauds 69840 Cenves;69840;1990-12-28;modérée;False;normale
+LAUDE;BAPTISTE;1;57;7 Route du Bourg 69820 Vauxrenard;69820;1964-05-20;modérée;True;élevée
+LAUNOY;HABIBA;2;69;63 Chemin des Roches 69380 Lissieu;69380;1952-08-12;modérée;True;normale
+LAURENDON;LIZ;2;47;101 Allée de la Girardière 69220 Charentay;69220;1973-10-06;modérée;False;normale
+LAURENT;HÉLÈNE;2;42;92 Rue de l’Eglise 69170 Saint-Appolinaire;69170;1979-04-05;modérée;False;normale
+LAVAQUERIE;ADÈLE;2;64;3748 Route de Premecin 69840 Cenves;69840;1957-07-11;élevée;False;très élevée
+LAVIALLE;ANNE;2;50;1 Le Bourg 69170 Dième;69170;1971-05-23;modérée;True;normale
+LAYRAUD;NICOLAS;1;69;67 Chemin des Côtes 69790 Azolette;69790;1952-03-12;élevée;False;élevée
+LAYRE;SOFIANE;1;59;126 Allée des Ormalines 69290 Craponne;69290;1961-08-28;modérée;True;élevée
+LAZAR;FLORENCE;2;25;580 Chemin du Creux du Lac 69170 Dième;69170;1996-04-09;faible;False;normale
+LAZIC;MATTHIEU;1;29;56 Rue des Soeurs 69610 Montromant;69610;1992-05-25;modérée;True;normale
+LAZZAROTTO;STÉPHANE;1;35;8 Rue de la République 69140 Rillieux-la-Pape;69140;1985-07-25;modérée;False;normale
+LE BOUBENNEC;MANON;2;87;1576 Route du Morgon 69640 Cogny;69640;1934-08-22;modérée;False;normale
+LE BOURLOT;SOPHIE;2;51;44 Route du Clos de Milly 69460 Saint-Étienne-des-Oullières;69460;1970-03-05;modérée;False;normale
+LE BRIS;YOUNA;2;63;544 Chemin de Roche Coucou 69290 Pollionnay;69290;1957-10-27;élevée;True;normale
+LE BRUN;GREGORY;1;37;26 Rue Edouard Rochet 69008 Lyon 8e Arrondissement;69008;1984-04-09;modérée;True;très élevée
+LE DRAPPIER;JULIANNA;2;68;292 Impasse du Pre de la Bique 69610 Montromant;69610;1953-01-07;élevée;False;très élevée
+LE GALLIC;EUGÉNIE;2;44;255 Rue Vendôme 69003 Lyon 3e Arrondissement;69003;1977-05-30;modérée;False;normale
+LE GLAUNEC;RAFAËL;1;30;478 Fond Long 69910 Villié-Morgon;69910;1991-03-22;modérée;True;normale
+LE GOFF;EMMANUELLE;2;78;4 Allée de la Perche 69190 Saint-Fons;69190;1942-10-31;modérée;False;normale
+LE LIGEOUR;MARLÈNE;2;68;118 Route du Favrot 69620 Sainte-Paule;69620;1953-07-17;modérée;False;très élevée
+LE LUYER;ERIC;1;52;4 Rue René Prolongée 69100 Villeurbanne;69100;1969-04-04;modérée;True;normale
+LE MAILLOUX;STÉPHANIE;2;65;297 Avenue Jean Jaurès 69007 Lyon 7e Arrondissement;69007;1955-10-28;modérée;True;très élevée
+LE MEE;CHANTAL;2;50;35 Rue Jules Cambon 69008 Lyon 8e Arrondissement;69008;1970-09-09;modérée;True;très élevée
+LE PAPE;SOANE;2;51;40 Rue Gambetta 69740 Genas;69740;1970-06-07;modérée;False;très élevée
+LE PIVER;GILDAS;1;31;38 Rue Victor Hugo 69200 Vénissieux;69200;1989-08-12;modérée;False;normale
+LE PUILL;FRÉDÉRIC;1;46;9 Rue Danielle Faynel Duclos 69003 Lyon 3e Arrondissement;69003;1975-01-22;modérée;True;normale
+LE QUEAU;VIRGINIE;2;36;30 Rue du Dauphiné 69320 Feyzin;69320;1985-02-21;faible;False;normale
+LE ROUZIC;NICOLAS;1;32;6 Rue Yvonne 69100 Villeurbanne;69100;1989-04-25;modérée;True;normale
+LE TOHIC;VICTOR;1;32;3 Allée du Pré Vert 69340 Francheville;69340;1989-01-02;modérée;True;normale
+LE TREQUESSER;NICOLAS;1;64;11 Chemin de Coquy 69210 Lentilly;69210;1957-03-15;modérée;True;normale
+LE YONDRE;VIRGINIE;2;39;112 Les Charmes 69840 Émeringes;69840;1981-08-23;modérée;False;normale
+LEBERT;JEAN-PIERRE;1;57;5000 Montgeraud 69840 Cenves;69840;1963-11-07;élevée;True;élevée
+LEBLAY;ANTHIME;1;77;7 Rue Bournes 69004 Lyon 4e Arrondissement;69004;1944-08-05;élevée;True;élevée
+LEBRIS;ALEXANDRA;2;27;79 Route du Bouleau 69126 Brindas;69126;1994-05-25;modérée;False;normale
+LEBUGLE;EMY;2;60;28 Rue du Bon Pasteur 69001 Lyon 1er Arrondissement;69001;1961-05-26;modérée;True;très élevée
+LECAPLAIN;VIRGINIE;2;39;39 Rue Bellecombe 69006 Lyon 6e Arrondissement;69006;1981-11-13;modérée;True;normale
+LECAT;AXEL;1;47;17 Avenue des Avoraux 69250 Albigny-sur-Saône;69250;1974-01-11;modérée;True;normale
+LECHAT;JOSEPH;1;48;20 Chemin de Tourvéon 69430 Chénelette;69430;1973-08-02;modérée;True;normale
+LECLERC;STÉPHANE;1;33;129 Rue Louis Philippe 69550 Meaux-la-Montagne;69550;1987-08-25;modérée;True;normale
+LECOCQ;CHARLY;1;38;230 Route de la Tourbière 69430 Chénelette;69430;1983-07-10;modérée;True;normale
+LECOCQ;SANDRINE;2;61;21 Rue des Primevères 69340 Francheville;69340;1960-07-20;modérée;False;normale
+LECOEUR;CAROLE;2;58;70 Impasse Combe Fleurette 69430 Marchampt;69430;1963-02-02;modérée;True;normale
+LEDUC;PATRICK;1;54;554 Route du Point du Jour 69820 Fleurie;69820;1967-04-05;modérée;True;très élevée
+LEE KIEN ON;ENZO;1;59;50 Chemin de la Courtille 69110 Sainte-Foy-lès-Lyon;69110;1962-06-06;élevée;True;très élevée
+LEFEVRE;LOUANN;2;51;7 Avenue de Haute Roche 69310 Pierre-Bénite;69310;1969-12-22;faible;False;élevée
+LEFOL;DAVID;1;39;41 Chemin des Bourgnignons 69820 Vauxrenard;69820;1981-09-15;modérée;True;normale
+LEFORT;CORINNE;2;60;29 Avenue Général de Gaulle 69300 Caluire-et-Cuire;69300;1961-08-06;élevée;True;très élevée
+LEFROID;LEILA;2;40;53 Rue des Fauvettes 69390 Vernaison;69390;1981-03-16;modérée;True;normale
+LEGALE;ROGER;1;60;51 Chemin de la Forêt 69480 Pommiers;69480;1960-08-31;modérée;False;normale
+LEGOUT;MURIEL;2;60;7 Impasse Jean Racine 69120 Vaulx-en-Velin;69120;1960-11-21;modérée;False;normale
+LEHIR;RAYMONDE;2;50;36 Avenue de Ménival 69005 Lyon 5e Arrondissement;69005;1970-11-25;modérée;False;normale
+LEJEUNE;DENIS;1;23;15 Allée du Château 69540 Irigny;69540;1998-02-25;faible;True;normale
+LELIEVRE;ALISON;2;31;8 Rue Pierre et Marie Curie 69680 Chassieu;69680;1990-03-12;modérée;False;normale
+LELLE;NASSIMA;2;40;335 Route des Hauts de Ruère 69790 Propières;69790;1981-03-27;modérée;False;normale
+LEMBERT;CATHY;2;29;919 Route de la Chapelle 69840 Jullié;69840;1991-10-28;modérée;False;normale
+LEMERLE;GUILLEM;1;21;10 Rue Jean-Marc Bernard 69003 Lyon 3e Arrondissement;69003;2000-02-22;modérée;False;normale
+LEMERLE;NELLIE;2;19;170 Route de Beaujeu 69430 Chénelette;69430;2002-01-04;modérée;False;normale
+LEMILLE;KAAN;1;71;125 Rue Léon Blum 69100 Villeurbanne;69100;1949-10-30;modérée;True;très élevée
+LEMORT;LAURE;2;44;35 Rue de la Mairie 69620 Moiré;69620;1977-01-26;faible;True;très élevée
+LENDET;DOMITILLE;2;65;93 Rue du Buisset 69600 Oullins;69600;1955-12-03;modérée;False;élevée
+LENORMAND;ALEXANDRA;2;72;4 Rue Jérome Dulaar 69004 Lyon 4e Arrondissement;69004;1948-12-20;modérée;False;très élevée
+LEPAON;THOMAS;1;49;32 Avenue Paul d’Aubarède 69230 Saint-Genis-Laval;69230;1972-03-13;modérée;False;normale
+LEPREVOST;BRUNO;1;68;23 Rue Clémenceau 69800 Saint-Priest;69800;1953-04-28;élevée;True;très élevée
+LEPRINCE;MANDY;2;52;11 Rue Félix Jacquier 69006 Lyon 6e Arrondissement;69006;1969-04-07;modérée;False;normale
+LEPRON;VINCENT;1;61;38 Rue de la Garenne 69005 Lyon 5e Arrondissement;69005;1960-06-11;modérée;False;très élevée
+LERANDY;JEROME;1;61;14 Rue Pierre Bourgeois 69300 Caluire-et-Cuire;69300;1959-11-12;élevée;True;élevée
+LEROI;LILAS;2;33;1 Impasse Régaud 69300 Caluire-et-Cuire;69300;1988-03-11;modérée;True;normale
+LESIMPLE;MAHÉ;1;21;70 Rue Marcel Cachin 69700 Givors;69700;2000-06-30;modérée;False;normale
+LESSARD;RONAN;1;53;7 Place Bénédict Tessier 69005 Lyon 5e Arrondissement;69005;1968-03-06;modérée;True;normale
+LETUR;VINCENT;1;74;3 Rue de Trèves 69009 Lyon 9e Arrondissement;69009;1947-03-28;élevée;True;élevée
+LEVRAY;LOÏS;1;48;67 Cours Richard Vitton 69003 Lyon 3e Arrondissement;69003;1973-06-23;modérée;True;normale
+LEVY;PHILIPPE;1;49;400 Rue Andre Ampere 69970 Chaponnay;69970;1972-04-08;modérée;True;normale
+LHOTE;AMINE;1;53;44 Chemin de Chambourdon 69790 Aigueperse;69790;1968-07-18;élevée;True;normale
+LHUISSIER;FRANCK;1;48;267 L’Ove 69700 Beauvallon;69700;1973-02-18;modérée;True;élevée
+LICHTENCWALG;MARYLOU;2;24;17 Place de l’Eglise 69870 Saint-Bonnet-le-Troncy;69870;1996-07-18;modérée;True;normale
+LIERE;KARL;1;52;426 Route de Riottier 69400 Villefranche-sur-Saône;69400;1969-06-01;modérée;False;normale
+LIM;MYLA;2;71;709 Chemin du Grand Moulin 69790 Propières;69790;1950-06-17;modérée;True;élevée
+LIN;FLORENT;1;52;25 Rue du Garet 69400 Villefranche-sur-Saône;69400;1969-03-26;modérée;False;normale
+LINDER;TOM;1;53;313 Route de la Châtaignière 69760 Limonest;69760;1968-07-17;élevée;True;normale
+LIOTTARD;FÉLIX;1;42;1688 Route du Saint-Rigaud 69790 Propières;69790;1978-09-16;modérée;True;normale
+LLIDO;LUCAS;1;27;267 Allée du Pigeonnier 69840 Émeringes;69840;1993-10-19;modérée;True;normale
+LO BELLO;DIANE;2;73;12 Rue de Lyon 69330 Meyzieu;69330;1947-10-05;élevée;True;normale
+LODIN;AMANDINE;2;73;140 Avenue Paul Marcelin 69120 Vaulx-en-Velin;69120;1948-06-14;modérée;True;élevée
+LODINI;ALAIN;1;71;3294 Route de Vieux Château 69840 Cenves;69840;1949-09-21;modérée;False;élevée
+LONDAS;PELIN;2;59;10 Chemin Petit 69300 Caluire-et-Cuire;69300;1962-06-14;faible;True;élevée
+LORENZO;PHILIPPE;1;34;943 Vielle Route 69490 Vindry-sur-Turdine;69490;1986-11-23;modérée;True;normale
+LORTEAU;ORSO;1;47;71 Route des Gonnachons 69790 Saint-Clément-de-Vers;69790;1973-08-10;modérée;False;normale
+LORTHIOIR;XAVIER;1;37;107 Rue du Chatoux 69870 Saint-Cyr-le-Chatoux;69870;1984-06-27;faible;False;normale
+LORY;ESTEBAN;1;66;153 Avenue Paul Santy 69008 Lyon 8e Arrondissement;69008;1954-11-02;modérée;True;normale
+LOTFI;CEDRIC;1;28;30 Avenue des Combattants 69500 Bron;69500;1992-11-08;modérée;False;normale
+LOTTO;NABILA;2;69;96 Rue des Charmilles 69840 Cenves;69840;1952-07-15;modérée;False;très élevée
+LOUBATON;MICHAEL;1;74;16 Route du Bourg 69820 Vauxrenard;69820;1947-01-30;modérée;False;élevée
+LOUVRIER;ISABELLE;2;45;7 Place de la Fontaine 69840 Jullié;69840;1975-11-12;modérée;False;normale
+LOYER;FATOUMATA;2;41;26 Rue Sully 69006 Lyon 6e Arrondissement;69006;1979-09-23;modérée;True;normale
+LOYER;FRANÇOISE;2;70;2 Rue du Sud 69620 Moiré;69620;1950-12-20;modérée;True;élevée
+LUC;OLIVIER;1;27;47 Rue de Verdun 69500 Bron;69500;1993-12-01;élevée;False;normale
+LUCIANI;CHARLES;1;21;35 Rue Saint Jean 69005 Lyon 5e Arrondissement;69005;1999-09-21;modérée;False;normale
+MAAS;CLARISSE;2;59;3 Rue Président Edouard Herriot 69200 Vénissieux;69200;1962-08-09;modérée;True;élevée
+MAC VANE;CHRISTOPHE;1;42;21 Rue de Margnolles 69300 Caluire-et-Cuire;69300;1978-11-13;modérée;True;normale
+MACHADO PEREIRA;MAXIME;1;60;342 Avenue de l’Europe 69400 Villefranche-sur-Saône;69400;1961-02-08;modérée;False;très élevée
+MACHERAS;ROZENN;2;61;755 Route de Chiroubles 69115 Chiroubles;69115;1959-11-06;modérée;True;normale
+MACHET;ANTHONY;1;71;17 Chemin de la Gare 69550 Meaux-la-Montagne;69550;1950-01-31;modérée;True;normale
+MADEUS;ANNA;2;63;41 Rue Burdeau 69001 Lyon 1er Arrondissement;69001;1957-10-27;modérée;True;normale
+MAGNY;CHRISTINE;2;74;58 Rue Charles Pinet 69400 Villefranche-sur-Saône;69400;1947-06-27;modérée;False;élevée
+MAHUT;MARIE-JOSÉ;2;36;2330 Route de la Garenne 69790 Saint-Bonnet-des-Bruyères;69790;1985-06-05;modérée;False;normale
+MAIGRET;JENNIFER;2;67;1050 Route de Beaucaire 69700 Loire-sur-Rhône;69700;1953-09-04;modérée;False;élevée
+MAILLET;ARNAUD;1;51;11 Avenue Joseph Rivière 69170 Tarare;69170;1969-10-13;élevée;True;élevée
+MAINA;GUILLAUME;1;53;30 Rue la Fontaine 69330 Meyzieu;69330;1968-08-07;modérée;True;très élevée
+MAJCEN;MAELIE;2;40;16 Chemin de la Puisatière 69370 Saint-Didier-au-Mont-d'Or;69370;1980-11-02;faible;False;normale
+MAJIRUS;NOEMIE;2;45;270 Route du Sornin 69790 Propières;69790;1976-01-13;modérée;False;normale
+MALARY;SARAH;2;61;14 Rue Jules Michelet 69003 Lyon 3e Arrondissement;69003;1959-10-24;modérée;True;élevée
+MALENON;ANTHONY;1;39;25 Rue Charles Baudelaire 69680 Chassieu;69680;1982-01-05;modérée;True;normale
+MALET;ALEXANDRE;1;71;55 Le Bourg 69550 Meaux-la-Montagne;69550;1949-10-19;modérée;False;élevée
+MALLAT;BERTRAND;1;35;54 Rue Alexandre Boutin 69100 Villeurbanne;69100;1986-05-05;élevée;False;normale
+MALON;LAURENT;1;58;5 Rue Gambetta 69580 Sathonay-Camp;69580;1963-08-02;élevée;True;normale
+MALOVIC;DANIELLE;2;43;16 Place Ludovic Monnier 69410 Champagne-au-Mont-d'Or;69410;1977-09-28;faible;False;normale
+MANACH;KARINE;2;66;20 Avenue du Château 69003 Lyon 3e Arrondissement;69003;1954-11-17;modérée;True;très élevée
+MANCIER;ISABELLE;2;68;1113 Route de la Clayette 69790 Propières;69790;1953-02-14;modérée;True;normale
+MANCIONE;FABIENNE;2;78;359 Rue Garibaldi 69007 Lyon 7e Arrondissement;69007;1943-09-07;modérée;False;très élevée
+MANDIN;AGNÈS;2;73;200 Route Départementale 306 69380 Lissieu;69380;1948-02-15;modérée;True;très élevée
+MANIQUET;YVES;1;45;1390 Route des Vieux Chênes 69620 Sainte-Paule;69620;1976-06-17;modérée;True;normale
+MANO;JULIEN;1;45;1 Impasse des Merisiers 69430 Chénelette;69430;1976-05-26;modérée;True;normale
+MANSIET;MAXIME;1;56;883 Route d’Arcy 69210 Sourcieux-les-Mines;69210;1965-07-14;modérée;True;normale
+MAON;CATHY;2;59;55 Impasse de Gravignon 69700 Échalas;69700;1962-05-20;faible;True;très élevée
+MARANDEAU;MORGAN;1;68;7 Avenue Maréchal Foch 69006 Lyon 6e Arrondissement;69006;1952-12-24;élevée;False;élevée
+MARCHAND;MORGAN;1;31;45 Chemin du Clos 69140 Rillieux-la-Pape;69140;1989-12-30;modérée;True;normale
+MARECHAL;KEVIN;1;26;35 Rue Pierre Curie 69600 Oullins;69600;1995-07-11;modérée;True;normale
+MARGUET;SAFIA;2;49;36 Rue Claude Debussy 69009 Lyon 9e Arrondissement;69009;1972-04-30;modérée;True;normale
+MARIE;MATHIEU;1;63;11 Rue Grillet 69007 Lyon 7e Arrondissement;69007;1958-04-20;modérée;False;très élevée
+MARITANO;SABINE;2;28;6 Rue Etienne Richerand 69003 Lyon 3e Arrondissement;69003;1992-09-13;modérée;True;normale
+MARMIN;SABRINA;2;45;3 Rue du Champ des Pierres 69380 Saint-Jean-des-Vignes;69380;1976-05-29;modérée;True;normale
+MARQUES;EDOUARD;1;68;120 Rue de Corlevet 69290 Craponne;69290;1953-06-25;élevée;True;très élevée
+MARQUET;LUDOVIC;1;53;180 Rue du Sud 69620 Moiré;69620;1968-05-01;modérée;False;normale
+MARTIN;APOLLINE;2;27;174 Rue Cuvier 69006 Lyon 6e Arrondissement;69006;1994-03-19;modérée;True;normale
+MARTIN;ERIC;1;44;1 Rue Viret 69100 Villeurbanne;69100;1977-02-01;faible;False;normale
+MARTIN;ILYES;1;55;14 Rue de l’Eglantine 69500 Bron;69500;1965-08-19;faible;True;normale
+MARTIN;ILYES;1;56;11 Quai Pasteur 69250 Neuville-sur-Saône;69250;1965-05-29;élevée;False;normale
+MARTIN;MANON;2;58;26 Rue César Geoffray 69510 Soucieu-en-Jarrest;69510;1962-11-24;modérée;False;normale
+MARTIN;MARIE-PAULE;2;36;58 Impasse du Chemin de la Tour 69610 Montromant;69610;1985-04-11;modérée;False;normale
+MARTIN;NADIA;2;43;16 Rue François Guillard 69120 Vaulx-en-Velin;69120;1977-09-28;modérée;False;normale
+MARTIN;SEVERINE;2;67;37 Rue de l’Argonne 69008 Lyon 8e Arrondissement;69008;1954-04-30;faible;True;normale
+MARTINAGE;SOPHIE;2;59;33 Rue des Sources 69540 Irigny;69540;1961-09-16;élevée;True;très élevée
+MARTINET;NICOLAS;1;74;7 Rue Claude-Joseph Bonnet 69004 Lyon 4e Arrondissement;69004;1946-11-25;modérée;False;normale
+MARTINEZ;CORALIE;2;29;826 Route de la Grange du Bois 69840 Cenves;69840;1991-10-11;modérée;True;normale
+MARTINEZ;SANDY;2;65;1591 Route des Pierres Dorées 69380 Saint-Jean-des-Vignes;69380;1956-08-26;modérée;True;normale
+MARTRA;PAUL;1;49;4 Rue des Magnolias 69330 Meyzieu;69330;1971-10-29;faible;True;normale
+MARTY;BERTRAND;1;80;75 Route du Mont Cindre 69450 Saint-Cyr-au-Mont-d'Or;69450;1941-04-30;élevée;False;très élevée
+MASSELIN;LÉNA;2;53;140 Impasse des Bons Claude 69430 Marchampt;69430;1968-06-02;modérée;False;normale
+MASSON;KILLIAN;1;31;51 Chemin des Bourgnignons 69820 Vauxrenard;69820;1990-03-30;modérée;False;normale
+MASSON;MARIE;2;44;77 Boulevard Marius Vivier-Merle 69003 Lyon 3e Arrondissement;69003;1976-11-17;faible;True;normale
+MATHIO;ISAURE;2;42;17 Rue des Saules 69210 Lentilly;69210;1978-10-18;modérée;False;élevée
+MATOCQ GRABOT;BENOÎT;1;42;1483 Chez Manderon 69170 Affoux;69170;1979-06-13;modérée;True;normale
+MATTEOLI;KARIM;1;59;10 Chemin de l’Oiselière 69790 Propières;69790;1962-05-03;faible;False;normale
+MAUBERT;CHLOÉ;2;39;44 Rue Thénard 69008 Lyon 8e Arrondissement;69008;1981-08-07;modérée;True;normale
+MAUREL;ELIF;2;54;43 Rue Pasteur 69007 Lyon 7e Arrondissement;69007;1967-01-17;modérée;True;normale
+MAURY;AXEL;1;48;11 Chemin de Fontenay 69450 Saint-Cyr-au-Mont-d'Or;69450;1973-01-22;modérée;True;normale
+MAURY;FRANCK;1;54;732 Chemin des Roches Balerces 69550 Meaux-la-Montagne;69550;1966-10-07;modérée;True;normale
+MEALLET;MORGANE;2;86;125 Rue Villon 69008 Lyon 8e Arrondissement;69008;1935-04-20;modérée;True;très élevée
+MEDINA;MAGALI;2;50;28 Chemin de la Lande 69530 Brignais;69530;1971-03-04;modérée;True;très élevée
+MEHEUT;SYLVAIN;1;59;9 Avenue Maréchal de Saxe 69006 Lyon 6e Arrondissement;69006;1962-01-23;modérée;True;normale
+MEHMOOD;FRANCK;1;37;115 Rue Louis Guérin 69006 Lyon 6e Arrondissement;69006;1984-02-29;modérée;True;normale
+MEKONTCHOU;CLÉMENT;1;51;105 Rue de la République 69220 Belleville-en-Beaujolais;69220;1970-03-03;modérée;True;normale
+MELI;ANDY;1;37;132 Chemin des Croux 69790 Propières;69790;1983-10-16;faible;True;normale
+MELI;MAGALI;2;67;22 Rue Auguste Comte 69002 Lyon 2e Arrondissement;69002;1953-12-07;modérée;False;très élevée
+MELLIER;RAPHAËL;1;60;90 Rue Boileau 69006 Lyon 6e Arrondissement;69006;1960-10-16;élevée;True;élevée
+MENARD;MARIE;2;33;355 Route du Bourg de Sagnie 69430 Marchampt;69430;1988-02-26;modérée;True;normale
+MENUS;SHELLEY;2;31;21 Rue des Rivetières 69220 Dracé;69220;1990-06-15;faible;False;normale
+MERLET;PHILIPPE;1;69;101 Route de Toussieu 69800 Saint-Priest;69800;1952-04-21;modérée;True;très élevée
+MERLET;VÉRONIQUE;2;19;6 Montee de la Traboule 69610 Montromant;69610;2002-03-30;modérée;False;normale
+MESNARD;LORENZO;1;70;13 Rue de la Maillette 69310 Pierre-Bénite;69310;1951-08-22;élevée;True;très élevée
+MESTDAG;ZOÉ;2;37;70 Montée de la Sarra 69270 Fontaines-Saint-Martin;69270;1984-01-13;faible;False;normale
+METAIREAU;SÉBASTIEN;1;25;7 Rue Joseph Auguste Goudin 69780 Saint-Pierre-de-Chandieu;69780;1996-05-13;modérée;False;normale
+METRAL;MARIE-CÉLINE;2;52;57 Lieu Dit Villard 69790 Saint-Bonnet-des-Bruyères;69790;1968-11-09;modérée;True;normale
+MEZENTSEVA;MAËLYA;2;65;7 Allée de Chantemerle 69360 Communay;69360;1956-06-18;modérée;True;très élevée
+MIAN;ENZO;1;47;2 Route du Col 69870 Saint-Cyr-le-Chatoux;69870;1973-12-20;modérée;True;normale
+MICCIARELLI;RÉMI;1;66;11 Rue de l’Egalité 69120 Vaulx-en-Velin;69120;1955-03-06;élevée;True;normale
+MICHALSKI;CÔME;1;29;27 Rue Marguerite 69100 Villeurbanne;69100;1991-07-29;modérée;False;normale
+MICHAUD;CAMILLE;2;31;10 Rue Simone de Beauvoir 69007 Lyon 7e Arrondissement;69007;1990-05-31;modérée;False;normale
+MICHEL;ISABELLE;2;68;7 Rue Docteur Alexis Carrel 69110 Sainte-Foy-lès-Lyon;69110;1952-12-23;modérée;True;très élevée
+MICHENEAU;NICOLAS;1;57;7 Montée de Robelly 69800 Saint-Priest;69800;1964-06-23;élevée;False;élevée
+MIGAUD;LISA;2;63;6 Le Roncon 69870 Saint-Bonnet-le-Troncy;69870;1958-07-12;modérée;False;élevée
+MIGAYROU;VALENTINE;2;45;32 Chemin de Ponce 69290 Pollionnay;69290;1975-11-07;modérée;True;très élevée
+MIHAYLOVA;LÉNA;2;68;427 Cours Emile Zola 69100 Villeurbanne;69100;1952-11-21;modérée;False;très élevée
+MINGUET;SIHAM;2;62;22 Place de l’Eglise 69550 Meaux-la-Montagne;69550;1958-11-21;modérée;True;très élevée
+MIRABILE;STÉPHANE;1;42;16 Montée des Soldats 69300 Caluire-et-Cuire;69300;1979-03-15;modérée;False;normale
+MISHA;LIA;2;66;150 Rue des Terres Bourdin 69140 Rillieux-la-Pape;69140;1955-05-05;modérée;True;très élevée
+MISSONNIER;DEBORAH;2;21;30 Impasse des Pres 69870 Saint-Bonnet-le-Troncy;69870;2000-06-14;modérée;True;normale
+MOHAMED;ELVIS;1;66;29 Boulevard Anatole France 69006 Lyon 6e Arrondissement;69006;1955-01-24;modérée;True;élevée
+MOHAMED;MATHÉO;1;36;5000 Le Bessy 69440 Sainte-Catherine;69440;1985-06-14;modérée;False;normale
+MONAGHAN;AXEL;1;34;916 Impasse du Pilon 69610 Montromant;69610;1987-04-22;modérée;True;normale
+MONIER;CORINNE;2;38;5 Cours Docteur Long 69003 Lyon 3e Arrondissement;69003;1983-01-10;modérée;False;normale
+MONNET;AURÉLIEN;1;33;4 Place Danton 69003 Lyon 3e Arrondissement;69003;1988-06-26;élevée;True;normale
+MONNIER;GÉRARD;1;49;1 Rue du Plâtre 69720 Saint-Laurent-de-Mure;69720;1972-02-29;modérée;False;normale
+MOREAU;TEDDY;1;22;517 Cheminement des Ocques Rouges 69380 Saint-Jean-des-Vignes;69380;1998-10-30;modérée;True;normale
+MOREL;CLARISSE;2;53;43 Route Departementale 386 69560 Saint-Romain-en-Gal;69560;1968-05-13;modérée;False;normale
+MOREL;MANON;2;71;841 Rue de la Gare 69730 Genay;69730;1950-09-02;modérée;False;très élevée
+MOREL;QUENTIN;1;42;2 Rue Jangot 69007 Lyon 7e Arrondissement;69007;1978-12-06;faible;True;normale
+MORENO;ALICE;2;20;92 Rue Servient 69003 Lyon 3e Arrondissement;69003;2000-09-17;modérée;True;normale
+MORETTO;MAYLIS;2;55;57 Petite Rue 69840 Jullié;69840;1966-04-15;modérée;False;normale
+MORGENSTERN;JESSY;1;62;32 Rue Jamen Grand 69300 Caluire-et-Cuire;69300;1959-08-19;modérée;False;très élevée
+MORIEN;VIRGILE;1;64;206 Le Chatel 69440 Riverie;69440;1957-02-10;modérée;True;normale
+MORIN;ANTHONY;1;26;11 Chemin du Saquin 69130 Écully;69130;1995-06-05;modérée;True;normale
+MORIN;HÉLÈNE;2;72;37 Rue de Montmeterme 69170 Affoux;69170;1949-07-08;modérée;True;élevée
+MORON;QUENTIN;1;68;190 Boulevard Pinel 69008 Lyon 8e Arrondissement;69008;1953-03-20;modérée;True;élevée
+MORSDORF;RICARDO;1;72;64 Chemin des Mouilles 69130 Écully;69130;1949-01-17;modérée;True;normale
+MORTREUX;CHRISTOPHE;1;46;74 Rue Maryse Bastié 69008 Lyon 8e Arrondissement;69008;1975-02-05;modérée;False;élevée
+MORVAN;MAEVA;2;26;6 Montée des Roches 69130 Écully;69130;1995-02-24;modérée;False;normale
+MOSCOU;SONIA;2;23;57 Rue de Lafont 69240 Thizy-les-Bourgs;69240;1998-04-04;modérée;True;normale
+MOTTE;GUILLAUME;1;28;433 Route de Mussy 69620 Sainte-Paule;69620;1993-05-27;faible;True;normale
+MOUCHARD;JOSÉ;1;25;753 Route du Rousset 69840 Cenves;69840;1995-07-14;modérée;False;normale
+MOUCHARD;SYLVAIN;1;34;17 Rue Saint Eusèbe 69003 Lyon 3e Arrondissement;69003;1987-05-29;modérée;True;normale
+MOULIN;SAMUEL;1;56;352 Chemin du Munal 69870 Saint-Bonnet-le-Troncy;69870;1965-07-31;modérée;False;élevée
+MOULINIER;ELORA;2;68;21 Rue Marcel Roux 69690 Bessenay;69690;1952-09-06;modérée;False;très élevée
+MOUNET;ANNELISE;2;55;15 Impasse de Mont Main 69610 Montromant;69610;1966-02-13;modérée;False;élevée
+MOUR;SANDRINE;2;56;175 Route de Vers Boeuf 69870 Saint-Cyr-le-Chatoux;69870;1965-04-20;modérée;False;normale
+MOUZIN;ANAIS;2;51;628 Route de la Barge 69610 Montromant;69610;1969-09-26;modérée;False;élevée
+MULLENBACH;ARNAUD;1;55;19 Chemin des Vignes 69620 Moiré;69620;1966-08-12;élevée;True;très élevée
+MULLER;MARIA;2;69;25 Rue de l’Oiseau Blanc 69005 Lyon 5e Arrondissement;69005;1952-06-05;modérée;False;très élevée
+MUNDER;LINE;2;46;160 Rue Benoit Frachon 69400 Villefranche-sur-Saône;69400;1975-01-29;élevée;False;élevée
+MURAT;MÉLISSA;2;44;85 Rue Louis Blanc 69006 Lyon 6e Arrondissement;69006;1976-11-26;faible;True;normale
+MUREAU;MAUD;2;52;86 Chemin des Larges 69820 Vauxrenard;69820;1969-06-30;modérée;True;normale
+MUSHIO;MARIE-CHRISTINE;2;74;6 Impasse du Sablon 69003 Lyon 3e Arrondissement;69003;1947-08-13;modérée;False;normale
+MUZYKA;GABRIELLE;2;68;115 Route du Bois des Tetes 69870 Saint-Bonnet-le-Troncy;69870;1952-09-08;modérée;False;très élevée
+N'DIAYE;LAURENT;1;65;3 Rue Quivogne 69002 Lyon 2e Arrondissement;69002;1956-02-11;modérée;True;élevée
+NABARRETTE;KHADIJA;2;28;62 Rue Louis Blanc 69006 Lyon 6e Arrondissement;69006;1993-05-08;modérée;False;normale
+NAISSE;FRANÇOIS;1;22;3 Impasse Pommier 69003 Lyon 3e Arrondissement;69003;1999-05-20;modérée;True;normale
+NARDI;SEVDA;2;60;17 Avenue de la République 69200 Vénissieux;69200;1960-11-06;modérée;True;normale
+NAUCHE;OLIVIER;1;71;38 Rue des Minguettes 69200 Vénissieux;69200;1950-04-13;modérée;True;élevée
+NAVET;NINA;2;44;3 Rue de la Poulaillerie 69002 Lyon 2e Arrondissement;69002;1976-09-30;modérée;False;élevée
+NDAGIJIMANA;ANAIS;2;53;27 Avenue du Mont Blanc 69140 Rillieux-la-Pape;69140;1968-05-01;modérée;False;normale
+NDIAYE;VÉRONIQUE;2;73;990 Le Crepit 69170 Affoux;69170;1947-11-19;modérée;True;très élevée
+NEGRE;ELISABETH;2;58;346 Route de la Barge 69610 Montromant;69610;1962-12-28;modérée;True;normale
+NEGRIN;ANAËLLE;2;47;990 Route de la Cime 69840 Émeringes;69840;1974-03-29;modérée;False;normale
+NENCHEVA;MATHÉO;1;28;314 Rue des Ecoles 69730 Genay;69730;1992-07-25;modérée;True;normale
+NGO;CORENTIN;1;37;8 Rue du Champ des Pierres 69380 Saint-Jean-des-Vignes;69380;1983-08-29;modérée;True;normale
+NGUON;JOHANN;1;50;526 Route de la Garde 69790 Saint-Clément-de-Vers;69790;1970-10-18;modérée;False;élevée
+NGUYEN THI HONG NHUNG;MORGANE;2;26;70 Rue de la Gare 69400 Villefranche-sur-Saône;69400;1995-07-04;faible;True;normale
+NICOLAS;COME;1;58;21 Rue Gambetta 69330 Meyzieu;69330;1963-08-07;modérée;True;élevée
+NIEL;CLAUDINE;2;40;5 Rue de Nantes 69330 Meyzieu;69330;1981-04-03;modérée;False;normale
+NIGON;SANA;2;66;145 Chemin du Rafour 69130 Écully;69130;1955-08-30;faible;False;normale
+NIHOUARN;RAPHAELE;2;33;21 Rue des Fayettes 69400 Villefranche-sur-Saône;69400;1988-07-18;modérée;True;normale
+NINOT;ANNE;2;56;335 Route du Vaillant 69620 Létra;69620;1964-11-03;modérée;True;très élevée
+NIVOIX;RACHELLE;2;61;23 Rue du Dauphiné 69003 Lyon 3e Arrondissement;69003;1959-10-10;modérée;False;normale
+NKULIKIYINKA;BILEL;1;53;9 Avenue Raymond de Veyssière 69130 Écully;69130;1967-09-27;modérée;True;très élevée
+NOGUERA;EMILIAN;1;69;8 Rue Denis Garby 69630 Chaponost;69630;1951-11-28;élevée;True;très élevée
+NOIRIE;VÉRANE;2;71;82 Rue Croix-Barret 69008 Lyon 8e Arrondissement;69008;1950-06-28;modérée;False;élevée
+NORELUS;CLAIRE;2;34;201 Route de Chal 69170 Dième;69170;1987-06-13;faible;False;normale
+NOTIN;GUILLAUME;1;55;6 Rue Stanislas Bozi 69120 Vaulx-en-Velin;69120;1966-05-04;faible;False;très élevée
+NOUAILI;MELODIE;2;52;23 Rue Jules Romains 69120 Vaulx-en-Velin;69120;1969-07-18;modérée;False;normale
+NOURRY;EDWIGE;2;59;5 Vie de Genas 69720 Saint-Bonnet-de-Mure;69720;1962-06-04;modérée;True;très élevée
+NOURRY;SYLVAIN;1;44;130 Rue de l’Eglise 69970 Marennes;69970;1977-06-25;modérée;False;normale
+NZUZI;GASTON;1;93;16 Rue Edith Piaf 69530 Brignais;69530;1928-02-04;élevée;True;élevée
+O'CALLAGHAN;AURÉLIEN;1;23;6 Le Roncon 69870 Saint-Bonnet-le-Troncy;69870;1998-05-15;modérée;False;normale
+ORESTE;SABINE;2;35;4 Rue Montesquieu 69007 Lyon 7e Arrondissement;69007;1986-07-11;modérée;True;normale
+OTSMANE;TANIA;2;30;223 Chemin du Mas 69610 Montromant;69610;1990-10-22;modérée;False;normale
+OUDIN;XAVIER;1;49;77 Rue Pierre Sémard 69600 Oullins;69600;1972-02-04;modérée;True;normale
+OUDIZ;FRANCK;1;67;3 Place de la Fontaine 69840 Jullié;69840;1954-01-26;modérée;False;très élevée
+OUDOT DE DAINVILLE;SOLÈNE;2;21;4 Rue Tita Coïs 69120 Vaulx-en-Velin;69120;1999-10-24;modérée;True;normale
+OUSSAD;FLORENCE;2;52;16 Rue de la Mairie 69440 Saint-André-la-Côte;69440;1969-03-28;modérée;True;normale
+PADOU;LAURENT;1;29;165 Impasse Laval 69430 Chénelette;69430;1992-03-02;modérée;False;normale
+PADRAO;PAMÉLA;2;62;595 Route des Palais 69430 Marchampt;69430;1958-12-31;modérée;True;élevée
+PADRE;MARIE;2;46;1195 Route de Lyon 69390 Vernaison;69390;1974-08-08;modérée;True;normale
+PAIN;KIMBERLEY;2;91;18 Allée de la Palombière 69160 Tassin-la-Demi-Lune;69160;1930-08-18;modérée;False;normale
+PAPUT;CAROLINE;2;70;40 Chemin des Châtaigniers 69430 Chénelette;69430;1950-09-14;élevée;False;très élevée
+PARIGOT;MURIEL;2;44;15 Rue des Granges 69420 Condrieu;69420;1977-05-08;modérée;False;normale
+PARISOT;CHARLÈNE;2;43;8 Rue des Augustins 69001 Lyon 1er Arrondissement;69001;1978-02-23;modérée;False;élevée
+PARVU;LISA;2;21;35 Route de la Pyramide 69870 Saint-Cyr-le-Chatoux;69870;2000-05-09;modérée;False;normale
+PASCOLO;SÉBASTIEN;1;24;7 Allée des Pinsons 69440 Mornant;69440;1997-05-17;modérée;False;normale
+PASSAVANT;FRÉDÉRIC;1;70;25 Allee des Hermieres 69126 Brindas;69126;1951-05-02;faible;True;élevée
+PAU;MAXIME;1;54;355 Montée des Lamberts 69620 Sainte-Paule;69620;1966-08-20;modérée;True;normale
+PAUL;PAULINE;2;48;9 Rue de la Villette 69003 Lyon 3e Arrondissement;69003;1972-09-09;faible;False;normale
+PAUTOT;JEANNE;2;72;9 Rue Bossuet 69006 Lyon 6e Arrondissement;69006;1948-10-07;modérée;False;élevée
+PAYS;TIM;1;35;70 Route de la Bascule 69170 Saint-Appolinaire;69170;1986-01-18;élevée;True;normale
+PECCHI;JEAN;1;72;2135 Route du Renard 69870 Saint-Bonnet-le-Troncy;69870;1948-10-02;élevée;True;élevée
+PECHROVA;SAMI;1;19;2388 Route d’Yzeron 69610 Montromant;69610;2001-12-19;faible;True;normale
+PEDRENO;VINCENT;1;67;26 Rue de la Chassagne 69620 Sainte-Paule;69620;1954-06-29;modérée;True;élevée
+PEDRO;AGATHE;2;26;70 Rue du 23 Août 1944 69780 Mions;69780;1994-07-23;modérée;False;normale
+PELISSIER;SOPHIE;2;57;508 Route du Closat 69840 Cenves;69840;1964-01-29;modérée;True;normale
+PELLEQUER;PAULINE;2;32;28 Avenue Maréchal Foch 69006 Lyon 6e Arrondissement;69006;1989-05-04;modérée;False;normale
+PENELON;ARIANE;2;58;79 Chemin du Mouin de la Barre 69790 Aigueperse;69790;1963-07-30;modérée;True;très élevée
+PEPIN;IHSAN;1;52;5 Impasse Marcelin Berthelot 69960 Corbas;69960;1969-02-24;faible;True;normale
+PERIAUT;MARIELLE;2;60;1 Rue des Contrebandiers 69009 Lyon 9e Arrondissement;69009;1961-01-17;modérée;False;normale
+PERILLAT;FLORIANE;2;73;284 Route des Chavannes 69840 Émeringes;69840;1947-12-29;modérée;False;élevée
+PERNAUDET;PHILIPPE;1;73;13 Rue Deauville 69100 Villeurbanne;69100;1948-07-23;modérée;False;élevée
+PERRETTE;LAHYNA;2;58;11 Rue du Maréchal Foch 69100 Villeurbanne;69100;1963-05-11;modérée;True;normale
+PERRIN;LYLA;2;40;84 Rue du Dauphiné 69003 Lyon 3e Arrondissement;69003;1981-06-04;faible;False;élevée
+PERRIN;OUSMANE;1;61;4 Les Terres 69470 Ranchal;69470;1959-11-26;modérée;True;élevée
+PERRON;AXEL;1;72;27 Rue Saint Nestor 69008 Lyon 8e Arrondissement;69008;1949-04-03;modérée;True;très élevée
+PERRUCHE;KARINE;2;55;24 Grande Rue de Vaise 69009 Lyon 9e Arrondissement;69009;1966-05-09;modérée;True;très élevée
+PETEL;CAROLE;2;22;580 Chemin du Creux du Lac 69170 Dième;69170;1998-12-22;modérée;False;normale
+PETIOT;JEAN-CLAUDE;1;69;56 Rue Anatole France 69200 Vénissieux;69200;1951-11-02;modérée;True;élevée
+PETITJEAN;COLINE;2;23;217 Impasse du Complet 69840 Émeringes;69840;1998-07-08;modérée;True;normale
+PETRIDES;AMIRA;2;60;21 Impasse du Bois Brouillat 69290 Grézieu-la-Varenne;69290;1960-12-12;modérée;True;normale
+PETROQUE;LENNAH;2;64;217 Avenue Félix Faure 69003 Lyon 3e Arrondissement;69003;1956-11-16;modérée;True;élevée
+PETTE;DAVID;1;56;36 Rue du Lieutenant Colonel Prévost 69006 Lyon 6e Arrondissement;69006;1965-06-10;élevée;True;très élevée
+PEYROUSE;ROMAIN;1;45;959 Route d’Aigueperse 69790 Saint-Bonnet-des-Bruyères;69790;1975-09-10;modérée;True;normale
+PHILIPPE;CÉCILE;2;74;2 Les Merisiers 69430 Chénelette;69430;1947-04-27;modérée;False;élevée
+PHILIPPE;PATRICIA;2;59;169 Impasse de Montrocier 69610 Montromant;69610;1962-04-24;modérée;True;élevée
+PHILIPPEAU;CLARA;2;19;12 Chemin du Pape 69210 Sourcieux-les-Mines;69210;2002-01-05;faible;False;normale
+PICHAT;YANN;1;62;8 Rue des Deux Amants 69009 Lyon 9e Arrondissement;69009;1959-03-25;modérée;True;très élevée
+PIERART;CRISTELLE;2;67;8 Rue Casimir Périer 69002 Lyon 2e Arrondissement;69002;1953-11-16;faible;True;normale
+PIERCHON;SACHA;2;43;7 Avenue Léon Foillard 69830 Saint-Georges-de-Reneins;69830;1978-02-26;modérée;False;normale
+PIERREFEU;MATTHIEU;1;64;6 Avenue de l’Europe 69320 Feyzin;69320;1957-06-08;modérée;True;très élevée
+PIERROT;LANA;2;44;299 Route des Fougerolles 69790 Saint-Clément-de-Vers;69790;1976-09-06;faible;False;normale
+PIETRAFITTA;SANDRINE;2;63;12 Rue Henri Bergson 69780 Mions;69780;1958-06-22;modérée;True;très élevée
+PIGNE;GABRIEL;1;80;15 Rue des Pierres Blanches 69290 Craponne;69290;1941-06-01;modérée;False;très élevée
+PINATEL;JASON;1;52;58 Rue de la Bascule 69610 Grézieu-le-Marché;69610;1969-07-03;faible;True;normale
+PINET;CYRIL;1;23;24 Rue Thénard 69008 Lyon 8e Arrondissement;69008;1997-07-13;modérée;False;normale
+PIQUARD;KARINE;2;73;7 Rue Professeur Florence 69003 Lyon 3e Arrondissement;69003;1947-10-18;modérée;False;très élevée
+PISTACHI;VICTOR;1;35;867 Route du Sordet 69790 Aigueperse;69790;1985-09-27;modérée;True;normale
+PLANQUE;YVON;1;45;31 Chemin du Patoux 69790 Propières;69790;1976-05-27;élevée;True;normale
+PLAT MONIN;STESSY;2;20;35 Rue Aimé Césaire 69200 Vénissieux;69200;2000-10-22;modérée;True;normale
+PLAY;PIERRE;1;61;156 Chemin de Crépieux 69300 Caluire-et-Cuire;69300;1960-08-15;faible;True;élevée
+PLIVARD;ANTONIN;1;64;106 Avenue Maréchal de Saxe 69003 Lyon 3e Arrondissement;69003;1957-01-20;modérée;True;élevée
+POIRIER;SYLVIE;2;22;168 Impasse des Tileuls 69170 Affoux;69170;1998-11-19;modérée;False;normale
+POITTE;NICOLAS;1;55;74 Boulevard des Tchécoslovaques 69007 Lyon 7e Arrondissement;69007;1965-11-23;modérée;True;normale
+POLEYA;DANIELLE;2;50;10 Montee du Chatel 69440 Saint-André-la-Côte;69440;1971-06-10;modérée;False;très élevée
+POMMIER;SOFIAN;1;72;191 Rue de la Croix Clément 69700 Montagny;69700;1949-06-05;modérée;True;élevée
+PONCIN;FABIEN;1;30;290 Chemin du Vernay 69790 Saint-Bonnet-des-Bruyères;69790;1990-08-24;modérée;True;normale
+PORTOIS;PHILIPPE;1;51;94 Rue des Ecoles 69840 Jullié;69840;1970-07-09;modérée;True;normale
+POULAIN;LAURENT;1;23;15 Avenue Franklin Roosevelt 69150 Décines-Charpieu;69150;1998-04-22;modérée;True;normale
+POURRE;LYSA;2;47;124 Rue de la Forge 69115 Chiroubles;69115;1973-08-27;modérée;False;très élevée
+POYER;RÉMI;1;61;39 Rue de la Forge 69170 Affoux;69170;1960-08-12;modérée;True;élevée
+PRADEAU;KAMAL;1;60;125 Rue Bataille 69008 Lyon 8e Arrondissement;69008;1961-04-04;élevée;True;élevée
+PRE;PATRICE;1;48;346 Route de la Barge 69610 Montromant;69610;1973-04-04;modérée;True;normale
+PRESANI;AMANDINE;2;57;7 Impasse Bizet 69330 Jonage;69330;1963-12-07;modérée;False;élevée
+PROUST;MAXIME;1;33;828 Route des Bruyeres 69400 Gleizé;69400;1988-01-06;modérée;True;normale
+PRUD HOMME;MATHILDE;2;53;50 Route de la Croix d’Ajoux 69790 Propières;69790;1968-07-27;faible;False;normale
+PRUNIER;FRANÇOIS;1;70;16 Avenue de la Fraternité 69520 Grigny;69520;1951-02-10;faible;True;élevée
+PUISNEY;MATHILDE;2;67;194 Chemin des Fonts 69110 Sainte-Foy-lès-Lyon;69110;1953-10-17;élevée;True;élevée
+QUARTIER DIT MAIRE;AURÉLIE;2;26;62 Rue Bugeaud 69006 Lyon 6e Arrondissement;69006;1995-01-15;modérée;False;normale
+QUENTIN;ROXANE;2;70;36 Avenue Rosa Parks 69009 Lyon 9e Arrondissement;69009;1951-05-14;modérée;True;très élevée
+QUET;LUDIVINE;2;46;14 Rue Persoz 69100 Villeurbanne;69100;1975-01-22;faible;True;normale
+QUIEVREUX;LAURA;2;38;531 Chemin de la Croix du Truge 69790 Aigueperse;69790;1983-03-02;faible;False;normale
+QUINTIN;ACHRAF;1;46;394 Montée des Rougelons 69840 Émeringes;69840;1974-11-26;modérée;True;normale
+RAGOT;FRÉDÉRIC;1;61;4 Rue Paul Verlaine 69330 Meyzieu;69330;1959-08-27;élevée;True;élevée
+RAHMEH;THIERRY;1;64;37 Route des Grands Prés 69870 Saint-Cyr-le-Chatoux;69870;1957-06-03;élevée;True;normale
+RAHMOUNI;STÉPHANIE;2;70;32 Boulevard Claude Debussy 69680 Chassieu;69680;1951-03-11;modérée;True;normale
+RAMDIALE;LYANA;2;67;4 Rue des Cèdres 69650 Saint-Germain-au-Mont-d'Or;69650;1954-01-08;modérée;False;très élevée
+RANCON;CHEIMA;2;48;2 Rue d’Alsace 69330 Meyzieu;69330;1973-05-12;faible;False;normale
+RANCUREL;LOLA;2;68;423 Chemin des Joncs 69550 Ronno;69550;1953-05-25;modérée;False;normale
+RAPETTI;FLORENCE;2;27;24 Route Combe et Replat 69550 Meaux-la-Montagne;69550;1994-04-04;faible;False;normale
+RASPONI;JULIEN;1;69;149 Rue Baraban 69003 Lyon 3e Arrondissement;69003;1952-07-29;modérée;True;élevée
+RAULIN;CLAUDE;1;29;980 Route de Villié Morgon 69115 Chiroubles;69115;1992-05-24;modérée;True;normale
+RAVET;EMILE;1;67;6 Impasse de l’Aigas 69160 Tassin-la-Demi-Lune;69160;1954-08-28;élevée;True;élevée
+RAYNAL;MARINA;2;70;1501 Route des Vieux Chênes 69620 Sainte-Paule;69620;1951-03-07;modérée;True;élevée
+RAYNAUD;DOMINIQUE;2;26;108 Rue Pierre Audry 69009 Lyon 9e Arrondissement;69009;1995-05-04;faible;True;normale
+REAU;CAROLINE;2;40;48 Chemin du Pressoir 69910 Villié-Morgon;69910;1981-05-07;modérée;False;normale
+REBATEL;REGIS;1;56;8 Quai Saint Vincent 69001 Lyon 1er Arrondissement;69001;1964-12-27;modérée;True;très élevée
+REBILLARD;LÉONIE;2;69;20 Rue Thomassin 69002 Lyon 2e Arrondissement;69002;1952-03-05;modérée;True;élevée
+RECOULES;SÉBASTIEN;1;70;59 Rue Georges Gouy 69007 Lyon 7e Arrondissement;69007;1950-11-10;élevée;True;normale
+REGALLET;VALÉRIE;2;74;51 Rue Turbil 69003 Lyon 3e Arrondissement;69003;1947-03-12;modérée;False;très élevée
+REGNAULT DE BEAUCARON;CATHERINE;2;48;2431 Route d’Yzeron 69610 Montromant;69610;1972-08-31;modérée;False;très élevée
+REINHARD;ELIANE;2;64;42 Rue des Girondins 69007 Lyon 7e Arrondissement;69007;1957-01-17;modérée;False;très élevée
+REMACLE;FRANÇOIS;1;69;645 Chemin du Cros 69790 Azolette;69790;1951-10-08;faible;False;élevée
+REMOND;MATHIS;1;62;13 Avenue Barthélémy Buyer 69005 Lyon 5e Arrondissement;69005;1958-12-30;élevée;False;normale
+RENAUD;EVANN;1;31;26 Rue d’Arsonval 69330 Meyzieu;69330;1989-12-11;modérée;True;normale
+REYNAUD;ALESIA;2;29;59 Grande Rue 69800 Saint-Priest;69800;1991-11-24;faible;False;normale
+REYNE;SAMUEL;1;72;2 Rue Claude Baudrand 69300 Caluire-et-Cuire;69300;1949-04-23;élevée;False;élevée
+REYNIER;AGATHE;2;45;32 Rue Molière 69006 Lyon 6e Arrondissement;69006;1976-01-30;modérée;False;normale
+RIAND;JEAN-FRANÇOIS;1;70;36 Ruelle du Bâchât 69620 Sainte-Paule;69620;1951-01-11;élevée;False;très élevée
+RIANT;ARTHUR;1;32;1 Impasse de la Sapinière 69570 Dardilly;69570;1988-11-09;modérée;False;normale
+RIBEIRO DE CARVALHO;TOURIA;2;49;177 Rue le Sarras 69840 Cenves;69840;1971-08-27;modérée;False;normale
+RICCIARDI;VINCENT;1;62;2 Impasse Paul Verlaine 69960 Corbas;69960;1959-04-26;modérée;True;normale
+RICHARD;LINA;2;69;1243 Route du Vissoux 69620 Saint-Vérand;69620;1952-02-17;modérée;True;très élevée
+RICHARDOT;RAPHAËL;1;65;53 Chemin du Pivolet 69630 Chaponost;69630;1956-01-31;modérée;True;très élevée
+RICHET;ETHAN;1;43;6 Chemin de Fontenelle 69490 Vindry-sur-Turdine;69490;1977-11-26;modérée;True;élevée
+RICHON;SIMHA;2;61;127 Boulevard Etienne Bernand 69400 Villefranche-sur-Saône;69400;1959-11-06;élevée;True;très élevée
+RICO;JEAN-LOUIS;1;57;133 Route du Pont de la Cote 69870 Saint-Bonnet-le-Troncy;69870;1964-01-27;modérée;False;élevée
+RICOUARD;KILLIAN;1;37;247 Chemin de Fontanières 69350 La Mulatière;69350;1984-07-09;modérée;True;normale
+RIEU;THIBAULT;1;51;491 Chemin des Bourgnignons 69820 Vauxrenard;69820;1969-11-02;modérée;True;normale
+RIPOCHE;CALLIE;2;50;515 Le Bourg 69430 Vernay;69430;1971-05-29;modérée;True;normale
+RITTRE;THÉO;1;39;150 Montee des Charriots 69430 Chénelette;69430;1982-01-06;faible;False;normale
+RIUTORT;DORIAN;1;47;14 Clos Chartonnière 69400 Gleizé;69400;1974-06-25;modérée;True;normale
+RIVA;STEVE;1;52;2319 Route d’Yzeron 69610 Montromant;69610;1968-08-22;modérée;True;très élevée
+RIVAILLE;NOEMIE;2;31;37 Route des Gonnachons 69790 Saint-Clément-de-Vers;69790;1989-12-07;modérée;False;normale
+RIVALLAND;MATTHIAS;1;65;102 Cours Docteur Long 69003 Lyon 3e Arrondissement;69003;1955-12-03;modérée;True;élevée
+RIVIERE;AMBROISE;1;55;1381 La Goutte 69170 Affoux;69170;1965-12-22;modérée;True;normale
+ROBERT;LIAM;1;48;12 Rue Frédéric Mistral 69003 Lyon 3e Arrondissement;69003;1972-09-05;modérée;True;normale
+ROBERTY;SUZANNA;2;56;90 Route de Vareilles 69820 Vauxrenard;69820;1965-05-25;modérée;False;élevée
+ROBILLARD;FABRICE;1;44;41 Allee du Bel Horizon 69400 Arnas;69400;1977-06-17;modérée;False;élevée
+ROBIN;AUDREY;2;45;2550 Route de Fontmartin 69820 Vauxrenard;69820;1975-11-24;modérée;False;normale
+ROBINET;INÈS;2;60;1 Rue de Montribloud 69009 Lyon 9e Arrondissement;69009;1961-03-06;modérée;True;normale
+ROCH;MARIE;2;67;13 Rue des Myosotis 69110 Sainte-Foy-lès-Lyon;69110;1954-06-05;modérée;False;très élevée
+ROCH;MYLENE;2;49;91 Rue de Frindeau 69780 Saint-Pierre-de-Chandieu;69780;1971-11-01;modérée;False;normale
+ROCHAIX;LEANA;2;71;355 Montée des Lamberts 69620 Sainte-Paule;69620;1949-10-02;modérée;False;élevée
+ROCQUES;JOAN;1;41;555 Impasse des Bruyères 69430 Marchampt;69430;1980-05-26;modérée;True;normale
+RODARIE;CATHERINE;2;74;1632 Route de Chervolin 69610 Montromant;69610;1947-05-19;modérée;True;élevée
+RODRIGUES FERREIRA;DIANE;2;69;8 Quai Général de Gaulle 69250 Albigny-sur-Saône;69250;1952-01-21;modérée;False;très élevée
+RODRIGUEZ;FLORA;2;68;11 Place de la Croix-Rousse 69004 Lyon 4e Arrondissement;69004;1953-06-25;modérée;False;très élevée
+ROGEAU;AURÉLIE;2;39;14 Place de la Gare 69550 Amplepuis;69550;1982-04-13;modérée;False;très élevée
+ROINE;FRANCK;1;54;373 Rue de Fonzelle 69870 Saint-Cyr-le-Chatoux;69870;1967-08-16;modérée;True;normale
+ROJAS;ERIC;1;65;2330 Route de la Garenne 69790 Saint-Bonnet-des-Bruyères;69790;1956-06-26;élevée;False;normale
+ROSE;SAMI;1;44;2 Rue Pelletier 69004 Lyon 4e Arrondissement;69004;1977-05-17;modérée;True;très élevée
+ROSEE;ISABELLE;2;36;15 Rue du Brulet 69110 Sainte-Foy-lès-Lyon;69110;1985-03-04;modérée;False;normale
+ROSEMOND;MARYSE;2;56;147 Rue Jean Voillot 69100 Villeurbanne;69100;1965-04-19;modérée;True;normale
+ROSIER;VALÉRIE;2;64;1522 Route de la Vallée 69870 Saint-Just-d'Avray;69870;1956-09-01;modérée;True;très élevée
+ROSIER;VICTORIA;2;57;9 Quai Arloing 69009 Lyon 9e Arrondissement;69009;1964-03-10;modérée;True;normale
+ROUCH;JEAN-CLAUDE;1;21;5 6ème Rue Cité Berliet 69800 Saint-Priest;69800;2000-05-30;faible;False;très élevée
+ROUGEYRON;LÉONIE;2;57;85 Rue Principale 69170 Affoux;69170;1964-03-23;modérée;True;normale
+ROUSSE;BOUBOU;1;49;1 Place Saint Pierre 69620 Moiré;69620;1971-12-06;faible;True;très élevée
+ROUSSEAU;FLORENT;1;26;1096 Chemin de Tranchepied 69790 Aigueperse;69790;1995-06-08;modérée;False;normale
+ROUSSEL;RENAUD;1;43;681 Le Gouget 69170 Affoux;69170;1978-07-18;modérée;True;normale
+ROUX;AYMERIC;1;70;2 Rue Joseph Chalier 69008 Lyon 8e Arrondissement;69008;1951-04-21;modérée;True;très élevée
+ROUX;GREGORY;1;69;2382 Route d’Yzeron 69610 Montromant;69610;1951-09-21;modérée;False;très élevée
+ROUX;NICOLAS;1;69;23 Rue Jean-Jacques Rousseau 69960 Corbas;69960;1952-01-10;faible;False;très élevée
+ROUY;ESTEBAN;1;49;10 Rue Fernand Rey 69001 Lyon 1er Arrondissement;69001;1972-08-04;modérée;True;normale
+RUAULT;MICHEL;1;73;243 Rue des Ecoles 69840 Jullié;69840;1948-04-05;élevée;False;élevée
+RUCH;TOM;1;46;264 Chemin du Bois du Four 69380 Châtillon;69380;1975-03-12;modérée;True;normale
+RUGGERI;PASCALE;2;53;49 Boulevard John-Fitzgerald Kennedy 69600 Oullins;69600;1967-09-12;modérée;True;normale
+RUIZ;AURORE;2;52;510 Chemin du Botton 69790 Propières;69790;1969-03-06;modérée;True;normale
+RUSSOLO;HERVÉ;1;56;28 Rue Auguste et Louis Lumière 69190 Saint-Fons;69190;1965-06-11;modérée;True;normale
+SABATIER;TEDDY;1;62;57 Rue de la Balme 69003 Lyon 3e Arrondissement;69003;1959-06-15;modérée;False;élevée
+SABLAYROLLES;PRIAM;1;80;7 Allée du Beauversant 69340 Francheville;69340;1941-08-01;modérée;False;très élevée
+SABOUREAU;LAURA;2;56;1 Rue des Chaux 69340 Francheville;69340;1965-03-24;modérée;False;normale
+SADAOUI;JADE;2;81;7 Rue des Magnanarelles 69720 Saint-Laurent-de-Mure;69720;1940-04-09;modérée;True;élevée
+SADOUN;KENJI;1;63;4 Les Terres 69470 Ranchal;69470;1958-02-23;modérée;True;élevée
+SAENGER;DAVID;1;44;5 Boucle du Vieux Cep 69400 Limas;69400;1977-06-25;élevée;False;normale
+SAHINGOZ;JESSICA;2;37;24 Rue du Grand Puits 69440 Riverie;69440;1983-09-25;modérée;False;très élevée
+SAHNINE;GWENDOLINE;2;62;166 Allée du 4 Avril 1908 69580 Sathonay-Camp;69580;1959-03-27;modérée;False;normale
+SALMON;MAGALI;2;43;497 Route des Challes 69640 Lacenas;69640;1977-11-24;faible;False;normale
+SALMON;THOMAS;1;74;274 Rue Francis de Pressensé 69100 Villeurbanne;69100;1947-07-29;modérée;False;très élevée
+SALVADOR;MARTIN;1;37;14 Rue de Bourgogne 69800 Saint-Priest;69800;1983-09-18;modérée;True;normale
+SAMDJEE SONDARJEE;SASHA;1;33;160 Rue Peignaux Dame 69620 Val d'Oingt;69620;1988-01-07;modérée;True;normale
+SAMYN;JONATHAN;1;47;2100 Route des Bourrons 69820 Vauxrenard;69820;1974-07-12;élevée;True;normale
+SANCHEZ;LUCAS;1;38;149 Allée des Coquelicots 69270 Fontaines-Saint-Martin;69270;1982-12-12;modérée;False;élevée
+SANCHEZ;THIERRY;1;32;5 Rue Jean Fauconnet 69005 Lyon 5e Arrondissement;69005;1989-01-19;modérée;False;normale
+SANTIN;ENZO;1;20;589 Chemin des Pins 69790 Aigueperse;69790;2000-07-13;modérée;False;normale
+SANTOS;NATHALIE;2;51;96 Route du Lacheron 69870 Saint-Bonnet-le-Troncy;69870;1970-05-09;modérée;True;normale
+SARKISSIAN;REYHAN;2;50;46 Rue Ravat 69002 Lyon 2e Arrondissement;69002;1970-11-04;modérée;True;normale
+SARTI;BÉATRICE;2;50;515 Le Bourg 69430 Vernay;69430;1970-11-10;modérée;True;normale
+SAURFELD;ROBIN;1;63;17 Rue du Bon Pasteur 69001 Lyon 1er Arrondissement;69001;1958-06-18;modérée;True;très élevée
+SAUSSEAU;BERNARD;1;62;2 Allée Beau-Site 69410 Champagne-au-Mont-d'Or;69410;1958-12-27;modérée;True;élevée
+SAUVAGE;STÉPHANE;1;38;1643 Chemin des Pins 69790 Aigueperse;69790;1983-03-07;modérée;True;normale
+SAYAS;EMY;2;21;6 Rue Notre-Dame 69006 Lyon 6e Arrondissement;69006;1999-09-08;modérée;True;normale
+SCHMIDT;VALENTIN;1;32;2 Impasse des Sables 69220 Belleville-en-Beaujolais;69220;1989-01-05;modérée;True;normale
+SCHMITT;SYLVIE;2;31;24 Rue Général Gouraud 69008 Lyon 8e Arrondissement;69008;1990-03-19;modérée;False;normale
+SCHULZ;LÉNA;2;62;4 Allée des Lièvres 69340 Francheville;69340;1959-04-03;élevée;True;très élevée
+SCUDIER;UGO;1;27;2 Montée de l’Église 69820 Vauxrenard;69820;1994-01-09;modérée;False;normale
+SEARD;JEAN-PHILIPPE;1;53;39 Rue des Peupliers 69960 Corbas;69960;1967-08-30;modérée;True;normale
+SEBBAN;MATHIS;1;40;45 Rue Edgar Varèse 69200 Vénissieux;69200;1980-08-26;modérée;False;normale
+SECK;VIRGILE;1;54;108 Rue Saint Georges 69005 Lyon 5e Arrondissement;69005;1967-03-29;modérée;True;normale
+SEGUIN;MATHÉO;1;25;96 Chemin des Sarments 69380 Saint-Jean-des-Vignes;69380;1996-03-20;faible;False;normale
+SELFE;KARINE;2;57;57 Rue Pasteur 69007 Lyon 7e Arrondissement;69007;1964-07-04;modérée;False;normale
+SENEJOUX;KHALIS;1;67;231 Route de Beauvernay 69840 Jullié;69840;1954-04-16;modérée;True;élevée
+SENEQUIER;APOLLINE;2;36;39 Rue du Château de Montauzan 69640 Lacenas;69640;1984-09-12;modérée;True;normale
+SENNEGON;SADIA;2;25;1 Rue Ethel et Julius Rosenberg 69120 Vaulx-en-Velin;69120;1995-09-22;modérée;True;normale
+SERIGNAT;PHILIPPE;1;56;4 Les Terres 69470 Ranchal;69470;1965-02-09;modérée;True;très élevée
+SERRE;JEAN;1;35;1329 Route de la Chapelle 69840 Jullié;69840;1985-11-27;modérée;True;normale
+SERVAIS;CATHERINE;2;48;3 Route de Matour 69790 Aigueperse;69790;1972-12-05;modérée;False;normale
+SEVILLANO;SIHAME;2;21;34 Rue de la Grange 69009 Lyon 9e Arrondissement;69009;2000-06-04;modérée;True;normale
+SIBILLE;MÉLISSA;2;57;28 Rue Hector Berlioz 69320 Feyzin;69320;1964-05-22;modérée;False;normale
+SICARD;PIERRE;1;64;820 Avenue de l’Europe 69400 Villefranche-sur-Saône;69400;1957-01-27;élevée;True;normale
+SIGWALD;HUGO;1;72;38 Rue Claude Debussy 69400 Villefranche-sur-Saône;69400;1949-04-30;modérée;True;normale
+SILLET;MORGANE;2;20;74 Rue Frédéric Fays 69100 Villeurbanne;69100;2001-05-08;faible;True;normale
+SIMON;CHRISTIAN;1;47;50 Rue Victor Lagrange 69007 Lyon 7e Arrondissement;69007;1974-07-11;modérée;True;très élevée
+SIMON;FABIOLA;2;20;3 Rue Jean Collet 69330 Meyzieu;69330;2001-02-27;modérée;True;normale
+SIMON;LAETITIA;2;28;36 Rue Pauline Kergomard 69960 Corbas;69960;1993-05-29;modérée;False;normale
+SIX;CLOÉ;2;42;343 Avenue Jean Jaurès 69150 Décines-Charpieu;69150;1979-03-19;modérée;False;normale
+SMIROU;LAURENCE;2;56;23 Rue des Girondins 69007 Lyon 7e Arrondissement;69007;1965-02-09;modérée;True;très élevée
+SOEYA;ALEXANDRE;1;61;48 Rue Grange Moliere 69590 Saint-Symphorien-sur-Coise;69590;1959-09-27;modérée;True;très élevée
+SOHIER;JULIE;2;20;9 Rue du Champ des Pierres 69380 Saint-Jean-des-Vignes;69380;2000-10-17;modérée;False;normale
+SONDORE;NOLHAN;1;45;14 Rue Laennec 69800 Saint-Priest;69800;1976-04-17;modérée;True;élevée
+SONG;TIGUIDE;2;69;4 Avenue de la République 69230 Saint-Genis-Laval;69230;1952-04-08;modérée;False;élevée
+SONNET;RODOLFO;1;49;2466 Route de Magny 69870 Saint-Bonnet-le-Troncy;69870;1972-01-18;élevée;True;normale
+SORG;DELPHINE;2;65;174 Chemin des Alouettes 69670 Vaugneray;69670;1956-08-07;modérée;False;élevée
+SORGNIARD;JOËL;1;40;99 Rue Antoine Brun 69280 Sainte-Consorce;69280;1981-03-22;faible;True;très élevée
+SOULIE GASC FROUILLOU;PIERRICK;1;61;14 Rue Jérome Dulaar 69004 Lyon 4e Arrondissement;69004;1960-08-03;élevée;False;élevée
+SOWINSKI;MATTHIEU;1;73;10 Rue Auguste Blanqui 69200 Vénissieux;69200;1947-12-04;élevée;True;normale
+SOYLEMEZ;FRÉDÉRIQUE;2;37;43 Rue des Ecoles 69840 Jullié;69840;1983-12-29;modérée;False;normale
+SPECQUE;JULIEN;1;56;701 Route des Girauds 69840 Émeringes;69840;1965-03-17;modérée;True;très élevée
+SPIESSER;LUDOVIC;1;59;147 Rue Alexis Perroncel 69100 Villeurbanne;69100;1962-05-11;élevée;False;élevée
+SPITZER;KATIA;2;36;479 Grande Rue 69790 Propières;69790;1985-04-14;modérée;True;très élevée
+SPREAFICO;CATHERINE;2;42;18 Chemin de Feyzin 69200 Vénissieux;69200;1979-02-07;faible;True;élevée
+SQUINAZI;OSCAR;1;49;49 Chemin Antoine Pardon 69160 Tassin-la-Demi-Lune;69160;1972-07-22;faible;True;normale
+STOLTZ;CÉCILE;2;45;95 Route Neuve 69430 Marchampt;69430;1975-08-16;modérée;False;normale
+STRAUSS;HERVÉ;1;26;16 Rue Louis Cézard 69008 Lyon 8e Arrondissement;69008;1994-09-17;faible;True;normale
+STROHER;TIPHAINE;2;66;38 Rue René Venturini 69370 Saint-Didier-au-Mont-d'Or;69370;1954-12-07;modérée;False;très élevée
+SURU;JULIEN;1;70;18 Rue Anatole France 69120 Vaulx-en-Velin;69120;1951-01-11;modérée;True;très élevée
+SYOEN;PASCAL;1;19;11 Impasse des Troignes 69290 Craponne;69290;2002-02-27;modérée;True;normale
+TAGUIDA;LOUNIS;1;60;1 Passage Comtois 69008 Lyon 8e Arrondissement;69008;1961-08-17;modérée;True;élevée
+TARDITS;ROXANE;2;70;447 Rue du Jacquet 69480 Lucenay;69480;1950-09-08;modérée;False;normale
+TARRASSE;SEDAT;1;57;7 Quai Jean-Jacques Rousseau 69350 La Mulatière;69350;1964-03-20;élevée;True;normale
+TARRIN;CARL;1;32;17 Rue Constant 69003 Lyon 3e Arrondissement;69003;1988-10-22;modérée;True;normale
+TAUREL;GUILLAUME;1;20;284 Montée du Chicollot 69620 Sainte-Paule;69620;2001-01-30;modérée;False;normale
+TAVERNIER;CHARLOTTE;2;41;21 Rue Royale 69001 Lyon 1er Arrondissement;69001;1980-06-03;modérée;False;normale
+TEGGUER;TARA;2;39;1712 Route du Saint-Rigaud 69790 Propières;69790;1982-05-04;faible;False;normale
+TEISSIER;SABRINA;2;37;106 Rue du Stade 69550 Meaux-la-Montagne;69550;1984-05-24;faible;False;élevée
+TEMINE;ANNE;2;54;38 Rue de la Barmondiere 69400 Villefranche-sur-Saône;69400;1967-05-21;modérée;False;normale
+TENAT;MATHURIN;1;61;55 Rue Albert Camus 69330 Meyzieu;69330;1960-02-23;modérée;False;très élevée
+TENAUD;DOMINIQUE;2;72;8 Impasse des Merisiers 69430 Chénelette;69430;1949-05-19;modérée;False;élevée
+TESSIER;JEAN;1;27;4 Impasse Route de Paris 69130 Écully;69130;1994-06-24;modérée;True;normale
+TEXEREAU;JULIE;2;66;13 Rue Saint Paul 69005 Lyon 5e Arrondissement;69005;1954-12-12;faible;False;normale
+THAIZE;MARLÈNE;2;30;48 Avenue Edouard Herriot 69150 Décines-Charpieu;69150;1990-10-28;modérée;False;normale
+THAO THION;JEAN-LUC;1;49;290 Chemin du Vernay 69790 Saint-Bonnet-des-Bruyères;69790;1972-02-14;modérée;True;normale
+THEBAULT;NADINE;2;27;8 Rue des Acacias 69100 Villeurbanne;69100;1994-06-14;faible;True;normale
+THELY;YANNIS;1;43;95 Chemin de Chalinel 69126 Brindas;69126;1978-01-23;modérée;True;normale
+THEODOROPOULOS;ALICE;2;43;81 Avenue Victor Hugo 69160 Tassin-la-Demi-Lune;69160;1978-02-20;faible;True;très élevée
+THEOUPAKIAN;PATRICK;1;68;4 Route de Riverie 69440 Saint-André-la-Côte;69440;1953-02-10;modérée;True;normale
+THEROANNE;LÉO;1;68;27 Rue Germain David 69003 Lyon 3e Arrondissement;69003;1953-03-29;modérée;False;élevée
+THIBAUD;AURÉLIE;2;37;986 Chemin des Cretes 69770 Chambost-Longessaigne;69770;1984-06-06;modérée;False;normale
+THIEBAUT;CHARLÈNE;2;55;4 Les Terres 69470 Ranchal;69470;1966-06-25;modérée;True;normale
+THIERY;MARIAMA;2;69;30 Route des Genêts 69170 Affoux;69170;1952-05-22;modérée;False;élevée
+THIEVENAZ;SEVERINE;2;51;116 Route de Feyzin 69360 Solaize;69360;1970-03-24;élevée;True;normale
+THIMON;TAO;1;44;42 Avenue des 4 Cantons 69930 Saint-Laurent-de-Chamousset;69930;1976-08-13;faible;True;très élevée
+THIRION;VIRGINIE;2;71;4 Impasse des Tilleuls 69100 Villeurbanne;69100;1950-03-15;modérée;False;très élevée
+THORETON;FRANCK;1;58;6 Rue de Sèze 69006 Lyon 6e Arrondissement;69006;1963-01-09;modérée;True;élevée
+TIBIDI;ESTHER;2;50;57 Lieu Dit Villard 69790 Saint-Bonnet-des-Bruyères;69790;1971-05-09;modérée;True;normale
+TILLEY;VALENTINE;2;71;23 Chemin du Chazottier 69126 Brindas;69126;1949-11-04;modérée;False;élevée
+TINE BERES;JESSY;1;33;143 Chemin du Pagnon 69610 Montromant;69610;1987-12-02;modérée;False;normale
+TISON;MAELLE;2;41;8 Route de Mornant 69440 Saint-André-la-Côte;69440;1980-05-25;modérée;False;très élevée
+TOINARD;SABRINA;2;54;530 Rue d’Anse 69400 Villefranche-sur-Saône;69400;1966-09-17;modérée;False;normale
+TOMASSIAN;CESAR;1;73;95 Rue des Martyrs de la Résistance 69200 Vénissieux;69200;1948-06-06;modérée;True;très élevée
+TONDEREAU;JULIAN;1;37;11 Rue Claudia 69120 Vaulx-en-Velin;69120;1984-04-02;modérée;True;très élevée
+TORCHE;JULIAN;1;65;501 La Goyenche 69510 Thurins;69510;1956-03-26;modérée;True;élevée
+TOULLEC;ALEXANDRE;1;23;9 Lotissement de la Croix Sainte-Agathe 69440 Saint-André-la-Côte;69440;1998-02-23;modérée;False;normale
+TOURE;MAHAMADOU;1;73;6 Place Carnot 69002 Lyon 2e Arrondissement;69002;1948-01-28;élevée;True;très élevée
+TOURNERIE;ILYESS;1;49;618 Route de Jalloussieux 69530 Orliénas;69530;1972-05-14;modérée;False;normale
+TRAMESON;MAEL;1;62;140 Route de Lamure 69430 Chénelette;69430;1959-05-15;modérée;False;normale
+TREBOIT;NINE;2;78;87 Boulevard de la Bataille de Stalingrad 69100 Villeurbanne;69100;1943-02-02;modérée;False;élevée
+TREHUDIC;ADRIEN;1;23;778 Chemin de la Carelle 69790 Propières;69790;1998-03-23;modérée;False;normale
+TRIGOSSE;FABIENNE;2;47;9 Avenue Pasteur 69370 Saint-Didier-au-Mont-d'Or;69370;1974-03-30;modérée;True;normale
+TRUSCH;LÉNA;2;64;60 Rue Mazenod 69003 Lyon 3e Arrondissement;69003;1957-04-29;modérée;True;normale
+TURNBULL;BRIAN;1;43;23 Route des Fougerolles 69790 Saint-Clément-de-Vers;69790;1978-02-28;modérée;True;normale
+TURPIN;LOUANE;2;75;802 Route de Juliénas 69840 Juliénas;69840;1946-08-11;modérée;True;très élevée
+VALEYRE;LUCIE;2;98;5 Rue Louis Blériot 69960 Corbas;69960;1922-12-14;modérée;True;très élevée
+VALLET;EMILIE;2;43;8 Impasse Cumin 69005 Lyon 5e Arrondissement;69005;1978-01-09;faible;True;normale
+VALOT;NOEMIE;2;36;535 Le Bourg 69430 Vernay;69430;1984-10-25;modérée;False;très élevée
+VAN DE VELDE BOERMANS;MATHILDE;2;61;335 Rue Doyen Georges Chapas 69009 Lyon 9e Arrondissement;69009;1960-06-21;faible;True;élevée
+VANACLOCHA;ALIZÉE;2;43;564 Chemin du Creux 69140 Rillieux-la-Pape;69140;1977-12-23;modérée;True;normale
+VANDENBERGHE;NICOLAS;1;28;21 Rue Ernest Renan 69150 Décines-Charpieu;69150;1992-07-25;modérée;False;normale
+VARACHE;SALIMA;2;40;16 Rue Buissonnière 69670 Vaugneray;69670;1980-09-13;modérée;True;normale
+VARACHEZ;BENJAMIN;1;31;14 Rue Voltaire 69200 Vénissieux;69200;1989-07-30;modérée;False;normale
+VASSEUR;AMANDINE;2;49;5000 Rue de l’Orme 69440 Saint-André-la-Côte;69440;1972-05-06;faible;True;normale
+VAUDON;WACIL;1;42;62 Rue Smith 69002 Lyon 2e Arrondissement;69002;1979-03-10;faible;False;normale
+VE CAVALLAZIO;CAROLINE;2;39;107 Chemin du Mont Saint Jean 69380 Saint-Jean-des-Vignes;69380;1982-05-01;modérée;True;normale
+VEBOLE;NADIA;2;72;87 Impasse du Perret 69610 Montromant;69610;1949-01-07;modérée;False;normale
+VEISS;SAADA;2;50;3280 Rue de Montmeterme 69170 Affoux;69170;1970-08-30;modérée;True;normale
+VENTURINI;ADAM;1;70;19 Rue d’Aguesseau 69007 Lyon 7e Arrondissement;69007;1951-07-13;élevée;False;très élevée
+VERAN;STÉPHANIE;2;65;8 Rue Croix-Barret 69007 Lyon 7e Arrondissement;69007;1956-07-19;faible;True;élevée
+VERDAINE;NICOLAS;1;63;51 Avenue du Point du Jour 69005 Lyon 5e Arrondissement;69005;1958-05-26;modérée;False;très élevée
+VERDELHAN;GUILLAUME;1;54;317 Cheminement des Ocques Rouges 69380 Saint-Jean-des-Vignes;69380;1967-08-05;modérée;False;normale
+VERDEROSA;SOHAN;1;40;18 Allée du Verger 69530 Brignais;69530;1980-09-19;modérée;False;normale
+VERISSIMO DIAS;CÉLINE;2;49;2 Place de la Fontaine 69840 Jullié;69840;1972-08-07;faible;True;normale
+VERKLEVEN;MAXENCE;1;59;68 Route de Varissan 69700 Givors;69700;1962-07-21;élevée;True;très élevée
+VERRA;CARLA;2;44;20 Chemin de Grand But 69610 Montromant;69610;1976-09-25;modérée;False;très élevée
+VIALARD;NATHALIE;2;59;34 Montee Saint Eloi 69400 Porte des Pierres Dorées;69400;1962-01-23;faible;False;très élevée
+VIALIS;JEAN;1;64;50 Rue Simone de Beauvoir 69330 Meyzieu;69330;1956-12-26;modérée;True;très élevée
+VIALLON;RITCHIE;1;74;800 Route du Bourg 69210 Sourcieux-les-Mines;69210;1947-04-29;élevée;True;très élevée
+VIATOUR;JASMINE;2;32;166 Chemin du Massacrier 69620 Sainte-Paule;69620;1989-02-09;faible;False;normale
+VIEIRA TEIXEIRA;AMÉLIE;2;47;11 Rue de Bourgogne 69800 Saint-Priest;69800;1974-05-24;modérée;False;très élevée
+VIEVILLE;MÉLINA;2;55;916 Impasse du Pilon 69610 Montromant;69610;1965-08-20;élevée;False;élevée
+VILA ROURA;ADALINE;2;33;184 Chemin du Berthelier 69790 Propières;69790;1988-01-24;faible;True;normale
+VILCHEZ LIMACO;MICHEL;1;60;148 Rue de Créqui 69003 Lyon 3e Arrondissement;69003;1961-01-27;modérée;False;normale
+VINCENT;DOMINIQUE;1;22;10 Rue Gustave Flaubert 69120 Vaulx-en-Velin;69120;1998-09-05;modérée;True;normale
+VINCENT;NOREDINE;1;28;449 Route de la Chapelle 69840 Jullié;69840;1992-08-22;modérée;False;normale
+VION;YOHANN;1;55;1753 Route de Chervolin 69610 Montromant;69610;1966-06-02;modérée;True;élevée
+VITRE;DAVID;1;65;70 Rue Saint Maurice 69008 Lyon 8e Arrondissement;69008;1956-07-23;élevée;True;très élevée
+VOILLOT;AMBRE;2;56;37 Rue Saint Simon 69009 Lyon 9e Arrondissement;69009;1965-05-25;modérée;False;élevée
+VONGKOTH;PHILIPPE;1;25;1 Impasse du Progrès 69100 Villeurbanne;69100;1996-04-18;modérée;True;normale
+VORGEAT;JOHANN;1;50;2300 Route du Col 69870 Saint-Cyr-le-Chatoux;69870;1970-09-03;modérée;True;normale
+VUILLEQUEZ;VANESSA;2;65;44 Rue Ferrandière 69002 Lyon 2e Arrondissement;69002;1956-08-17;modérée;True;très élevée
+WAHL;DIDIER;1;40;84 Rue du Blason 69870 Saint-Cyr-le-Chatoux;69870;1980-08-21;modérée;False;normale
+WALME;CAMILLE;2;51;4 Les Terres 69470 Ranchal;69470;1970-01-19;modérée;True;normale
+WALTHER;RÉMI;1;61;35 Route des Roches 69115 Chiroubles;69115;1960-03-04;modérée;True;normale
+WANAS;SOPHIE;2;66;333 Rue des Blouzes 69840 Émeringes;69840;1955-05-18;élevée;False;élevée
+WATIN;NOAH;1;56;166 Route des Echarmeaux 69790 Propières;69790;1965-02-03;modérée;False;élevée
+WEBER;CARMELA;2;21;25 Rue Louis Dufit 69430 Marchampt;69430;1999-11-10;faible;True;normale
+WEBER;JEAN;1;72;58 Chemin de Propières 69115 Chiroubles;69115;1949-08-04;élevée;False;normale
+WENGER;SANDRINE;2;43;3 Rue Léopha 69780 Mions;69780;1978-05-19;modérée;False;normale
+WESTERDYK;OLIVIER;1;47;16 Rue Léo Lagrange 69190 Saint-Fons;69190;1974-07-14;modérée;False;normale
+WEYRIG;MARINE;2;64;68 Route des Genêts 69170 Affoux;69170;1956-11-18;modérée;True;normale
+WILL;SARAH;2;38;12 Rue Commandant Pégout 69008 Lyon 8e Arrondissement;69008;1982-11-02;faible;False;normale
+WILLAR;SÉVERINE;2;58;949 Route de Bonneton 69530 Orliénas;69530;1963-05-17;modérée;False;normale
+WILMET;ALLISON;2;68;26 Placette du Marduel 69620 Sainte-Paule;69620;1953-08-30;modérée;True;élevée
+WILMET;CHRISTINE;2;64;34 Rue Pélisson 69100 Villeurbanne;69100;1957-05-10;modérée;False;normale
+YAICI;MICKAEL;1;61;21 Rue Condorcet 69120 Vaulx-en-Velin;69120;1960-04-13;élevée;False;normale
+YAPO;JEREMIE;1;63;83 Rue des Blouzes 69840 Émeringes;69840;1958-04-06;élevée;False;normale
+YEPAO;MANON;2;67;6 Rue de la Ligne de l’Est 69100 Villeurbanne;69100;1953-09-27;modérée;True;élevée
+YILMAZ;NELLY;2;44;9 Rue Jeanne d’Arc 69110 Sainte-Foy-lès-Lyon;69110;1976-08-07;modérée;False;normale
+YOUSFI;SIMON;1;72;193 Allée des Bleuets 69250 Montanay;69250;1949-06-01;modérée;True;normale
+ZAHEM;JULIE;2;54;195 Route des Tuilieres 69620 Bagnols;69620;1967-03-15;modérée;False;élevée
+ZARIF;FRÉDÉRIC;1;70;8 Impasse de Margnolles 69300 Caluire-et-Cuire;69300;1951-06-25;faible;False;élevée
+ZEHIA;SYLVIANE;2;41;8 Rue Carnot 69200 Vénissieux;69200;1979-09-26;faible;False;normale
+ZEROUATI;CHRISTIAN;1;72;19 Rue Albert Falsan 69009 Lyon 9e Arrondissement;69009;1949-03-11;modérée;True;élevée
+ZOUANIA;SEVERINE;2;30;5 Rue Guy 69003 Lyon 3e Arrondissement;69003;1990-08-25;faible;True;normale
+ZRIHEN;MARGAUX;2;37;99 Chemin de Ronde 69440 Riverie;69440;1984-06-05;modérée;False;normale

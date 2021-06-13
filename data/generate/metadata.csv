@@ -1,0 +1,9 @@
+filename;url;is_data_file
+activite_physique.csv;http://beh.santepubliquefrance.fr/beh/2020/15/pdf/2020_15_1.pdf;False
+adresses-69.csv;https://adresse.data.gouv.fr/data/ban/adresses/latest/csv/adresses-69.csv.gz;True
+Communes.csv;https://www.insee.fr/fr/statistiques/4989724?sommaire=4989761#consulter;True
+consommation_alcool.csv;https://www.santepubliquefrance.fr/content/download/186856/2320278;False
+demo-pop-pyram.xlsx;https://www.insee.fr/fr/statistiques/fichier/2381472/demo-pop-pyram.xlsx;True
+nat2019_csv.zip;https://www.insee.fr/fr/statistiques/fichier/2540004/nat2019_csv.zip;True
+patronymes.csv;https://static.data.gouv.fr/resources/liste-de-prenoms-et-patronymes/20181014-162921/patronymes.csv;True
+prevalence_hta.csv;https://www.ameli.fr/fileadmin/user_upload/documents/Effectifs_par_pathologie_et_par_classe_d_age_selon_le_sexe_en_2018.xls;True

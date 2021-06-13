@@ -15,8 +15,9 @@ setup(
     long_description_content_type='text/markdown',
     author='abetraou',
     packages=['anonymity'],
-    install_requires=['numpy==1.20.2', 'pandas==1.2.4', 'requests', 'openpyxl', 'matplotlib'],
+    install_requires=['numpy==1.20.2', 'pandas==1.2.4', 'python-dp', 'matplotlib'],
     extras_require={
+	"data": ['requests', 'openpyxl'],
         "notebook": ['jupyter', 'seaborn'],
         "docs": ['sphinx', 'sphinx-rtd-theme', 'numpydoc']
     }
